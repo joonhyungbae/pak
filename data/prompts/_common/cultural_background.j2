@@ -1,0 +1,17 @@
+{# cultural_background — 출신, 가정 환경, 데뷔 이전 배경 #}
+{%- set debut_age = age - career_years -%}
+{%- if debut_age >= 40 -%}
+{{ art_field_primary }} 분야 {{ sex }} {{ age }}세 예술인의 출신, 가정 환경, 그리고 예술 데뷔({{ debut_age }}세 무렵) 이전의 다른 직업·생활 배경과 데뷔 시점에 {{ art_field_primary }}(으)로 전환하게 된 계기를 100-200자로 묘사.
+
+활동 지역 {{ province }}와 다른 곳에서 자랐을 가능성도 고려. 학력 {{ education_level }}이라는 정보도 자연스럽게 반영.
+
+데뷔는 {{ debut_age }}세 무렵이며 경력은 {{ career_years }}년. "어린 시절부터 {{ art_field_primary }}에 종사", "학교 졸업 후 곧바로 {{ art_field_primary }} 시작", "대학에서 {{ art_field_primary }} 전공 후 진출" 등 데뷔 이전부터 직업적으로 활동했던 것처럼 보이는 표현은 사용하지 말 것 — 실제 데뷔는 {{ debut_age }}세이므로 그 이전 직업·생활 배경(예: 다른 일을 하다가 전환, 늦깎이 입문, 가족·생활 경험을 거쳐 도달 등)이 중심.
+
+3인칭. 추상적·구조적. 실존 인물·학교명 비참조. 클리셰 금지.
+{%- else -%}
+{{ art_field_primary }} 분야 {{ sex }} {{ age }}세 예술인의 출신, 가정 환경, 어린 시절 예술과의 첫 접촉을 100-200자로 묘사.
+
+활동 지역 {{ province }}와 다른 곳에서 자랐을 가능성도 고려. 학력 {{ education_level }}이라는 정보도 자연스럽게 반영.
+
+3인칭. 추상적·구조적. 실존 인물·학교명 비참조. 클리셰 금지.
+{%- endif %}

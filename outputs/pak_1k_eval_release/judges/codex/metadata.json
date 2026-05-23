@@ -1,0 +1,21 @@
+{
+  "annotator": "codex",
+  "display_name": "Codex 5.5",
+  "provider": "OpenAI",
+  "model": "Codex 5.5",
+  "api": "Codex CLI",
+  "source_path": "judges/codex/scores.json",
+  "source_note": "Clean release package. Original raw run folder removed after consolidation.",
+  "n_personas": 1000,
+  "dimensions": [
+    "groundedness",
+    "coherence",
+    "plausibility",
+    "fluency"
+  ],
+  "files": {
+    "scores_wide": "scores.json",
+    "scores_long": "scores_long.jsonl",
+    "overall_flags": "overall_flags.jsonl"
+  }
+}

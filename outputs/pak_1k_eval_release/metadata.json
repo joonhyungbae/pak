@@ -1,0 +1,79 @@
+{
+  "generated_at": "2026-05-23T06:19:44",
+  "n_reference_personas": 1000,
+  "human_source_path": "data/eval/human_scores_260520.csv",
+  "human_reference_note": "`human_anonymous` is the release label for the single human reference annotation.",
+  "human_amendment_path": "data/eval/human_scores_260520_amendments_260521.csv",
+  "human_amendment_count": 4,
+  "sample_personas_path": "sample_personas.csv",
+  "calibration_anchors_path": "calibration_anchors.csv",
+  "schema_path": "schema.json",
+  "data_card_path": "DATA_CARD.md",
+  "manifest_path": "MANIFEST.sha256",
+  "license": "CC-BY-4.0",
+  "score_scale": {
+    "min": 1,
+    "max": 5,
+    "dimensions": [
+      "groundedness",
+      "coherence",
+      "plausibility",
+      "fluency"
+    ]
+  },
+  "preregistration": {
+    "path": "preregistration.md",
+    "canonical_note": "No same-rater retest is part of the current PAK-1K-eval plan.",
+    "latest_correction_date": "2026-05-21"
+  },
+  "dimensions": [
+    "groundedness",
+    "coherence",
+    "plausibility",
+    "fluency"
+  ],
+  "annotators": [
+    "human_anonymous",
+    "claude",
+    "gemini",
+    "clova",
+    "codex"
+  ],
+  "judge_metadata": {
+    "claude": {
+      "display_name": "Claude Opus 4.7",
+      "provider": "Anthropic",
+      "model": "Claude Opus 4.7",
+      "api": "Anthropic Claude API"
+    },
+    "gemini": {
+      "display_name": "Gemini 2.5 Pro",
+      "provider": "Google",
+      "model": "Gemini 2.5 Pro",
+      "api": "Google Gemini API"
+    },
+    "clova": {
+      "display_name": "HyperCLOVA X HCX-007",
+      "provider": "NAVER Cloud",
+      "model": "HyperCLOVA X HCX-007",
+      "api": "NAVER Cloud CLOVA Studio Chat Completions v3"
+    },
+    "codex": {
+      "display_name": "Codex 5.5",
+      "provider": "OpenAI",
+      "model": "Codex 5.5",
+      "api": "Codex CLI"
+    }
+  },
+  "probes": {
+    "qwen3": {
+      "display_name": "qwen3 30B (generator self-preference probe)",
+      "provider": "Alibaba",
+      "model": "qwen3:30b-a3b",
+      "api": "Ollama native (local)",
+      "role": "Generator-family self-preference probe. Reported against the Claude-Gemini panel, not a panel member. Some dimension scores are null from parse failures.",
+      "panel_member": false,
+      "in_annotations_csv": false
+    }
+  }
+}

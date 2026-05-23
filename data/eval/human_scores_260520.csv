@@ -1,0 +1,1001 @@
+pak_uuid,order_index,batch_id,rater,groundedness,coherence,plausibility,fluency,flags
+5289edca-496e-4c0e-995d-bb221f029ef8,0,1,Anonymous,5,5,3,3,plausibility: 45세 데뷔 후 국공립 교향악단 객원 지휘 경력은 추가 설명 필요
+34cd4f71-1e4d-4c72-89e7-d78fe41b59ca,1,1,Anonymous,4,4,4,4,plausibility: 전업 수필가의 생계 기반 설명이 다소 부족함
+2f590a6d-e721-41d5-951f-ceeddc35bd79,2,1,Anonymous,5,5,4,3,
+8c47fe9e-6191-450a-9bbb-9f878b6bda1c,3,1,Anonymous,5,5,3,3,plausibility: 개인 예술소득이 가구소득보다 높게 제시됨
+25c5d682-8802-4007-8864-7e9bd8e82b1d,4,1,Anonymous,3,4,2,4,groundedness: career_years=0 대비 주도 경험 서술이 다소 과함; coherence: 배우자 언급이 단독으로 등장함; plausibility: 경력 0년 프리랜서 예술행정 겸업자의 개인 예술수입 6천만원 이상이 비현실적; fluency: 상투적 지원사업 표현 일부
+eea8d1b9-ada6-4344-a5f0-c8d146b5c68f,5,1,Anonymous,5,5,4,4,
+91dc8ce9-d0d9-4e59-9934-97b71144323f,6,1,Anonymous,2,5,2,3,"groundedness: 예술 개인소득 없음인데 기고·독립출판·강연 수입 언급; plausibility: 예술소득 없음과 기고·강연 수입 서술 충돌, 무학 평론가 경로 설명 부족; fluency: education_level이 무학인데 skills_and_expertise에 '디지털 도구'와 '외주 강의'가 다소 튀지만 fluency 평가는 아님"
+6023a0a9-ef47-4217-9df5-d142bdbcb3a8,7,1,Anonymous,4,4,4,3,coherence: 복귀 흐름 언급의 배경이 narrative 내부에서 충분히 설명되지 않음; plausibility: 경력단절 경험이 서사에 구체적으로 드러나지 않음
+21c29c6b-1292-4ca1-94e9-c2b90eb2f04b,8,1,Anonymous,5,4,3,3,coherence: 89세 인물의 10년 후 목표가 다소 부자연스러움; plausibility: 89세에서 10년 후 장기 목표가 다소 과도함; fluency: 조사 오류: '확인를'
+d9166fec-d386-45d7-8ef5-63ec7a5cda49,9,1,Anonymous,5,4,2,3,coherence: 공원 벤치에서 작품 감상 표현이 다소 부자연스러움; plausibility: 26년 차 전업·비엔날레/아트페어 참여인데 예술소득 없음; fluency: hobbies_and_interests 템플릿식 문장
+6102b856-59f2-4909-8453-5cf744ea540d,10,1,Anonymous,4,5,4,3,fluency: 비표준 표현: '쉬킨다'
+24ef2b45-9051-466f-a81e-32bd2c415498,11,1,Anonymous,5,5,2,4,plausibility: 중졸 18세 데뷔 판화 경력과 아트페어 활동의 연결 설명이 부족함
+0bde7766-4518-4bdf-a8f8-4ba6ee06728b,12,1,Anonymous,4,4,2,4,coherence: 성장 지역과 현재 지역 맥락이 다소 흐림; plausibility: 개인 예술소득이 가구소득보다 높음; 계약 경험 없음과 갤러리 협업도 어색
+fcbba2f4-c74c-4761-b930-1efa4f2140e8,13,1,Anonymous,5,5,5,3,fluency: 조사 오류 '산책를' 및 AI식 취미 설명
+5fe55625-07fa-46f8-92d9-cd72de3c1f6d,14,1,Anonymous,5,4,3,4,coherence: 예술 향유 장소 묘사가 다소 산만함; plausibility: 주요 수입원이라고 하면서 예술소득 5백만원 미만인 전업 설정
+fd16d80c-1414-42ce-9a12-0fc693dc5e4e,15,1,Anonymous,5,4,4,3,coherence: 일부 취미/생활 문장이 부자연스러움; fluency: arts_persona의 '인천 근린 시장에서 사는 아침' 표현 이상
+69780240-15b5-4141-a2c5-99a07a3604d3,16,1,Anonymous,3,3,2,3,groundedness: sports_persona의 '70대 초반'이 age=88과 불일치; coherence: sports_persona의 70대 초반 언급이 88세 설정과 충돌; plausibility: 나이 서술 불일치 및 88세 전업 인디 싱어송라이터 활동의 희소성; fluency: sports_persona의 '70대 초반'은 88세와 불일치함
+118ccf32-4f0f-418b-a69e-bdd572243a17,17,1,Anonymous,2,3,3,3,groundedness: 성악가에게 악기 관리비·협주곡 연주 서술이 부적절함; coherence: 성악가인데 악기 관리비·협주곡 표현이 어색함; plausibility: 성악가에게 악기 관리비·협주곡 연주 표현이 부정확함; fluency: 성악가인데 '악기 관리비'가 반복되어 직업 맥락상 어색함
+e47bd5f4-8db1-47ff-9127-d5e3c8163c8a,18,1,Anonymous,5,5,3,4,plausibility: 전업이면서 비프리랜서인 고용 형태와 낮은 수입의 설명 부족
+ce95946c-138e-406c-bc87-ec94ea49c79f,19,1,Anonymous,5,5,3,3,plausibility: 방송 경력·매니지먼트 활동 대비 예술소득이 낮음; fluency: 조사 누락 및 템플릿식 표현
+70eddb24-d8b8-4623-9607-e2df5b95371d,20,1,Anonymous,5,4,4,3,coherence: 매일 아침 루틴이 독립서점과 핸드드립으로 다소 중복됨
+96a18b2f-c97d-4737-9823-51e5cc60d1bb,21,1,Anonymous,5,4,3,4,coherence: 해외 경험을 실제 경험인지 계획인지 모호하게 서술; plausibility: 해외경험과 위촉작·협주곡 활동 대비 예술수입이 매우 낮음; fluency: 일부 일반적·추상적 문장
+83d7f265-b1a2-4c59-852e-20b2b6b401ac,22,1,Anonymous,4,4,4,2,coherence: cultural_background 문장 구조가 어색함; fluency: 여러 필드가 마침표 없이 길게 이어져 문장 호흡이 부자연스러움.
+7fb9a143-ec57-4e91-963b-e15c99117d13,23,1,Anonymous,2,4,3,4,groundedness: 전업 소설가인데 강의 수입을 생활비 원천으로 쓰고 수필·시집 활동이 중심처럼 서술됨; coherence: 소설가인데 시집 출간과 수필 기고가 중심적으로 언급됨; plausibility: 소설가의 시집 출간 표현과 저작권 없음이 부자연스러움
+f47c3d35-f22e-4c9c-9cf7-985fcda9e7a2,24,1,Anonymous,5,5,3,4,plausibility: 16세 데뷔와 대학 시절 본격 창작 서사가 맞지 않음
+5898a63d-8df1-4f21-8d0c-758751b9efd2,25,1,Anonymous,5,5,4,3,
+9a90e6fb-ec82-46ae-a2f4-5307e0a15a65,26,1,Anonymous,5,4,4,3,coherence: 카페에서 영화 감상 표현이 다소 어색함; fluency: 일반적 AI식 표현
+c7bc6d18-f0c7-4eca-826b-9110432c375d,27,1,Anonymous,3,4,3,3,groundedness: 소설가인데 시집 출간을 주요 활동으로 언급; coherence: 소설가인데 시집 출간이 함께 언급되어 장르가 약간 혼재됨; plausibility: 소설가 설정에 시집 출간이 섞이고 강연 활동 대비 소득 없음이 다소 어색; fluency: 소설가인데 professional_persona에 '시집' 출간 언급
+ba1c0483-ecac-40bb-8f21-6baf4d53d50d,28,1,Anonymous,5,5,4,4,plausibility: 22년 경력인데 예술 개인수입 없음은 설명이 더 있으면 좋음
+9c5c5d89-5f38-41fe-8203-e60ae22b1a49,29,1,Anonymous,5,5,4,4,
+20d3a596-fa18-40fc-8bb6-695e720c595d,30,1,Anonymous,3,5,4,3,groundedness: 예술 개인소득 없음·경력 0년인데 원고료와 강의 수입을 생활비로 계획한다고 서술됨; plausibility: 0년 차 신인에게 단행본 준비가 다소 빠름; fluency: 일부 추상적 표현과 번역투가 보임
+16e33111-c4fe-4ad6-941e-853624eeddb9,31,1,Anonymous,5,4,3,3,coherence: 설치미술에 '화면의 밀도' 표현 다소 부적합; plausibility: 86세 2년 차 신진 설치미술 작가의 아트페어 진입은 드문 편; fluency: 설치미술인데 '화면의 밀도' 표현이 다소 어색함.
+7f513b42-559a-4e2a-aad2-26e56101e5a1,32,1,Anonymous,2,4,3,3,groundedness: 77세를 70대 초반으로 표현하고 예술소득 없음인데 외주 수익 확장을 언급함; coherence: 나이 표현이 77세와 70대 초반으로 약간 불일치; plausibility: 예술소득 없음과 레지던시·갤러리 협업·외주 수익 언급이 충돌 가능; fluency: 나이 불일치 표현: 77세인데 '70대 초반'
+fe402203-8ec1-4e2d-85dd-476cb9a06242,33,1,Anonymous,4,3,4,3,coherence: 자녀가 있는 가정과 자취 생활 설정 충돌; fluency: 문체 혼용
+bae48721-7d35-4fe2-b355-26b971267295,34,1,Anonymous,2,4,3,4,groundedness: career_years=0인데 레이블 계약·음원 발매·공연 병행 서술이 과함; coherence: 신진 작곡가에게 재진입형 지원 언급이 다소 부자연스러움; plausibility: 경력 0년 대비 계약·공연 활동이 다소 빠름; fluency: 일부 추상적이고 상투적인 표현
+0aaa77ee-0349-4ad9-8cef-c0cb32e7becc,35,1,Anonymous,3,3,2,3,"groundedness: 성악가에게 작곡가처럼 위촉작 발표를 부여하고, 성악가인데 악기 관리비를 언급해 직업 앵커와 약한 불일치가 있음; coherence: 성악가인데 위촉작 발표와 협주곡 중심 서술이 직업 정체성과 다소 충돌; plausibility: 성악가에게 악기 관리비 언급, 예술소득 없음 대비 위촉작·협연 규모 과대"
+0083000b-aa89-4b55-b666-baadd5302170,36,1,Anonymous,5,4,4,4,coherence: 네트워크 서술이 구체 협업 대상보다 직군 반복에 가까움
+c6d823d6-c56f-491f-9e26-ff6bb9719a05,37,1,Anonymous,5,5,4,4,fluency: 어색한 표현: '미신청으로 선택'
+ba986901-b12e-45ae-857b-2877cc6dd4e1,38,1,Anonymous,4,2,2,4,coherence: 32세 17년 차와 대학 졸업 후 전향 서사가 양립하기 어려움; plausibility: 15세 데뷔·17년 경력과 대학 졸업 후 극작가 전향 서술 충돌; fluency: 동시에 걷고 커피를 내리는 듯한 문장 연결이 어색함
+440b756e-1111-44aa-af7e-e695aa80ce0b,39,1,Anonymous,4,5,4,4,
+de340243-85eb-4fdf-82cd-a8026077721d,40,1,Anonymous,5,5,4,4,
+928e3d4a-6344-426d-9698-b0e0e44d794e,41,1,Anonymous,5,5,3,2,plausibility: 개인 예술소득이 가구소득보다 큰 수입 구간 불일치
+f40ceb25-0cef-4b40-84a3-a07c1239f4df,42,1,Anonymous,5,5,4,4,
+a630a7ef-c832-42f9-8b3e-2b52d6d54663,43,1,Anonymous,5,5,4,4,
+24be2ed9-99c4-46d3-b57d-9b6605183052,44,1,Anonymous,4,4,2,3,groundedness: 15세 데뷔가 서사에서 구체적으로 뒷받침되지는 않음; coherence: 33세 18년 경력 판화가 설정은 이른 데뷔를 전제로 해 다소 특이함; plausibility: 15세 판화 데뷔와 18년 경력이 학력·전시 경로와 충돌; fluency: creative_world_persona와 travel_persona에 '흔적' 표현이 다소 과잉 반복됨
+2d575e1a-d0da-4c02-a9f6-8f1a48184af3,45,1,Anonymous,5,5,3,4,plausibility: 88세 전업 파인아트 사진가의 활동량·가구소득 설명 부족
+dcbefe57-9e99-4273-94a6-c2276a4d5598,46,1,Anonymous,5,4,4,2,coherence: family_persona가 가족 서사보다 친구 관계 중심; fluency: 취미 요소가 여러 필드에서 맥락 없이 섞인 느낌이 있음
+6dd3e4e0-77ea-4b22-b42b-afc3e6452606,47,1,Anonymous,4,4,3,4,coherence: 식사 서술이 빨래·음악 감상과 섞여 조금 부자연스러움; plausibility: 어린 전업 세션 연주자와 높은 가구소득 배경 설명 부족
+eb8e0684-798a-48d6-9596-13b3f7f3760d,48,1,Anonymous,4,4,2,4,plausibility: 계약·프로젝트 수입 활동과 예술소득 없음 및 저작권 없음이 충돌
+ddd190f0-a3bc-407a-a905-4d2cd1cee49c,49,1,Anonymous,4,4,3,3,plausibility: 장기 전업 음악 프로듀서의 매우 낮은 수입과 저작권 없음; fluency: hobbies_and_interests에 '방문를' 조사 오류
+6583453d-e905-4ca2-b9f1-986367fafcb4,50,1,Anonymous,2,5,1,4,"groundedness: 예술 개인소득 없음·계약 경험 없음인데 브랜드 협업과 프로젝트 확보 언급; plausibility: 90세 전업 광고 사진가, 예술소득 없음, 브랜드 협업 조합이 매우 비현실적"
+12ebc56c-cd8e-4ce3-afb4-d40cab944e5e,51,1,Anonymous,5,4,4,4,coherence: 배우가 캐스팅 참여와 연출 역할 확대를 한다는 설정이 약간 역할 혼재됨
+12192783-7224-4990-98a6-31a476b3c5c1,52,1,Anonymous,4,4,3,3,groundedness: 지원 신청과 미신청 결정이 한 문장 안에서 혼재됨; coherence: 지원사업 신청 여부가 신청/미신청으로 충돌; plausibility: 정악·판소리·창작국악 위촉까지 활동 범위가 다소 넓음; fluency: support_persona에서 신청과 미신청 결정이 한 문장 안에 충돌
+e7b7c4b6-fb4b-42d7-97f9-7b9ff1ef1cba,53,1,Anonymous,5,5,5,5,
+591c1649-bb11-4716-8d6a-a810df43f2e3,54,1,Anonymous,3,3,3,3,groundedness: 경력단절 앵커가 있으나 복귀 맥락이 구체적으로 설명되지 않음; coherence: 방송작가와 방송 출연자 요소가 혼재; plausibility: 방송작가 서사에 출연자형 의상 준비·촬영 후 회복 묘사가 섞임; fluency: 다른 항목들과 달리 높임말 문체가 지속되어 다소 부자연스러움
+989bf89c-8761-4da3-ab78-404d7cc3d95a,55,1,Anonymous,3,3,3,3,groundedness: 성악가 서사에 악기 관리비가 반복됨; coherence: 성악가에게 악기 관리비를 핵심 지출로 둔 점이 어색함; plausibility: 성악가에게 악기 관리비 표현 부자연; fluency: 성악가에게 '악기 관리비' 표현이 부적절함
+912ccffc-c82b-4b52-9115-0aa1c0f86f84,56,1,Anonymous,5,5,3,3,plausibility: 출연료 안정화 서사 대비 예술소득 5백만원 미만; fluency: 생활 리듬/일상 리듬 표현이 여러 필드에서 반복됨
+b062ca78-95e5-4201-9d11-1fb1803b3fa3,57,1,Anonymous,5,5,3,4,plausibility: 25년 극작 경력인데 저작권 없음·예술소득 없음
+db25c085-3053-48e5-abdf-8f2b051d61cd,58,1,Anonymous,5,5,4,4,
+8d52e92f-328a-4243-9943-cabb2b332f1a,59,1,Anonymous,2,4,3,4,groundedness: 경력 0년인데 세션 경험과 음원 수익원이 이미 확립된 것처럼 서술; plausibility: 경력 0년 대비 세션 경험·음원 수익 서사가 과도함
+ea5296bc-c622-41f2-9184-55806bf6f54c,60,1,Anonymous,5,5,4,3,
+469a75ad-4df8-402d-ae53-26db8cba3944,61,1,Anonymous,4,3,3,2,"coherence: 정규 앨범 발매 여부가 현재 성취와 미래 목표로 중복됨; plausibility: 비프리랜서 세션 연주자, 해외 경험, 정규 앨범 발매의 연결 설명이 부족함; fluency: professional_persona의 '인과입니다'는 서술 맥락상 매우 부자연스러운 표현"
+08eba0bc-7489-4bd9-a7a5-6e7016a61e30,62,1,Anonymous,4,3,3,2,coherence: 무대미술가 서사에 분장 준비와 식재료 기록이 과도하게 섞여 역할이 흔들림; plausibility: 10년 차 무대미술가의 예술소득 없음 설명 부족; fluency: 근린 시장·계절 식재료·스트레칭 문장이 여러 필드에 부자연스럽게 반복됨
+7622ddc2-1f9c-4d6e-9bb8-5e5109aaccdb,63,1,Anonymous,2,4,2,4,groundedness: 예술 개인소득 없음인데 프로젝트 수입을 생활비로 계획한다고 서술; coherence: 자취 생활과 배우자 관계의 생활 맥락이 약간 불명확함; plausibility: 전업 세션 연주자 활동 서술과 예술 개인소득 없음의 충돌
+ecbd6997-d93a-482c-b524-641dc647a456,64,1,Anonymous,4,4,3,3,"coherence: 가족과 시간을 조율하는 55세 인물에게 '자취 생활' 표현이 약간 뜬금없음; plausibility: 원고료·강의 수입 서술과 개인 예술소득 없음이 불일치; fluency: ""동네 시장 산책를"" 조사 오류"
+e9eff124-d002-4fd4-ab31-e407cf52a1ad,65,1,Anonymous,5,4,4,4,coherence: 미술 전공 시점과 51세 전환 서사가 약간 모호함
+687fbddc-5d17-427e-b604-5e29b2a7d463,66,1,Anonymous,4,4,2,3,coherence: 조각 작업 서사에 ‘화면의 밀도’라는 회화적 표현이 섞임; plausibility: 22세 조각가의 7년 경력·레지던시·개인전 과다; fluency: 조각 작업에 '화면의 밀도' 표현이 어색함.
+9ae4639a-9d0d-4a65-b4cc-91059c73c2de,67,1,Anonymous,5,5,5,3,fluency: 추상적 AI식 표현 다소 있음
+90707ee4-5b0c-4161-8358-7a3258dbcbce,68,1,Anonymous,5,5,3,3,plausibility: 고가구소득과 저예술소득의 배경 설명 부족
+10ecb2c4-94ad-49c8-b9ef-264bdb5bdc1e,69,1,Anonymous,5,5,3,4,plausibility: OTT 제작 언급 대비 소득 수준 낮음
+4cf488cb-e075-4626-af54-57519d190a3e,70,1,Anonymous,3,5,4,4,groundedness: 전업·부업 없음인데 강의 활동 언급; plausibility: 미술 강의 능력 언급이 전업·부업 없음과 약간 어긋남
+f1aec644-80a1-42d1-b1e8-0927f76a7958,71,1,Anonymous,4,5,3,3,plausibility: 예술소득 없음과 아트페어·갤러리 계약·작품집 발간 활동의 연결 설명 부족
+89253eb5-3793-4cad-877d-827a936c886f,72,1,Anonymous,2,4,2,4,groundedness: 예술소득 없음·부업 없음인데 원고료와 강의 수입을 생활비로 계획한다고 서술; coherence: 강의 수입 언급의 맥락이 약함; plausibility: 47년 전업 번역가의 예술소득 없음 및 계약 경험 없음이 부자연스러움
+714a2260-c586-4fb6-a8ec-591cf6681bbc,73,1,Anonymous,3,4,2,3,"groundedness: 계약 경험 없음인데 갤러리와의 계약을 반복 서술; plausibility: 예술소득 없음·저가구소득인데 갤러리 계약, 레지던시, 전시 주도 묘사가 과함; fluency: 추상적 AI 표현과 딱딱한 존댓말 문체"
+f7b78d39-6696-4cfc-99e3-49deefce4ec6,74,1,Anonymous,5,4,3,3,plausibility: 초등학교 학력의 고소득 장기 MC 설정은 가능하나 배경 설명이 부족함
+aee102e6-931c-48e4-8267-4f956242bb78,75,1,Anonymous,2,4,2,4,정기공연·전수교육·위촉 공연과 무소득/무계약 충돌
+9a24dff8-ffd1-4739-9f9f-edfb1cf111f9,76,1,Anonymous,2,3,2,3,"groundedness: 방송작가인데 출연료·출연 간격·방송 출연 호흡 등 출연자 앵커처럼 서술됨; coherence: 방송작가와 방송 출연자 역할 표현이 혼재됨; plausibility: 방송작가와 방송 출연자 서술 혼재, 개인소득이 가구소득보다 큼; fluency: 상투적 추상 표현이 몇 군데 있음"
+3ad397bd-f79a-4592-b5eb-8bde6cbc5fc5,77,1,Anonymous,3,3,3,3,groundedness: 예술 개인소득 없음인데 연주 수입을 전제로 함; coherence: 지휘자 설정에 위촉 작곡과 악기 보관이 어색함; plausibility: 1년차 전업 지휘자의 협연·위촉작 규모가 약간 과장됨
+7a4c259f-7b37-4316-8a69-383d8f188c4e,78,1,Anonymous,5,4,2,3,coherence: network_persona에 네트워크가 아닌 예술 감상 활동이 섞임; plausibility: 1년 차 20세 연극 연출가의 높은 개인 예술소득이 비현실적
+0d3abbd5-25e4-4efb-9916-a504c30d7f45,79,1,Anonymous,4,4,3,3,coherence: 기타 지역이라는 표현이 지역 서사로 어색함; plausibility: 지역 정보가 '기타'로 불명확하고 일부 문장이 템플릿처럼 어색함; fluency: sports_persona와 travel_persona에 문맥상 부자연스러운 표현이 있음
+750fc5f4-8bf1-428a-a36b-2f42eeb3fa7d,80,1,Anonymous,5,5,3,4,plausibility: 36년차 전업 광고 사진가인데 계약 경험 없음과 낮은 소득 설명 부족
+39f75b23-d16e-4498-9793-fd85e1b2dd3b,81,1,Anonymous,5,4,2,2,coherence: 학력 기반 취향 일반화 표현이 어색함; plausibility: 정규 방송 패널인데 예술수입 없음; fluency: 학력에 대한 '일반적인 취향' 표현이 이상함
+2319ce94-aa54-486f-89b4-dd5f4000433a,82,1,Anonymous,5,3,4,3,coherence: 신체 활동 서사가 등산과 볼링으로 불일치; fluency: '방문를' 조사 오류와 일부 반복적 표현
+bafd1b84-8ffc-4e77-a578-fb05bad56b3e,83,1,Anonymous,3,4,4,3,groundedness: 외국어 능력 서술은 정량 앵커 근거가 약함; coherence: 지원사업을 신청했으나 신청을 보류했다는 표현이 약간 모순적; plausibility: 전시·아트페어 참여와 예술수입 없음의 긴장
+0497a269-5d88-4e47-89b6-2aeb093c3904,84,1,Anonymous,3,4,3,3,groundedness: 작곡가인데 독주회·실내악 연주 활동이 중심처럼 서술됨; coherence: 작곡가와 연주자 활동 서술이 일부 혼재됨; fluency: 오탈자 또는 비문: '몸과 귀를 쉬운 후'
+5db6836b-c4fb-4347-95c8-fa73752eeb0a,85,1,Anonymous,3,4,3,4,groundedness: 경력 0년인데 데뷔 1년 차로 표현; coherence: 0년차 신작 준비와 '데뷔 1년 차'가 약간 불일치; plausibility: 0년 차 신인에게 단행본 출간 준비가 다소 빠름
+52fc9ba8-1d53-48bd-87c8-fd35c339636f,86,1,Anonymous,4,5,4,4,
+a5b78dd1-8d3f-478f-aa67-997f19b6e035,87,1,Anonymous,5,5,4,4,
+652fd4a2-2109-45f5-94f9-8c5bf28fc215,88,1,Anonymous,5,5,4,4,
+2a9083d0-59f6-4e5b-8dc1-d84735760d8e,89,1,Anonymous,3,3,3,4,groundedness: 성악가에게 악기 보관 서술이 어색함; coherence: 성악가 서사에 기악 중심 표현과 악기 보관 서술이 섞임; plausibility: 성악가에게 악기 보관·협주곡 중심 표현이 부정확함
+2b77715a-d7cf-48e8-8b20-2fcad5dcd9a9,90,1,Anonymous,5,5,3,4,plausibility: 개인 예술소득이 가구소득보다 높은 소득 구간 불일치; fluency: 어색한 표현: '경기 지역의 집밥'
+4e875de3-72a8-4cec-8f2a-95bc74bc1b26,91,1,Anonymous,5,5,4,3,plausibility: 기악 연주자에게 판소리 창 결합 비중이 다소 큼; fluency: 일부 문장에 추상적 반복과 어색한 조사 사용이 있음
+eb18e03a-08fc-41de-8861-cb385b041b23,92,1,Anonymous,4,5,4,5,
+6fbef965-ebe6-43dd-bee1-e3bfa886dcec,93,1,Anonymous,4,4,3,3,"plausibility: 대중음악 작곡가인데 저작권 없음, 예술수입 6천만원 이상은 설명 부족; fluency: 문체가 '-에서의' 구조와 반복적 일반화로 다소 AI스럽다"
+f76313ee-566b-46f0-88ee-7b7bb4cac391,94,1,Anonymous,4,5,4,3,
+d346b09f-c06f-4fd0-bd48-882b2374caf9,95,1,Anonymous,4,5,3,4,groundedness: 갤러리 전속 작업 언급은 계약 경험 없음과 다소 긴장됨; plausibility: 갤러리 전속·에디션 출판 활동 대비 예술소득 없음이 약간 어색함; fluency: 일부 목적어-서술어 호응 어색함
+c8846a42-c3e4-44de-96d2-fd18a6865702,96,1,Anonymous,2,5,3,4,groundedness: 예술 개인소득 없음인데 판매 수입이 비정기적이라고 서술함; plausibility: 전업 원로 조각가의 예술소득 없음과 계약경험 없음이 다소 어색함; fluency: cultural_background에서 '부모님은 중산층 가정에서 자랐으며'는 인물의 성장 배경을 말하려던 문장으로 보이나 주어가 어색함
+9a714c50-95dc-4e22-9df1-33c78d7f35d0,97,1,Anonymous,2,5,3,3,groundedness: 예술 개인소득 없음과 프로젝트 수입 의존 서술 충돌; plausibility: 장기 싱어송라이터인데 저작권 보유 없음과 예술수입 없음이 부자연스러움; fluency: 어색한 메타 표현: '30-40년 미만의 단계'
+0f741a87-ccc4-41a1-9921-722767b3e39b,98,1,Anonymous,4,4,4,4,coherence: 작곡가인데 일부 필드에서 연습·회복 표현이 연주자처럼 보임; fluency: 일부 작위적인 영감 서술.
+d615bcf7-8f01-4235-b0e3-c1dacbc11616,99,1,Anonymous,2,3,2,3,"groundedness: 학력 서술 혼재 및 낮은 예술소득 대비 활동 규모 과장 가능; coherence: 중학교 졸업 후 전문대학 진학 서술 모순, 42년간 음원 플랫폼 활동 시대감 어색; plausibility: 42년 차 대중음악 작곡가인데 저작권·계약 경험 없음; fluency: 반복 표현: '대중음악 작곡가(대중음악)'"
+b2cbb7df-bc66-43c7-8c56-b4fa460de7af,100,1,Anonymous,4,5,4,3,
+5ead0ef1-f334-4274-bc51-4c1ee83b8b0a,101,1,Anonymous,2,3,3,3,15세 데뷔와 대학원 졸업 후 진출 서술이 충돌
+f8bff73f-edf7-4d86-ba1b-4b04fc1b9983,102,1,Anonymous,4,3,2,3,groundedness: 기악 연주자인데 정가·시조 중심 서술이 다소 성악 영역처럼 보임; coherence: 기악 연주자 정체성과 정가·시조·사물놀이 설명이 다소 산만함; plausibility: 4년 차인데 전수자 지정·국립국악원 협업·위촉 공연·정기공연/독주회가 동시에 제시되어 과밀함; fluency: creative_world_persona 중복 표현
+92f16749-fc8c-4fea-9a25-bc324926f002,103,1,Anonymous,5,5,3,4,"plausibility: 활동 서사 대비 예술소득 없음, 60세에 정기 연주자 진입 목표는 다소 이례적"
+d25a2f42-0f3a-4373-b0f3-6b5f19302fa0,104,1,Anonymous,4,5,4,4,fluency: 약한 문맥 긴장
+b9cf109f-1653-47bf-bf85-ab5472f2f36e,105,1,Anonymous,3,4,3,3,groundedness: 부업 없음인데 강의 수입을 반복적으로 언급함; coherence: 평론가와 창작 출간 활동의 역할 구분이 약함; plausibility: 전업 신진 평론가의 강의 수입 기반 설명이 약함
+28a00c09-aff5-48a4-8b5b-cc46db7d1bb5,106,1,Anonymous,5,5,4,3,
+d46f3f87-0152-4cef-bb4a-f6d473a471c6,107,1,Anonymous,5,5,3,3,plausibility: 22년차 서울 영화 편집기사로는 소득 구간이 지나치게 낮음; fluency: 어색한 표현: '장시간 서성임을 보완'
+95281fee-c7d7-4b3a-9553-075dc85e1d22,108,1,Anonymous,4,5,3,4,plausibility: 장기 작곡가인데 저작권 없음과 예술소득 없음이 부자연스러움; fluency: 일부 추상적 표현
+9c4ac556-c2e9-41c6-90c2-e597777facc0,109,1,Anonymous,4,5,4,4,"fluency: ""작업 블록"" 같은 어색한 외래식 표현이 일부 있음"
+43d22fc9-5746-441b-ba2f-66a7f2d06f13,110,1,Anonymous,5,5,5,5,
+ecc59540-640d-48b9-85f8-10d1f56020ad,111,1,Anonymous,5,4,3,3,coherence: 조각가 서사에 '화면의 밀도' 표현이 다소 어색함; plausibility: 무학·예술소득 없음과 28년차 공공미술 협업 활동 사이의 경제적 지속 근거가 약함; fluency: 조각 작업 맥락에서 '화면의 밀도' 표현이 다소 부자연스러움
+008ae60f-60b1-4f62-9797-bbac4800134d,112,1,Anonymous,5,4,4,3,coherence: family_persona가 가족보다 친구 관계 중심으로 작성됨; fluency: family_persona가 가족보다 친구와 돌봄을 중심으로 서술되어 필드 기대와 약간 어긋남
+20613b88-4de1-4342-b091-181eac3c0a08,113,1,Anonymous,4,4,2,3,coherence: 85세에 건축가로 전환해 5-10년 목표를 세운 설정이 현실감은 낮음; plausibility: 85세에 건축가로 데뷔해 전업으로 장기 목표를 세운 설정이 매우 이례적
+ef1b60aa-9698-4e60-8054-8a0828ee3665,114,1,Anonymous,2,5,4,3,groundedness: 계약 경험 없음인데 갤러리와의 계약을 명시함; fluency: 카페에서 전시를 관람한다는 표현이 부자연스러움
+541cad6b-faa8-4a79-83bb-97d0fb39c486,115,1,Anonymous,5,5,3,4,plausibility: 프리랜서 예술행정 전업으로 개인 예술소득 6천만원 이상은 다소 높음
+3fa072a7-ffa9-439d-9284-f6689a859e1e,116,1,Anonymous,2,3,2,3,"groundedness: age=83인데 70대 초반으로 서술; coherence: 83세와 70대 초반의 나이 불일치; plausibility: 나이 서술 충돌: 83세 vs 70대 초반; 81세 광고사진 데뷔는 매우 이례적; fluency: quant age는 83세이나 sports_persona는 ""70대 초반""이라고 표현함"
+ac9a6cfe-a5a8-40fd-a2b4-0cc1ace4862f,117,1,Anonymous,4,4,3,4,coherence: 국제 무용가 소통의 맥락이 다소 돌출됨; plausibility: 개인 예술소득이 가구소득보다 높은 조합이 설명 없이 어색함
+833a16b2-19a9-4238-83d7-01dbc37bec69,118,1,Anonymous,5,5,4,4,
+5ae042a3-7bf1-4272-8b2f-68ced43b845f,119,1,Anonymous,5,5,4,4,plausibility: 82세 조각가의 필라테스 주 2회는 가능하지만 다소 적극적임
+eddc9f88-3075-4227-9c80-6a3c4aa74b1b,120,1,Anonymous,5,5,4,3,
+5cf3488d-d6bf-4911-8906-d4e426ada580,121,1,Anonymous,4,5,4,3,plausibility: has_contract_experience=false인데 professional_persona에 '지속적인 계약' 표현이 있음; fluency: 어색한 표현: '귀를 쉬킨다'.
+2caaa7d2-ff4d-4493-babf-78b16a02868f,122,1,Anonymous,5,4,4,2,"coherence: arts_persona에 예술 향유보다 생활 기록 내용이 섞임; fluency: AI식 추상 표현: '여정을 일상화', '자리매김했다'."
+e226cc0f-e4ad-499b-b0f6-0932e82b8ef2,123,1,Anonymous,5,4,4,4,plausibility: 전업인데 개인 예술소득 없음은 가구소득 의존 설명이 부족함
+17ca746a-f5b1-4910-88c8-a9414c1fe48c,124,1,Anonymous,4,4,2,3,"plausibility: 개인 예술수입이 가구소득보다 높고 비프리랜서 겸업 구조 불명확; fluency: culinary_persona의 '주로 배달 음식을 주로 먹으며'는 중복 표현이고, '기타 지역의 전통 음식'은 지역명이 아니라 어색함"
+bbac591e-0e2e-4f52-9c09-a0d8c9fc733b,125,1,Anonymous,4,4,3,3,coherence: 53세 26년 경력자에게 '신진 음악가 지원' 표현이 부자연스러움; plausibility: 26년 경력 53세에게 신진 음악가 지원 공고는 부적절함; fluency: 일부 추상적 AI 표현
+4b52b01c-73f1-4cb6-8a6b-48ba3d324f67,126,1,Anonymous,3,3,3,3,groundedness: 성악가에게 악기 보관·협주곡 표현이 다소 어색하며 예술소득 없음 대비 활동 서술이 풍부함; coherence: 성악가에게 '협주곡 연주' 표현이 부자연스러움; plausibility: 성악가인데 악기 보관·악기 관리비 서술이 반복됨; fluency: AI식 결론 문장이 일부 반복됨
+caef4ca9-febf-405e-b237-6f13d00d33ff,127,1,Anonymous,4,4,3,3,coherence: family_persona 표현이 가족 관계 필드로는 다소 부자연스러움; plausibility: 83세에 10년 후 목표와 겸업 생계 활동은 설명 없이는 다소 무리 있음; fluency: family_persona의 '가족과 함께하지 않아' 의미가 불명확함
+b4b84017-6d63-4f76-bc1a-bd04b5018c38,128,1,Anonymous,5,5,4,4,plausibility: 워크숍 강의 수입 분류가 모호함
+69d808a8-3626-47d0-9514-146efcc80448,129,1,Anonymous,5,4,4,3,coherence: sports_persona 문장 표현이 부자연스러움; plausibility: 싱어송라이터인데 저작권 없음은 약간 어색함; fluency: sports_persona 문장 연결이 어색함
+ec8423fa-87e1-4200-88bf-1680d956bad8,130,1,Anonymous,3,3,3,3,"groundedness: 방송작가인데 출연자처럼 '출연 간격', '방송 출연 전후'를 언급함; coherence: 방송작가인데 출연자처럼 묘사되는 부분이 있음; plausibility: 2년차 방송작가가 출연료 협상과 시청률 예측 모델을 주도하는 설정이 다소 강함; fluency: 직업과 맞지 않는 표현: 방송작가의 '방송 출연 전후'"
+d5f4f000-cf14-4e91-b70a-5fc4e160463c,131,1,Anonymous,5,5,4,4,
+d28dd757-e6b3-4c4b-be22-5b18407e8268,132,1,Anonymous,5,4,2,4,coherence: 해외 활동 경험과 국내 여행 설명의 인과가 어색함; plausibility: 23세 초등학교 졸업 세션 연주자의 해외경험·표준계약·저작권 보유 조합 설명 부족; fluency: 어색한 표현: '음악 감상은 ... 들으며'
+9ad96fbf-06e0-402c-a933-4d954b0aa9a8,133,1,Anonymous,2,5,4,4,groundedness: 예술소득 없음인데 판매 수입과 외주 작업을 언급함
+999756c0-66b7-48c2-9d8f-e89bfa92fe7c,134,1,Anonymous,5,5,3,4,plausibility: 12년 차 싱어송라이터가 저작권 없음은 부자연스러움
+7b6cb626-4245-4676-a2c5-26f42b97a3fa,135,1,Anonymous,4,5,4,4,plausibility: 갤러리 협업 장기 지속 대비 계약 경험 없음이 약간 설명 부족
+56b404be-9a7a-463e-b9b6-46452c000b80,136,1,Anonymous,4,4,4,4,coherence: 카페에서 직접 핸드드립을 내린다는 표현이 다소 부자연스러움; plausibility: 고령 데뷔는 드물지만 서사상 설명됨
+783b6006-8f7d-429c-b3ad-8ea6cf7d20c8,137,1,Anonymous,2,4,2,4,위촉작·국공립 교향악단 객원 활동과 예술소득 없음/계약경험 없음이 충돌
+aa2d625e-c2f7-4b66-b7f7-8e57a4cf2278,138,1,Anonymous,5,4,4,4,coherence: creative_world_persona가 생활 루틴 반복에 가까움; plausibility: 1년 차 대비 성과가 약간 많은 편
+b64b310a-eedd-40b6-8301-f92d830955b6,139,1,Anonymous,5,5,4,3,fluency: 오탈자: '들쭉날뚝'은 '들쭉날쭉'이 자연스러움
+35b974f1-6b84-4a3a-869e-55e88bfa7423,140,1,Anonymous,2,4,3,4,groundedness: 전업·부업 없음인데 강의 수입과 강의 기회 반복 언급; plausibility: 겸업 없음인데 강의 수입을 생활비 원천으로 언급; fluency: 일부 일반적 표현
+91ff04fe-75bb-4fc8-9044-f66c753cb938,141,1,Anonymous,4,4,3,4,coherence: 운동 취미가 요가와 볼링으로 약간 분산됨; plausibility: 개인 예술수입이 가구소득보다 높은 설정이 설명 없이 불일치; fluency: 상투적 창작 표현 일부
+9260fe8e-225a-436f-92a2-567bd6f9c755,142,1,Anonymous,4,5,4,5,
+73c68335-bef4-41de-8e38-b4a6f1dbff65,143,1,Anonymous,5,5,4,4,fluency: 일부 추상적·범용 표현.
+112a78d8-9606-4a8c-9fd5-b146ce993c2b,144,1,Anonymous,2,4,1,3,groundedness: 예술 개인소득 6천만원 이상인데 생계 압박 서술이 강함; coherence: family_persona가 가족보다 친구 관계 중심; plausibility: 개인 예술소득 6천만원 이상과 가구소득 1-2천만원 미만의 직접 모순; fluency: hobbies_and_interests의 '주말 동네 산책를' 조사 오류
+445a3000-b0bf-48e0-ade5-c8770cb8c03e,145,1,Anonymous,4,4,3,2,coherence: 87세 인물의 필라테스 수업 설정이 약간 이질적; plausibility: 87세 신규 문학 활동과 필라테스 루틴이 다소 이례적; fluency: 조사 오류와 부자연스러운 장소 표현
+140fcef4-36e3-40a3-8184-b9d1321fa8e8,146,1,Anonymous,3,3,2,2,groundedness: 성악가인데 악기 보관비와 작곡가식 위촉작 집필 서술이 섞임; coherence: 성악가와 작곡가 역할이 혼재함; plausibility: 성악가 서사에 작곡가·기악 연주자 요소가 섞임; fluency: 성악가인데 professional_persona에 '위촉작으로 쓴' 등 작곡가처럼 보이는 표현이 섞임
+415944b0-6295-4be3-ab92-22fb4b1e05bd,147,1,Anonymous,4,5,4,4,plausibility: 정규 케이블 패널치고 개인 예술수입이 낮은 편
+db669296-b90b-43eb-ad1a-f9f00ee0093a,148,1,Anonymous,4,5,4,3,"fluency: ""근린 공원 산책을 하며 짧은 요리 실험을 하며""처럼 동작 연결이 부자연스러움"
+049fa4b0-5409-4fca-9d2f-16d206b38b4e,149,1,Anonymous,5,4,4,4,coherence: 줄넘기로 손 피로를 푼다는 표현이 어색함
+ebc0d5db-a5bb-4714-8565-cdeefe7d1116,150,1,Anonymous,5,4,4,3,coherence: 여행과 자연이 작업에 주는 의미가 필드 간 다소 엇갈림; fluency: 반복 표현과 약간의 AI식 일반화가 있음
+0e9009ad-d772-42c2-abce-729a6edde571,151,1,Anonymous,4,4,3,4,coherence: 필라테스 수업 설정이 다른 생활 맥락에 비해 다소 약함; plausibility: 81세 산간 지역 사진가의 정기 필라테스 설정은 설명 없이는 다소 어색함
+92a4d13e-3fd8-4fbc-9063-0579c4ceabc3,152,1,Anonymous,3,3,3,3,groundedness: debut_age=50인데 '50대 후반에 미술로 전환'이라고 서술; coherence: 50대 후반 전환과 13년 경력·50세 데뷔가 충돌; plausibility: 데뷔 나이와 50대 후반 전환 서술 불일치; fluency: 조사 오류와 템플릿식 문장
+a7f2e9d3-0d3d-4571-bd78-30cf9bb09f98,153,1,Anonymous,5,4,4,3,
+dce19b76-289a-4d5c-8c66-a2acd661dea1,154,1,Anonymous,2,4,3,4,groundedness: 부업 없음/전업인데 강의 수입 언급; coherence: 전업인데 강의 수입이 언급됨; plausibility: 강의 수입 언급이 부업 없음과 불일치
+5478134b-6d16-46cd-b46b-8565b1853d9b,155,1,Anonymous,4,4,3,3,coherence: 작곡가보다 교육자·연주자 요소가 조금 강함; plausibility: 작곡가인데 저작권 없음과 예술소득 없음이 약함
+9b0e2d4a-6e4f-40fa-b18a-823d94702de1,156,1,Anonymous,5,4,3,4,coherence: 부산 생활과 대학로 활동 지역이 약간 어색함; plausibility: 부산 거주 서사와 대학로 소극장 활동의 지역 맥락이 충분히 설명되지 않음; fluency: 어색한 어순: '부산의 해산물 간단한 요리'
+222118b4-40f6-4758-af78-19134f2ce2c0,157,1,Anonymous,3,3,3,4,기악 연주자 서사에 작곡가식 위촉작 작성이 섞임
+0a1e8f0c-5d4a-4691-910c-c77b7b3a8a44,158,1,Anonymous,5,5,4,4,plausibility: 늦은 데뷔 세션 연주자의 안정적 전업 수입은 다소 드묾
+f75e3a9e-7715-4690-9f2c-efe5ab8d576a,159,1,Anonymous,5,5,4,4,
+ad80cd9e-ad72-431e-ab36-ba8454f770c0,160,1,Anonymous,5,5,3,2,plausibility: 전업 프로듀서 활동 대비 개인 예술소득 없음 설명 부족; fluency: 조사 오류와 반복적 AI 표현이 뚜렷함
+365ac593-64de-42d7-8020-623bd5c5cbee,161,1,Anonymous,5,5,4,4,fluency: 카페 기록 정리와 제철 반찬 만들기가 한 문장에 부자연스럽게 연결됨
+7b8da552-f054-4038-b7f0-9c89161cd7f0,162,1,Anonymous,5,4,2,4,coherence: 여행은 거의 하지 않는다고 하면서 지역 식당 탐방을 언급해 외부 활동 빈도가 약간 애매함; plausibility: 22세 대학원·3년 경력·표준계약 경험 대비 저작권 없음 조합이 이례적
+f1e3493a-1353-4165-ba09-53fe5692ee3c,163,1,Anonymous,4,2,2,3,"coherence: 83세가 40대에 전향했다면 43년 경력과 시간선이 맞지 않음; plausibility: 83세가 40대에 전환했다면 43년 경력과 맞지 않음; fluency: ""능숙하며"" 반복, ""취미를 가진다"" 번역투"
+91d1053d-b547-418b-adf7-8f591b8a4498,164,1,Anonymous,5,5,3,4,plausibility: 개인 예술소득 6천만원 이상이 가구소득 2-3천만원 미만보다 큰 모순
+4496e2f0-8467-4dbb-9407-444c22185c65,165,1,Anonymous,2,2,2,2,groundedness: 금속공예가인데 유약·소성 중심 묘사가 반복됨; coherence: 금속공예와 유약·소성 서술이 반복적으로 충돌함; plausibility: 금속공예에 도예 공정이 반복되고 개인소득이 가구소득보다 높음; fluency: 금속공예가에게 유약·소성 표현이 반복되어 도예/유리공예 문맥이 섞인 듯함
+b252d779-9ae1-4b1f-9541-360a2be15836,166,1,Anonymous,5,5,4,4,plausibility: 갤러리 협업과 계약 경험 없음이 약간 어색함
+7dcb9e66-f1f2-470e-a5cb-dd6e938b7e3a,167,1,Anonymous,3,3,2,4,"groundedness: 데뷔 나이를 40대 중반으로 표현해 debut_age=40과 약한 불일치가 있음; coherence: 40대 중반 전향과 54세·14년 차 활동 시점이 내부적으로 맞지 않음; plausibility: 데뷔 나이 서술 불일치, 객원·협연 활동 대비 예술소득 없음"
+e1b00524-d6cf-4004-bc18-db42927e384d,168,1,Anonymous,4,5,4,3,plausibility: 미디어아트보다 일반 회화/시각미술 표현에 가까운 부분 있음; fluency: hobbies_and_interests의 '천변 산책를'은 조사 오류
+8e1129e5-b4a7-4858-9a3e-c1e91cdd5d32,169,1,Anonymous,4,5,3,4,plausibility: 2년 차 조각가에게 개인전·아트페어·해외 전시 지향이 다소 빠름
+82e96ab9-02b1-423d-9bb3-3fad98b1ad3b,170,1,Anonymous,5,5,4,4,fluency: 일부 과한 일반 표현
+65d144a8-bd09-49d2-b62c-7b9f01248b91,171,1,Anonymous,5,5,3,4,plausibility: 정규 패널·17년 경력에 비해 개인 예술소득이 낮음
+20e8a39f-e056-4960-b424-d4b27a9579a9,172,1,Anonymous,3,5,4,4,groundedness: 계약 경험 없음인데 광고 클라이언트와의 계약 언급; plausibility: 파인아트 사진가인데 광고 클라이언트 생계가 반복되어 직업 성격이 다소 혼재됨
+ab92aa51-6048-42fa-8036-5e49f2e227da,173,1,Anonymous,4,5,3,3,plausibility: 15세 지휘자 데뷔로 산정된 22년 경력 설명 부족; fluency: culinary_persona의 '서울의 지역 특산물인 한우'는 부자연스럽습니다.
+be9fc0da-72b8-4106-8f61-ac2d9b4c2e8b,174,1,Anonymous,5,4,3,3,plausibility: 2년 차 고령 신진 사진가에게 광고 클라이언트 주목과 사진집 출간 성과가 다소 높음; fluency: persona 첫 문장 어순 오류
+4a5d9343-048e-4a4c-a140-9a58d061aae4,175,1,Anonymous,5,4,3,3,coherence: 자취 생활과 가족/친지 관계의 생활 맥락이 충분히 연결되지는 않음; plausibility: 전업 방송 출연 중 개인 예술소득 없음과 활동 묘사가 충돌; fluency: 추상적 AI 표현이 일부 반복됨
+fa276417-0221-4134-9954-97dd4a280e79,176,1,Anonymous,5,5,3,5,plausibility: 문학 번역가의 경력 계기로 신춘문예 당선은 부자연스러움
+3547294d-648e-4efe-ac51-be65ecae2f05,177,1,Anonymous,3,5,3,4,groundedness: 개인 예술소득 6천만원 이상인데 가구소득 2-3천만원 미만인 앵커 자체와 서술의 생활비 조정이 다소 부자연스러움; plausibility: 개인 예술소득 6천만원 이상인데 household_income_bracket=2-3천만원 미만인 점이 수입 구조상 어색함
+e464267c-7a3e-4568-a3d0-3ba961c50d7d,178,1,Anonymous,3,4,3,4,groundedness: 9년 차 시인인데 최근 신춘문예 당선을 데뷔 계기처럼 서술; coherence: 9년 차 시인에게 최근 신춘문예 당선이라는 경력 흐름이 약간 어색함; plausibility: 9년 차인데 최근 신춘문예 당선이라는 표현이 경력 설정과 어색함
+597cb3ef-8037-42e3-a97a-449527d8adab,179,1,Anonymous,5,5,4,4,plausibility: 전업인데 개인 예술소득과 가구소득이 낮아 생계 설명은 조금 더 필요함
+272262d4-a94b-42a7-bbbd-4f787bf704d4,180,1,Anonymous,5,4,4,4,coherence: 복귀형 지원 맥락이 약함; plausibility: 40년 전업 경력 대비 개인 예술소득 없음은 다소 낮음
+16a150ea-9ede-456f-b29b-2833a3a4c64f,181,1,Anonymous,5,5,4,4,plausibility: 15세 데뷔 세션 연주자는 이른 편이나 불가능하지는 않음
+2a7f2f6e-b705-4f97-873c-4b714a59c689,182,1,Anonymous,4,5,4,4,plausibility: 전업 비프리랜스 배우인데 개인 예술소득 없음 설정은 다소 어색
+83fff388-9d08-4491-a316-77fa2186eb5f,183,1,Anonymous,3,5,2,3,groundedness: 개인 예술소득이 가구소득보다 높은 앵커를 서사가 반영하지 않음; plausibility: 개인 예술소득이 가구소득보다 큼
+02452944-4d5e-42e0-ab29-2e0a6aa2b7a4,184,1,Anonymous,3,4,3,4,groundedness: 경상남 거주 설정과 대학로 주 활동의 거리감; coherence: 경상남 거주·활동 서사와 대학로 소극장 중심 활동 사이의 지역 맥락이 약함; plausibility: 경상남 거주 전업인데 대학로 중심 활동의 이동·거점 설명 부족
+e7cea0db-05f3-4f3f-9a4d-90a2496fd2e6,185,1,Anonymous,4,4,4,3,groundedness: 조각가인데 '화면의 밀도' 표현이 다소 부자연스러움; coherence: 조각가인데 creative_world_persona에 '화면의 밀도'라는 회화적 표현이 들어가 다소 어색함; plausibility: 비프리랜서 겸업의 실제 직장·고용 설명 부족; fluency: 조각가 맥락에서 '화면의 밀도' 표현이 어색함
+ac6e9ad6-fdb0-44ce-ad17-1e24b2bb4c9f,186,1,Anonymous,4,5,3,3,"plausibility: 0년차 음악 프로듀서의 예술소득 1-2천만원은 설명 부족; fluency: 어색한 표현: '볼링장에서 한 시간씩 풀코스', '카페에서 영화를 보며'"
+242fb8a7-ea8c-48fb-b8b0-60ab257252b8,187,1,Anonymous,5,5,2,3,plausibility: 24세 대학원 성악가의 9년 경력·고소득·경력공백 조합 설명 부족; fluency: hobbies_and_interests에 '이용를' 조사 오류가 있습니다.
+86215aee-03cd-4f71-b41a-6898ff0101c1,188,1,Anonymous,5,4,3,3,coherence: 스포츠 루틴 표현이 다소 부자연스러움; plausibility: 비프리랜서인데 극단 계약 중심 활동이라는 고용 형태 설명이 모호; fluency: 추상 표현 반복
+19fa2f35-1bff-4604-8095-d1987fd37cbc,189,1,Anonymous,4,4,3,4,coherence: 세션 연주자와 프로듀싱·마스터링 역할이 다소 넓게 혼재; plausibility: 전업 세션 연주 활동 서사와 개인 예술소득 없음 간 긴장
+24701e12-233b-489a-a1f1-67a446d18dbf,190,1,Anonymous,3,3,3,3,groundedness: 0년 차인데 이미 첫 단행본을 냈다는 서술은 약한 불일치 가능성; coherence: 문예지 신인상과 신춘문예 당선의 데뷔 경로 혼선; plausibility: 0년 차 신인에게 강의 수입과 첫 단행본 진행이 다소 빠르게 제시됨; fluency: professional_persona에서 등단 경로가 중복 서술됨
+08c5d2c8-d313-4c5b-a53b-ec7e11239855,191,1,Anonymous,3,5,4,4,groundedness: 전업·부업 없음인데 전수교육관 수업과 강의 기술을 반복 언급; fluency: 일부 일반적 설명문
+5528080d-6c69-43bc-9ab9-1f71321fc5c8,192,1,Anonymous,5,4,3,4,plausibility: 전업 25년 미디어아트 활동과 예술소득 없음의 긴장
+b10cdd88-0863-4437-8385-f81535ba00d4,193,1,Anonymous,5,5,4,4,
+48805066-612e-4e19-8360-34e15eb6af69,194,1,Anonymous,2,4,4,4,groundedness: 계약 경험 없음인데 인디 레이블 계약 서술; coherence: 식생활이 배달 위주인지 도시락 준비인지 다소 혼재됨; plausibility: 인디 레이블 계약 서술과 계약 경험 없음이 충돌
+b6a43b8f-87b3-4390-8128-2f94d4fc2681,195,1,Anonymous,4,5,4,4,
+a41e6e30-0181-4a73-9b8e-a93b9f337b6b,196,1,Anonymous,2,4,2,2,"groundedness: 예술 개인소득 없음인데 원고료와 강의 수입으로 생계 유지한다고 서술됨; coherence: 동화작가와 시집 발표의 장르 혼선; plausibility: 예술소득 없음과 원고료·강의 수입 충돌, 동화작가와 시집 발표 혼재; fluency: 동화작가와 시집 발표 표현의 결합이 어색하고 조사 오류가 있음"
+9212c54a-dec3-401b-b1f1-a1aa9c563271,197,1,Anonymous,4,5,4,4,plausibility: 겸업 강의가 있는데 소득 구분 설명이 약간 부족
+0af27b71-753c-45d8-b162-a4dd48dc5002,198,1,Anonymous,5,5,4,4,plausibility: 무대미술가가 조명까지 담당한다는 표현은 소극장에서는 가능하나 역할 범위가 약간 넓음
+2ee688b2-5c5e-433c-8f09-c6b017fce9fa,199,1,Anonymous,2,4,3,2,groundedness: 전업·부업 없음인데 미술 교육을 통한 추가 수입을 반복 서술; coherence: 지원금을 신청하지 않는다는 말과 선별한다는 말이 다소 혼재; plausibility: 25세 전업 회화 작가의 비엔날레·갤러리 계약 대비 예술소득 없음이 다소 불균형; fluency: AI식 추상 표현과 반복적 자기소개 문장 다수
+8495af4d-5d44-487f-afaa-cb0b7dbbc2aa,200,2,Anonymous,5,4,3,4,coherence: 작곡가 서사에 연습·연주자식 표현이 일부 섞임; plausibility: 전업 작곡가인데 예술소득 없음·저작권 없음
+ccb6b8a7-0274-436e-8f5e-439eeb672b95,201,2,Anonymous,5,5,4,3,plausibility: 고령자의 줄넘기·매일 전시/독서 표현은 약간 과장; fluency: hobbies_and_interests에 '확인를' 조사 오류
+6ea3f700-8148-439a-a4ed-0e3dff1ef65a,202,2,Anonymous,5,3,3,3,coherence: 경상남 기반과 대학로 소극장 중심 활동이 설명 없이 충돌; plausibility: 경상남 기반인데 대학로 소극장 중심 활동 설명이 부족함
+f1ecc82e-a17b-4f32-b291-464bfeb52ae0,203,2,Anonymous,5,5,5,3,fluency: hobbies_and_interests 조사 오류 '산책를'
+d26d096e-21e3-462d-a548-d81d61ae624f,204,2,Anonymous,4,5,3,4,plausibility: 35년 차 전업 기악 연주자의 매우 낮은 예술소득과 저작권 보유가 다소 어색함
+df7aad6c-07e4-414c-8598-3798d918cf47,205,2,Anonymous,1,2,1,3,0년 차/65세 국악 입문과 명창·정기공연·전수교육 서사가 정면 충돌
+65cb890c-926e-4505-9a4f-a4f95996772c,206,2,Anonymous,5,4,3,3,coherence: career_goals_and_ambitions에 데이터 라벨식 표현이 섞임; plausibility: 전업 비프리랜서 성악가인데 예술소득 없음과 계약 경험 없음의 설명 부족
+034f51bc-160a-4274-8205-cd12f5872f7f,207,2,Anonymous,5,5,4,3,
+f01ee9c1-ee1e-4989-89eb-37e7edb86d94,208,2,Anonymous,3,3,3,3,groundedness: 평론가인데 시집 준비 등 창작자 서술이 섞임; coherence: 문학 평론가와 시집 준비 서사의 역할 혼선; plausibility: 평론가인데 신춘문예 당선작 기반 시집 준비라는 역할 혼선
+4322007b-07d4-4faa-a3c0-c9e3ccaacd70,209,2,Anonymous,4,4,4,4,coherence: 공연을 하는지 보는지 일부 표현 혼동
+cc28a618-1fbb-45a7-a9e1-bf319a5b68d3,210,2,Anonymous,3,3,3,3,"groundedness: sports_persona에서 89세를 70대 초반처럼 서술; coherence: 89세와 70대 초반 신체 관리 서술 불일치; plausibility: 나이 표현 불일치, 89세 전업 활동 강도 다소 이례적; fluency: sports_persona에서 89세인데 '70대 초반의 신체적 관리'라고 표현함"
+0b240be9-d7b3-4a30-9052-469a0785fcb5,211,2,Anonymous,5,4,4,4,coherence: 최근 활동인지 과거 대학 경험인지 다소 모호함; plausibility: 최근 활동인지 과거 대학 경험인지 일부 표현이 모호함
+94201f92-13b7-4f17-b45f-e96f86c9455a,212,2,Anonymous,3,3,2,3,"groundedness: 88세를 70대 후반으로 표현; coherence: 88세 인물인데 sports_persona에서 '70대 후반'이라고 서술; plausibility: 85세 데뷔 신춘문예·높은 가구소득 배경 설명 부족; fluency: professional_persona의 '문예지에 단행본을 출간'은 표현상 부자연스럽고, 88세와 '70대 후반' 표현이 맞지 않습니다."
+f95b2cfc-4d8f-4df7-9004-c5508e8563f2,213,2,Anonymous,2,4,3,2,"groundedness: 예술 개인소득 없음인데 프로젝트 수입 비중이 높다고 서술됨; coherence: 집에서 탁구를 친다는 생활 묘사가 다소 부자연스러움; plausibility: 전업 세션 연주자이면서 예술소득 없음; fluency: 어색한 단어 선택: '작업의 틈을 띄운다', '시가집'; 집에서 매일 탁구를 친다는 서술도 부자연스러움"
+680c4cfc-b6b8-4c23-80f8-9dfd71d50ad4,214,2,Anonymous,2,4,3,4,groundedness: individual_art_income_bracket=없음인데 프로젝트 수입에 의존한다고 서술; plausibility: 전업 작곡가·계약·저작권 보유인데 개인 예술소득 없음은 부자연스러움
+3604e190-12f8-477c-81ec-8fcf9c5554bc,215,2,Anonymous,3,4,4,4,groundedness: has_overseas_experience=False인데 해외 아티스트 협업 서술이 있음; coherence: 해외 경험 부재와 해외 아티스트 협업 언급 간 약한 긴장; plausibility: 27세 대학원 학력에 10년 경력은 다소 빠름
+75716026-ee7b-439c-94ff-71d890e8568e,216,2,Anonymous,4,2,2,4,"coherence: 25세 10년 차 조각가와 대학원에서 본격 시작했다는 서사가 충돌; plausibility: 25세 조각가의 10년 경력, 15세 데뷔, 대학원 및 비교적 높은 수입 조합이 과도함"
+f35af4fa-bf91-48b7-8de0-fce706b54eed,217,2,Anonymous,4,5,3,4,plausibility: 공연·전수교육 활동 대비 예술소득 없음
+26b34579-1ecc-4dcb-a237-e91ab520298e,218,2,Anonymous,2,3,2,3,"groundedness: 계약 경험 없음인데 광고 클라이언트와의 계약 언급; 80세를 70대 초반으로 서술; coherence: 80대와 70대 초반 서술 불일치; plausibility: 80세와 70대 초반 표현 불일치, 10년 목표가 나이 대비 비현실적; fluency: sports_persona에서 80대 남성인데 '70대 초반의 신체 관리'라고 표현함"
+226c632e-fba1-48d2-9abd-dcb1d479e2ef,219,2,Anonymous,5,5,4,4,
+19919373-b0b4-4977-a253-76fbc15e4d03,220,2,Anonymous,5,5,3,4,plausibility: 충북 거주 지역 연출가와 대학로 소극장 중심 서사가 다소 불일치; fluency: 대학로 소극장과 지역 순회 공연의 결합이 약간 부자연스러움
+84acbcd3-5336-4f6d-9ac9-65813144abe9,221,2,Anonymous,4,4,2,4,plausibility: 개인 예술소득이 가구소득보다 크게 높음; 고소득 12년 차인데 계약 경험 없음
+42ea9aed-0f74-4e4a-b34f-7cf983221c3a,222,2,Anonymous,3,3,3,2,groundedness: support_persona에서 지원 신청 여부가 '신청했으나'와 '미신청'으로 흔들림; coherence: 지원사업 신청 여부가 신청/미신청/고려 중으로 충돌; plausibility: 지원 신청 여부 서술이 모순됨; fluency: support_persona에 신청과 미신청이 한 문장 안에서 충돌함
+b7aa9f05-6184-4681-b09b-8a72f82fc4cd,223,2,Anonymous,5,2,3,4,"coherence: 방송작가와 방송 출연자 준비물 서사가 혼재되고, 졸업 후 26년 경력 계산이 어색함; plausibility: 방송작가인데 의상 준비 서술이 출연자처럼 보이고 17세 경력 시작이 드묾"
+559cf3c6-142c-4f76-93ec-6384d6145b65,224,2,Anonymous,4,3,3,3,groundedness: age=76과 '70대 초반' 표현 불일치; coherence: 76세와 '70대 초반' 표현이 동시에 나와 연령 서사가 불일치함; plausibility: 지역이 기타라 지역 기반 활동의 구체성이 부족함; fluency: 나이 표현 불일치성 어색함
+95abee7b-31a7-46a5-9bc6-e483b0388630,225,2,Anonymous,5,5,4,3,plausibility: 전업 무용가인데 개인 예술소득 없음; fluency: network_persona에 같은 표현 반복: '감각 번역을 통해'
+ece821fd-86c8-42ac-a622-cb91029b5a73,226,2,Anonymous,5,5,4,4,plausibility: 개인 예술수입이 가구소득 구간보다 높음
+e9ce7116-3b3f-47f4-98f8-bd57eada6010,227,2,Anonymous,4,4,2,4,plausibility: 개인 예술수입이 가구소득보다 높고 17세 데뷔 방송작가 30년 경력 설명 부족; fluency: 개인 예술소득은 6천만원 이상인데 household_income_bracket은 2-3천만원 미만이라 수치 관계가 이상함
+dc055b77-0078-438c-8802-0383441b2631,228,2,Anonymous,4,4,4,4,coherence: 야간 작업형 생활과 새벽 운동 루틴이 다소 긴장됨; fluency: network_persona에 조사 누락
+aa03375b-9473-44b2-9b8e-8d36688ee59b,229,2,Anonymous,3,3,4,3,groundedness: 기악 연주자인데 작곡가처럼 위촉작을 썼다고 서술; coherence: 기악 연주자인데 위촉작을 쓴 작곡가처럼 서술됨; plausibility: 기악 연주자인데 위촉작 작곡 서사가 혼재
+728036ff-31f3-43ee-a561-fd5d7b8688da,230,2,Anonymous,4,3,3,3,"coherence: 가족 동거와 자취 생활이 충돌; plausibility: 전업 문학가인데 개인 예술소득 없음의 생계 설명이 약함; fluency: family_persona는 가족과 함께 생활, culinary_persona는 자취 생활로 서로 어긋남"
+197b3397-dfad-44b2-ade5-7cceea1da50d,231,2,Anonymous,4,4,3,4,coherence: hobbies_and_interests의 탁구 문장 연결이 어색함; plausibility: 음반 발매 경력과 저작권 없음·예술수입 없음이 어색함
+5ff094ec-d32a-412d-a74b-30ad21a0295c,232,2,Anonymous,3,3,3,4,groundedness: 강의 수입 서술이 부업 없음과 충돌 가능; coherence: 전업 시인인데 강의 수입 언급이 다소 부연 없이 섞임; plausibility: 예술소득 없음인데 강의 수입 언급; fluency: 어색한 표현: '문학 작품을 감상하지 않고'
+997ee1f6-ec8d-423a-9296-459737b668c1,233,2,Anonymous,2,3,2,4,groundedness: 번역가인데 시집 출간·시 쓰기 서술이 강하고 예술소득 없음과 기고·강연 수입 언급이 충돌; coherence: 번역가인데 시집 출간·시 쓰기 서사가 섞여 직업 정체성이 흔들림; plausibility: 문예지가 시집을 출간한다는 표현과 신춘문예 당선작 번역 설정이 부자연스러움
+b8419d3b-deba-4572-b27f-080e0f9b2ab9,234,2,Anonymous,4,5,3,4,plausibility: 활동·저작권 보유가 있는데 예술소득 없음은 설명 부족
+cd2dd5e4-a6f0-4ece-8d7f-940c496947a7,235,2,Anonymous,4,4,3,4,plausibility: 무대미술가인데 리허설 중 대본 수정과 9-5 상주가 배우/연출 역할처럼 섞임
+7d94ccdc-f785-4046-81f3-2155bcec5652,236,2,Anonymous,4,4,4,4,
+aff604a3-9c01-409d-90ad-801d8a73a437,237,2,Anonymous,3,4,4,4,groundedness: 경력 8년과 '대학 졸업 후 4년간' 표현의 경력 축소 가능성; coherence: 활동 8년 서사와 대학 졸업 후 4년 프로젝트 경험 사이가 다소 압축됨; fluency: 카페에서 커피를 직접 내린다는 표현이 부자연스러움
+6f30d1aa-9403-48f8-86c9-5fd0122a04fc,238,2,Anonymous,5,4,4,4,
+8a5efca3-9460-49b2-90c6-7b20514684f0,239,2,Anonymous,5,5,4,4,fluency: 상투적 반복 문장 일부 존재.
+6405dedf-f234-4fc4-90a3-ec70349595eb,240,2,Anonymous,4,3,1,3,coherence: 신진/0년 차와 복귀형 지원 서사가 어색함; plausibility: 21세 대학원·경력 0년·저작권 없음인데 개인 예술소득 6천만원 이상이며 가구소득보다 큼; fluency: AI식·템플릿식 표현 반복
+0e852b9c-bd84-4245-8bce-7f5b25641df6,241,2,Anonymous,4,5,4,4,plausibility: 갤러리 계약이 있으나 예술수입 없음
+f0a5171a-95fa-46fb-8d25-6f4ce17024c1,242,2,Anonymous,5,4,3,4,plausibility: 1년 차 성악가의 오케스트라 객원·정규 연주자 목표가 다소 빠르게 전개됨
+bf659c1a-3e7e-4bf7-be0a-e875d0804776,243,2,Anonymous,3,4,5,4,groundedness: 작은 전시 공간 방문이 작업 공간 안에 있는 듯한 표현이 어색함; coherence: 작업 공간에서 작은 전시 공간을 방문한다는 표현이 다소 비논리적; fluency: 의미 어색함: '작업 공간에서의 작은 전시 공간 방문'.
+019d5fe8-33db-4968-9b6b-28534a7521fd,244,2,Anonymous,2,4,2,3,groundedness: 평론가 설정과 시집 출간·합평 중심 창작자 서사가 충돌; coherence: 평론가와 시집 출간의 역할 혼선; plausibility: 평론가 서사에 시인 데뷔·시집 출간 서사가 섞이고 해외경험 반영이 약함; fluency: 평론가 서술에 시집 출간·합평 등 창작자 경력이 섞여 어색함
+69e31b00-231c-48c8-b4e6-98252681702f,245,2,Anonymous,4,5,4,4,
+a062cb6d-6092-43b7-b9e0-7d1d662ee294,246,2,Anonymous,5,5,3,4,plausibility: 전업 장기 경력 조각가가 판매 수입 없음인데 갤러리 전속이라는 점이 어색함
+d2576ae9-c9bf-4872-a698-7f03a46f971a,247,2,Anonymous,5,4,4,3,coherence: culinary_persona에 소품 수선이 어색하게 삽입됨
+e4aa0dff-b505-4d7d-b366-a5720d0b9cfc,248,2,Anonymous,3,3,2,4,groundedness: debut_age=15인데 고등학교 졸업 후 활동 시작으로 서술됨; coherence: 25세 10년 차 지휘자 시간선이 충분히 설명되지 않음; plausibility: 25세 고졸 10년 차 지휘자 설정은 별도 설명 없이는 희귀함
+51956a9b-5abf-455c-8c8f-b4115d359db1,249,2,Anonymous,5,5,4,4,
+9a76b166-f896-4db7-98e1-13aa7194548b,250,2,Anonymous,5,5,4,3,
+cecb17c3-0100-4acb-9ba0-2c6063e8fe11,251,2,Anonymous,3,3,2,2,groundedness: career_years=0인데 개인전·아트페어 등 활동 폭이 다소 과장되어 보임; coherence: 55세 신진 전환 서사와 미술대학 졸업전 데뷔 표현이 충돌 가능; plausibility: 55세 신진 0년 차가 이미 개인전·아트페어 부스를 운영하는 점이 과도함; fluency: 여러 필드에서 '55세 설치미술 작가는' 반복으로 문체가 부자연스러움
+44aabbdb-e3c5-444f-8a06-7242e9b9fc43,252,2,Anonymous,4,5,3,3,plausibility: 전업 설치미술 작가인데 예술수입 없음; fluency: AI식 일반 문구 반복
+64fc4b48-35f3-4a4c-8f92-aa2c96d9fd7b,253,2,Anonymous,4,5,3,4,plausibility: 개인 예술소득 구간이 가구소득 구간보다 높음; fluency: 일부 서술어 생략
+ea2b9511-034d-44c8-ab65-a83d165f10f9,254,2,Anonymous,5,4,3,4,coherence: family_persona가 가족보다 친구 관계 중심임; plausibility: 높은 예술소득 대비 계약 경험 없음이 다소 약함
+fea28623-e95d-4332-9e74-8583ffb45ecb,255,2,Anonymous,4,4,3,4,coherence: 무대미술가에게 '분장 준비'가 핵심 업무처럼 제시되어 약간 어색함; plausibility: 1년 차 22세에게 해외 워크숍 및 높은 가구소득 배경 설명이 부족함
+a93b230e-fcb2-40af-a8bb-330cbc7775ae,256,2,Anonymous,4,3,2,2,"coherence: 웹툰과 단행본 연재 표현 혼재, 러닝/산책 표현 어색; plausibility: 85세 현역 플랫폼 연재와 예술소득 없음·높은 가구소득 조합 설명 부족; fluency: 운동 표현 혼재: '저강도 러닝으로 산책'."
+b60e6c25-287f-4b0e-8b24-81374d77b3cc,257,2,Anonymous,5,5,4,4,plausibility: 경력 0년인데 인디 레이블 계약과 해외 공연 경험이 다소 빠르게 제시됨
+819aaaf7-b02a-4d39-8ecc-b72aced0df30,258,2,Anonymous,4,5,4,4,
+ec411ce0-88d5-41e4-b071-f48d7df82cf6,259,2,Anonymous,4,4,3,4,coherence: 웹툰에서 단행본으로 전환한 신작을 연재한다는 표현이 다소 어색함; plausibility: 웹툰·단행본 연재 표현과 저작권 없음이 다소 어색함
+b8088d75-0317-4b1f-b5ab-d38504f47148,260,2,Anonymous,5,5,3,4,plausibility: 59세 대중음악 세션 데뷔 후 드럼 세션 계약 확대는 드문 편
+9484e51d-2408-4a5c-ab44-be339e29373e,261,2,Anonymous,5,4,3,3,coherence: 강의 능력이 갑자기 언급되지만 다른 필드에서 강의 활동 맥락이 거의 없음; plausibility: 개인 예술소득 구간이 가구소득 구간보다 높음; fluency: AI식 추상 표현
+c62e65e5-0e14-4267-a1ba-a4eb11f0af20,262,2,Anonymous,5,4,3,3,plausibility: 개인 예술소득 6천만원 이상인데 가구소득 2-3천만원 미만으로 수입 구조가 모순적임
+acbbd84a-e049-48c2-9085-f8a74423e441,263,2,Anonymous,5,5,4,5,
+e9ef370b-fa4a-4720-acd4-ae9f3dbd2efd,264,2,Anonymous,3,3,2,2,"groundedness: 판소리 명창인데 정가·시조 전승 중심으로 서술되어 직업 초점이 다소 불일치; coherence: 판소리 명창 정체성과 정가·시조 전승 역할이 다소 혼재됨; plausibility: 40세에 명창 호칭, 판소리와 정가·시조 전승 서술 혼재; fluency: AI식 문장 반복이 여러 필드에서 두드러짐"
+c954aa0f-1efe-4d46-b18e-38a7167ec116,265,2,Anonymous,2,3,4,4,groundedness: age=82인데 '70대 중반'으로 서술됨; coherence: 현재 연령 표현이 82세 흐름과 충돌; fluency: persona의 '70대 중반'은 정량 age 82와 어긋남
+342430eb-7840-487d-8f1d-f34f1c4d1008,266,2,Anonymous,5,5,4,4,fluency: 일부 상투 표현
+225530e9-3c00-4030-80dc-8ce4dbd6e083,267,2,Anonymous,5,5,4,3,plausibility: 4년 차에 갤러리 전속은 약간 빠른 설정; fluency: AI식 일반 문구가 일부 반복됨
+52b89928-0e1d-4f8d-a285-35a197111274,268,2,Anonymous,5,5,4,3,"plausibility: 국립국악원 위촉 공연은 3년 차에게 다소 높은 성취이나 불가능하진 않음; fluency: AI식 반복: '낡은 재현', '새로운 가능성 탐구'."
+a256a051-aab9-4239-93e4-266ae4a5de7f,269,2,Anonymous,5,5,4,4,
+7a85a880-22a5-4164-a76d-0814acd28677,270,2,Anonymous,3,3,2,3,groundedness: 86세를 70대처럼 서술한 부분 있음; coherence: 86세와 70대 표현 불일치; plausibility: 86세 조각가의 매일 줄넘기와 10년 장기 확장 목표가 비현실적으로 강함; fluency: sports_persona 나이 표현 오류 및 설명문투
+15b05097-b6eb-4e2f-8ae2-f28fed21a335,271,2,Anonymous,5,5,3,4,plausibility: 장기 정규 케이블 MC 대비 개인 예술소득이 낮음
+b3ba6cba-7217-432e-a770-9bdb054cde10,272,2,Anonymous,5,5,2,4,plausibility: 초졸 20대 전업 사진가의 해외경험·광고계약·개인전 경로 설명 부족
+72683863-e9c3-4aae-a8e7-207ee617ed0b,273,2,Anonymous,4,5,4,4,
+8019daaf-cf80-4458-ac95-c9a83118c9f0,274,2,Anonymous,5,4,3,3,coherence: 조각 작업에 '화면의 밀도' 표현이 반복되어 매체 감각이 약간 어색함; plausibility: 고령 전업 무수입 조각가의 조각실 운영 비용 설명 부족; fluency: 조사 오류와 반복적 AI식 표현
+a0afc7d1-3f60-4cba-b3c2-71d894056c2a,275,2,Anonymous,5,5,3,4,plausibility: 15세 판화 데뷔와 41년 경력은 드문데 설명이 부족함
+52829f8b-fe63-4d4e-a34e-6019bd851aa7,276,2,Anonymous,5,4,2,3,coherence: 운동 루틴 문장이 다소 부자연스러움; plausibility: 0년 차 연극 배우인데 예술소득 5-6천만원 미만; fluency: 운동·식사 묘사가 문맥상 어색함.
+82a6eeaf-d1ed-47ff-b33c-47e1ab70e1db,277,2,Anonymous,5,5,3,2,plausibility: 개인 예술소득이 가구소득보다 높음; fluency: 과잉 존대와 generic AI 표현 반복
+a5c1d815-179f-4f03-9d37-9b0a0e200726,278,2,Anonymous,5,5,5,4,
+8290a940-3fc8-4577-8e91-fd0eef707f29,279,2,Anonymous,4,5,3,3,plausibility: 비프리랜서 전업인데 프로젝트 입금·공백기 중심 서술이 프리랜서형임; fluency: 조사 오류: '주말 독립서점 방문를'.
+ea0e138f-6b50-4b7a-94eb-50c401fe7d8d,280,2,Anonymous,4,4,3,4,coherence: 레슨 이동비 언급이 작곡가 중심 서사와 약간 불명확함; plausibility: 위촉작·오케스트라 협업과 예술소득 없음의 설명 부족; fluency: 문체가 해요체와 평서체 사이에서 일부 혼재됨
+cd9f4280-caf8-4d49-8e48-ec2f473b6344,281,2,Anonymous,5,5,4,3,plausibility: 갤러리 전속·비엔날레 참여와 예술수입 없음의 설명이 부족함; fluency: AI식 표현과 추상적 연결이 일부 보임
+41131ece-7145-4e67-ad5d-b92fae753257,282,2,Anonymous,5,5,4,2,plausibility: 29세 8년 차에게 국립국악원 정기공연이 다소 강한 경력 설정; fluency: 여러 필드에서 같은 문장 구조와 문구가 반복됨
+d5c59803-e16d-4f89-806c-23583d00c85e,283,2,Anonymous,5,5,3,4,plausibility: 18세 데뷔 후 12년 전업 극작가 경력 설명이 다소 약함
+84d30c96-a76f-455c-b562-a09158efdfe4,284,2,Anonymous,5,4,4,3,coherence: 수영 일정이 평일 저녁/주말 아침으로 혼재; fluency: sports_persona의 수영 일정 표현이 서로 어긋남
+bb505a59-cf24-4277-9e6b-77e78981ab64,285,2,Anonymous,5,5,4,5,
+146cd9b3-fe60-4d95-ba52-165d654bad92,286,2,Anonymous,5,4,3,4,coherence: 공연 관람 선호에 대한 arts_persona 내부 서술 흔들림; plausibility: 개인 예술소득이 가구소득보다 높은 수치 모순; fluency: 일부 문장 연결 어색
+79c84c0c-f946-44c3-8b6a-ee8bb6677101,287,2,Anonymous,4,4,2,4,plausibility: 개인소득이 가구소득보다 크게 높고 방송 출연 경력 대비 계약 경험 없음; fluency: 일부 일반적 표현
+edb49b6c-b146-42d4-a55f-e2edd54ac7aa,288,2,Anonymous,5,5,3,4,plausibility: 고령 신규 조각가의 해외 레지던시 경험이 설명 없이 다소 드묾
+f3338df8-9308-4b04-9ee3-7a3aff4e0c39,289,2,Anonymous,3,4,4,3,groundedness: 무용 안무가인데 대학원 전공을 문학으로 서술; coherence: 안무가 경력에 비해 대학원 문학 전공 설명이 다소 이질적
+78a5689c-1a05-4051-a8bc-7f7b9429130d,290,2,Anonymous,5,4,4,4,coherence: 번역가 정체성보다 창작 작가 서술이 더 강함; plausibility: 번역가 직업과 수필가/신춘문예 서사가 다소 혼재
+b4074ef0-ccdf-4cbe-a2f9-0f8fc036e0b7,291,2,Anonymous,4,4,3,4,plausibility: 15년 경력 전업 세션 연주자의 개인 예술수입이 매우 낮음
+830c21d2-f5d0-4675-9cc1-6c47950ee46b,292,2,Anonymous,3,4,3,3,groundedness: 8년 차인데 최근 신춘문예 당선 서술이 시점상 어색함; coherence: 여행의 창작 관련성이 한 문단 안에서 다소 상충; plausibility: 전업 시인인데 매우 낮은 개인소득의 생계 설명 부족; fluency: 상투적 표현과 비유적 AI식 문장 일부
+fe990325-766d-46bf-9105-93227aba6fd1,293,2,Anonymous,5,5,4,4,plausibility: province가 '기타'라 지역 생태계 구체성이 낮음
+988ad765-7e9b-418e-a4e4-c04ab7ff2b5f,294,2,Anonymous,4,4,4,3,"coherence: 운동·취미 루틴이 산책, 등산, 야간 산책으로 조금 분산됨; fluency: 문법 오류: '구경를'."
+1e6050d2-65ed-4838-84f7-172db07e2925,295,2,Anonymous,3,3,3,4,groundedness: 중학교 졸업 후 바로 전문대학 전공으로 이어지는 학력 서술이 부자연스러움; coherence: 중학교 졸업 후 전문대학 진학 서술과 필라테스-장비 준비 시간 절약 연결이 어색함; plausibility: 48년 사진 경력인데 저작권과 예술소득이 없다는 점이 부자연스러움; fluency: sports_persona에서 운동 효과와 '장비를 준비하는 시간 절약'의 연결이 어색함
+b7587777-5502-421d-8664-d0a6d27ef57a,296,2,Anonymous,4,5,3,4,plausibility: 개인 예술소득이 가구소득보다 큼
+be7f4eae-41b6-44db-ae5f-1f3c6018278b,297,2,Anonymous,4,5,3,4,plausibility: 평론가와 신춘문예 창작 당선 서사가 혼재
+1a146de2-f592-483b-adc8-d04ebfa2c290,298,2,Anonymous,5,5,3,4,"plausibility: 개인 예술소득이 가구소득보다 높고, 고소득 전업 소설가인데 계약 경험 없음"
+ee9219ef-f15d-4deb-be10-ce2c8dbee6fc,299,2,Anonymous,5,5,4,3,fluency: AI식 표현과 비문성 문장 있음
+1e86da9b-3312-42e4-ba70-b87507f814f3,300,2,Anonymous,5,4,4,2,coherence: 인천 지역 특산물로 갈치구이 서술이 어색함; plausibility: 인천 지역 특산물로 갈치구이 언급은 어색함; fluency: 문체가 해요체/하십시오체와 평서체 사이에서 흔들림
+31efdc45-b261-43fd-bb62-c55cd902afdc,301,2,Anonymous,4,4,2,3,coherence: 기타 연주가 앞선 서사에 충분히 예고되지 않음; plausibility: 개인 예술소득이 가구소득보다 큼; fluency: hobbies_and_interests의 '확인을'이 아니라 '확인를'로 조사 오류
+631e71d7-c969-43d2-9966-8ee49f486ddc,302,2,Anonymous,4,4,3,2,plausibility: 경력 0년 자가발매 작곡가의 개인 예술소득 2-3천만원이 다소 높음; fluency: 동일한 주어 반복과 어색한 번역투가 많음
+f9a6d8be-8e94-49d0-8209-d8b747fbe0f0,303,2,Anonymous,5,3,4,2,coherence: 배우자와 동거한다는 설명과 자취 생활 설명이 충돌; fluency: 카페 기록 정리와 협업·지원 효과를 연결한 문장이 부자연스러움
+2959b02c-845d-4121-a308-64de6ca384d1,304,2,Anonymous,5,4,3,4,plausibility: 지휘자 설정에 악기 보관·레슨 이동비 등 연주자형 디테일이 섞임
+af4fbf4f-15d9-4b56-a19f-ec542359befd,305,2,Anonymous,4,5,5,4,
+4b9102d7-afc1-4473-9a84-5212c76227a2,306,2,Anonymous,5,5,3,4,plausibility: 지역이 '기타'로만 처리되어 활동 기반이 모호함
+7b563ef9-80de-43ca-91a0-8a47f53b48f0,307,2,Anonymous,5,4,3,3,coherence: 회화 작가와 설치 작업 중심 서술의 약한 혼선; plausibility: 88세 후발 전업 작가의 비교적 높은 개인 예술소득은 설명 부족
+1da153c1-adc5-4afd-80fc-559192642415,308,2,Anonymous,5,5,4,3,
+b682b328-9f7c-4c5e-bb9d-4a9c5f6f733c,309,2,Anonymous,4,4,3,4,groundedness: 매니지먼트 계약 없음과 매니지먼트 관계 언급이 약간 혼재됨; coherence: 매니지먼트 계약/관계 설정이 약간 불명확함; plausibility: 정규 패널 활동과 계약 경험 없음이 다소 어색함
+81fdb25b-79f9-4900-b285-d3962aee7dc7,310,2,Anonymous,2,3,2,3,groundedness: career_years=0인데 독주회·실내악·콩쿠르 입상·위촉작 등 경력 서술이 과도; coherence: 전문 교육 없음과 음악 전공이 충돌; plausibility: 경력 0년 신인 기악연주자에게 콩쿠르 입상·위촉작·협주곡 서사가 과도함; fluency: AI식 일반 표현이 여러 군데 보임
+b64749dd-53dd-4697-9a11-067a3ba7fd0d,311,2,Anonymous,4,5,4,4,plausibility: 전업 소설가인데 is_freelance=false는 다소 부자연스러움
+bfca31b4-031e-43c5-af8c-b51b94e816f3,312,2,Anonymous,3,2,1,2,"groundedness: 86세를 70대 후반으로 서술; coherence: 70대 후반과 71세 전환 후 15년 경력의 나이 불일치; plausibility: 나이 서술 불일치, 86세 중졸 신진 전환 음악 프로듀서의 인디 레이블·디지털 협업 설정이 과도함; fluency: 여러 필드에서 AI식 일반 결론 반복"
+529e65fd-e4c5-45f6-97a2-bbab90306d29,313,2,Anonymous,5,4,3,4,plausibility: 75세 판화가의 저강도 러닝 및 10년 계획 표현이 약간 부자연스러움
+7f0e1037-5916-4789-a2a0-8eace195c02f,314,2,Anonymous,4,4,3,4,coherence: 카페에서 영화 관람 표현이 어색함; plausibility: 30년 극작 경력인데 예술소득 없음·저작권 없음
+5239f2da-2d8e-4ee5-8e1e-7d7a49ac7ca4,315,2,Anonymous,5,5,3,4,plausibility: 20세 전업 조각가의 표준계약·소득 수준이 다소 빠름
+eec4a20e-0f94-4c79-83b9-14f4929c2eb1,316,2,Anonymous,4,5,4,3,fluency: arts_persona의 '80대의 작품'은 의미가 불명확합니다.
+c25c5479-6344-429d-9ebe-9342c75fda0b,317,2,Anonymous,4,5,3,2,"plausibility: 장기 프로듀서 활동·발매 서술 대비 개인 예술소득 없음이 약간 부자연스러움; fluency: 주어 반복이 과하고 ""보고 부담이 큰 부분으로"" 문장 연결이 부자연스러움"
+4403850d-bf4b-4c92-9cc6-46489f63000e,318,2,Anonymous,3,4,3,3,groundedness: 세션 연주자인데 독자 EP 발매 서사가 강함; coherence: 세션 연주자와 독자 EP 발매 경험의 초점이 약간 흔들림; plausibility: 세션 연주자와 개인 EP 발매 서사가 다소 혼재; fluency: 세션 연주자 설명에 '첫 EP 발매'가 들어가 역할이 약간 흔들림
+f0c34409-868c-41f2-950b-53ca15f07bf7,319,2,Anonymous,3,2,3,4,소설가 서사와 시집/신인상 응모 서사가 내부 충돌
+46d145d0-9ba4-430a-a0cf-22d33b799b38,320,2,Anonymous,5,5,4,4,fluency: 일부 문장 연결 어색함
+0291ea0f-d21c-43ad-96ae-e39cd23dd2db,321,2,Anonymous,5,5,4,4,
+d484dfbc-41e1-43c8-a60b-9f3d910ea218,322,2,Anonymous,3,4,2,4,groundedness: 0년 차 대비 활동 이력 서술이 과함; plausibility: 0년 차 전업 세션 연주자의 해외활동·표준계약 경험이 설명 부족
+56f7578d-cef7-4aa1-a6b6-21dd6c198782,323,2,Anonymous,4,4,4,3,coherence: 지휘자인데 '협주곡 위촉작을 연주' 표현이 역할상 다소 애매함
+34daafb0-1457-4efc-a738-54cc6c385dd3,324,2,Anonymous,4,4,2,4,coherence: 강원 기반과 대학로 첫 공연 준비가 약간 분산되어 보임; plausibility: 20세 4년제 대졸 전업 연출가의 소득·계약 설정이 비현실적; fluency: 어색한 표현: '대본을 캐스팅할 때'
+d204c397-fbc0-408f-a465-f36d75f23dec,325,2,Anonymous,4,4,3,4,coherence: 해외 공연 언급이 지역 중심 서사 속에서 다소 돌출됨; plausibility: 지휘자 저작권 보유와 해외경험 대비 낮은 수입 설명 부족
+117f7506-72e1-40f3-9ce2-14419cbe90da,326,2,Anonymous,3,2,3,3,"groundedness: 남자 성악가인데 위촉작명이 소프라노 중심으로 제시됨; coherence: 남성 성악가와 소프라노 협연 정체성 혼선, 대전의 한강공원 지리 오류; plausibility: 대전에 한강공원 언급, 남성 성악가에게 소프라노 위촉작 서술이 어색함; fluency: 대전에 '한강공원'이라고 한 지명 표현이 이상함"
+e43e2329-7750-485f-aeea-0c1a19166725,327,2,Anonymous,4,4,3,4,coherence: 해외 경험 없음과 해외 프로젝트 소통 서술의 약한 긴장; plausibility: 해외 경험 없음인데 해외 프로젝트 소통 언급
+5eae9800-7b0e-45b4-8254-7ab6b7ac3823,328,2,Anonymous,5,5,4,4,plausibility: 해외 활동 경험의 구체성이 낮음
+a9e55603-e858-4039-8e34-c8d237f7c034,329,2,Anonymous,5,5,4,4,plausibility: 86세에 10년 후 활동 목표는 다소 낙관적이나 불가능하진 않음; fluency: 일부 표현이 다소 생성문처럼 정돈됨
+a7695aee-38c5-4e6f-ba27-4da8450e0503,330,2,Anonymous,4,4,2,4,plausibility: 75세 데뷔 2년 차 비프리랜서 전업 작곡가의 국공립 교향악단 위촉작은 이례적
+03e1f585-e3b4-4de3-8dd3-8c861aff2eec,331,2,Anonymous,2,3,2,3,"groundedness: 유리공예가인데 유약·소성 등 도예 서술이 섞임; coherence: 유리공예와 유약·소성 중심 작업의 매체 혼선; plausibility: 유리공예와 유약·소성 용어 혼재, 개인소득이 가구소득보다 높음; fluency: 유리공예가인데 '유약 성형과 소성 작업'은 도예 쪽 표현처럼 보여 어색함"
+4a32b02c-157c-4b73-bb06-a11c5dcb811b,332,2,Anonymous,3,4,3,4,groundedness: 전업·부업 없음인데 강의 수입 반복 언급; plausibility: 28세 10년 차 전업 수필가라는 경력 밀도와 낮은 수입 설명이 약함
+c7689938-8237-42ca-9212-da7714bd3fb2,333,2,Anonymous,4,4,3,4,coherence: 중학교 졸업 직후 전향했다는 표현이 27세 데뷔 서사와 시간적으로 다소 뭉뚱그려짐; plausibility: 네이버웹툰 연재 설정 대비 소득과 표준계약 미사용이 다소 낮게 잡힘; fluency: hobbies_and_interests에 조사 오류: '방문를'
+a0e77d04-d7f7-47f7-9cb2-449c7c23d58e,334,2,Anonymous,4,5,4,3,fluency: 여러 필드에서 과도하게 일반적인 '창의성' 표현
+b118f76f-b484-4754-929f-e706a312f448,335,2,Anonymous,4,3,3,2,"coherence: 자취 생활과 배우자·자녀가 있는 가족 생활 서술 충돌; plausibility: 40년 차 건축가인데 계약 경험 없음은 매우 부자연스러움; fluency: ""어긋나는 바""가 부자연스럽고 72세 배우자·자녀 설정과 자취 생활 표현이 어색함"
+dcfc8e19-dc85-4f97-a5c8-b2c55925d396,336,2,Anonymous,4,5,2,3,plausibility: 81세 7년 차 작곡가의 국공립 위촉·콩쿠르 입상·협주곡 3곡 초연은 과도함; fluency: 추상적이고 범용적인 표현이 여러 필드에 반복됨
+02029f1a-ee48-444d-ad74-c36a2bdc7c6b,337,2,Anonymous,3,5,4,3,"groundedness: 계약 경험 없음인데 인디 레이블 협업·지원 사업 신청 등 제도 경험이 다소 구체적으로 확장됨; plausibility: 레이블 협업이 반복되는데 계약 경험 없음은 다소 부자연스러움; fluency: 감정적 공명, 감정적 깊이 등 추상 표현 반복"
+9f9b3329-c628-4b33-b169-26fd009deb62,338,2,Anonymous,4,4,3,4,plausibility: 15년 전업 프로듀서의 매우 낮은 개인 예술수입
+e602a93b-2cbf-419e-b7c3-20ce373742b2,339,2,Anonymous,4,4,2,3,coherence: 방송작가 서사에 '의상' 준비가 약간 출연자처럼 보임; plausibility: 15세 방송작가 데뷔와 28세 13년 경력 설정이 비현실적으로 보임; fluency: 어색한 추상 표현
+ded22a22-a597-4402-bdc6-6447804c5647,340,2,Anonymous,5,4,2,3,coherence: 경상남 기반과 국립국악원 활동의 지역 맥락이 약간 어색함; plausibility: 26세 판소리 명창 호칭과 정가·시조·판소리 혼합 설정이 부자연스러움
+942b92a7-1af4-4ac8-8843-3e56240ff751,341,2,Anonymous,3,3,2,3,groundedness: 15세 데뷔와 대학 전공 후 본격 활동 시작 서술 간 시점 불일치; coherence: 21년 경력과 대학 전공 후 본격 활동 서사가 시간상 다소 어색함; plausibility: 15세 데뷔 판화가 21년 경력 설정이 설명 부족; fluency: AI식 추상 표현과 반복 문형
+a3c56b76-65e8-401d-9403-8e20efc20290,342,2,Anonymous,5,5,4,4,
+9f36e15c-de99-4af1-9cca-04289cf21b86,343,2,Anonymous,4,4,4,3,plausibility: 22세 2년 차 작곡가의 예술소득이 다소 높게 느껴짐
+80775402-2f1a-46b7-8bf9-239d253b8731,344,2,Anonymous,4,5,3,3,plausibility: 개인 예술소득 구간이 가구소득 구간보다 높음
+cd1f40c0-967c-4a05-a4ac-469028e0058b,345,2,Anonymous,4,5,4,3,plausibility: 비엔날레 경험이 있는데 계약 경험 없음은 약간 의문
+5b834f43-d0e7-4f8e-a583-ed9afdbbca8a,346,2,Anonymous,4,4,4,3,coherence: network_persona에 지원사업 선별 내용이 들어가 필드 역할이 약간 혼재됨; fluency: 문장 종결 호응 어색함과 번역투 표현 일부
+b815e658-e0d9-4ad1-a69d-0217f6bc6412,347,2,Anonymous,4,4,4,3,coherence: 식생활 문장에 라이브러리 언급이 어색함
+986aa94e-5a28-4d93-bc8a-bfb01e1cab9b,348,2,Anonymous,5,4,4,3,"coherence: 강의 시간이 창작 집중 시간으로 쓰인다는 표현이 모호함; fluency: 의미 연결이 어색한 표현: '강의로 인한 시간을 활용', '일정표로 식사 시간 관리'."
+729b775c-037d-448d-8998-370bd0b19516,349,2,Anonymous,4,3,3,4,coherence: 방송작가와 출연자 요소가 혼재; plausibility: 방송작가 서사에 의상·대기 짐 등 출연자 디테일이 섞임; fluency: 일부 문어적 표현 있음
+e706f3c2-eafd-446f-bbb8-bd77b114b311,350,2,Anonymous,2,2,2,2,groundedness: 유리공예가인데 물레와 유약 성형 등 도예 기술로 서술; coherence: 유리공예와 도예 물레·유약 성형 기술의 분야 충돌; plausibility: 유리공예와 도예 물레·유약 성형 기술 혼동; fluency: 유리공예가에게 '물레와 유약 성형 기술'은 도예 용어에 가까워 문맥상 이상함
+0e839036-f949-4058-a35d-0d9b6a556a90,351,2,Anonymous,5,5,4,4,plausibility: 사진 분야 활동 대비 저작권 없음이 다소 어색함
+b5360f3e-de8e-4835-913a-31964a9c5fc5,352,2,Anonymous,4,4,3,3,coherence: 늦은 전환 이후 전수교육관 후배 교육까지의 경로 설명이 다소 압축됨; plausibility: 개인소득이 가구소득보다 높고 비프리랜서 전업 구조 설명 부족
+8f1833ff-d480-4c1c-9851-e93f56a5d2a8,353,2,Anonymous,3,4,3,4,groundedness: 작곡가 정량값에 비해 객원 지휘자 활동이 과도하게 구체적임; coherence: 작곡가 서사에 악기 관리비·레슨 이동비가 들어와 역할 범위가 약간 불명확함; plausibility: 국립교향악단 객원 지휘 경력 대비 예술소득이 낮고 설명 부족
+8f5b3efb-b0e1-4d3a-889c-0c4c0d5d2373,354,2,Anonymous,4,4,2,3,coherence: 지휘자인데 악기 관리비·레슨 이동비가 반복되어 약간 어색함; plausibility: 16년 차 전업 지휘자 활동량 대비 개인 예술소득 5백만원 미만은 매우 낮음; fluency: 문체가 일부 필드에서 존댓말과 평서체로 혼재함
+61983019-6fb4-4cd1-851e-0980966ff0a2,355,2,Anonymous,4,5,4,4,plausibility: 싱어송라이터인데 저작권 없음은 다소 부자연스러움
+0d3d98b8-fb45-4525-87a2-97b116e5d724,356,2,Anonymous,5,5,2,3,plausibility: 고령 전업 광고 사진가의 정기 클라이언트 촬영과 무계약·저수입 조합이 부자연스러움; fluency: 일부 문장이 설명문처럼 반복되고 번역투가 있음
+7c038f4e-d518-451f-9848-3f4accb468c6,357,2,Anonymous,4,4,2,4,plausibility: 84세 4년 차 비프리랜서 전업 미디어아트 작가의 갤러리 전속·레지던시가 매우 이례적
+da6be37d-d153-4204-89ba-da6b6623c6bb,358,2,Anonymous,5,4,4,5,coherence: 정가와 가야금 기악 중심 서술이 약간 혼재됨
+f6b9c180-0136-4f0f-86c1-ed2a7b35bd8a,359,2,Anonymous,4,4,3,3,coherence: family_persona가 가족 관계보다 친구 일정 조율로 작성됨; plausibility: 세션 연주자인데 비프리랜서 설정 설명이 부족함; fluency: sports_persona에서 독립서점 방문을 운동·회복처럼 서술해 문맥이 어색함
+c0d57ef3-eb44-4c7c-a292-c28d9e4c1319,360,2,Anonymous,4,5,2,3,plausibility: 전업 안무가의 공연·해외 활동이 있는데 개인 예술소득 없음
+649588c1-ac9f-4edc-8343-1918dae3bb55,361,2,Anonymous,4,5,4,4,
+ee148fe9-a575-49d5-96b0-93d0b39f6671,362,2,Anonymous,3,4,2,4,groundedness: employment_type=겸업인데 cultural_background에 '전업으로 시작'이라고 서술됨; coherence: sports_persona에 카페 기록 정리가 섞여 초점이 약간 흐림; plausibility: 53세 데뷔 직후 객원 지휘 활동이 설명 없이 빠르게 전개됨; 지휘자 저작권 보유도 맥락 부족
+921cbe7e-4231-47d6-8554-cdbc18d10011,363,2,Anonymous,3,3,2,4,groundedness: 고소득 앵커 대비 생활비를 짧게 나눠 쓰는 서술이 다소 어색함; coherence: 정기적 수입 확보와 출연 간격 공백 대비가 약간 긴장됨; plausibility: 개인 예술수입이 가구소득보다 크게 높음; fluency: 개인 예술소득은 6천만원 이상인데 household_income_bracket은 1-2천만원 미만이라 수치 관계가 이상함
+355a58fc-83fb-479b-bdaf-49769056cd44,364,2,Anonymous,5,4,3,3,plausibility: 초등학교 학력의 전업 문학 평론가로 문예지 활동을 장기간 지속한 배경 설명이 약함
+4a7c4644-b24e-4408-8ccb-3eb1e1e2a076,365,2,Anonymous,4,5,4,3,
+f551d405-9952-48da-bb3d-4c4a920f262a,366,2,Anonymous,4,4,4,4,
+ce4ab89f-ccb4-4811-abd2-66259d3a9f63,367,2,Anonymous,2,2,2,3,groundedness: 방송작가인데 의상·출연 간격 등 예능 출연자처럼 서술됨; coherence: 방송작가와 출연자 정체성이 여러 필드에서 섞임; plausibility: 방송작가인데 출연자처럼 의상·대기 짐·출연 간격을 반복 언급함; fluency: 조사 반복과 생략으로 어색한 문장 있음
+de9a4274-8b6a-46d7-8991-d91556ce7af5,368,2,Anonymous,5,5,4,4,
+758d0481-12ca-4e64-a718-825c6956a650,369,2,Anonymous,5,5,4,4,fluency: 일부 generic한 표현
+91306d47-2109-46c9-95e9-3c03297e76d3,370,2,Anonymous,4,4,4,3,coherence: 미디어아트 작가인데 판화·설치 중심 서술이 다소 장르상 느슨함; fluency: AI식 명사구와 설명문투가 일부 반복됨.
+7f2c5ed4-9cec-4b18-964e-ce6e7b4e935a,371,2,Anonymous,5,5,4,4,fluency: sports_persona에서 수영장을 다니면서 '집에서' 유산소 운동으로 삼는다는 표현이 어색함
+e755c459-65ef-41f9-8b68-75dc7eba9ead,372,2,Anonymous,5,5,4,4,
+de74a1ac-5f98-48c1-9062-a1248e98e843,373,2,Anonymous,5,5,5,4,
+48643fed-f2d1-466e-abbd-4b443508e95f,374,2,Anonymous,3,3,3,3,"groundedness: 중학교 졸업 후 전문대학 진학 서술이 부자연스러움; coherence: 자취 생활과 가족 동거처럼 보이는 묘사가 혼재; plausibility: 케이블 시청률 10%대 과장, 학력 경로 표현 어색"
+580ced95-00ab-4c63-9764-c337c6e4746c,375,2,Anonymous,5,5,5,4,
+f9329e8c-74a0-44c6-8de8-18137479fae7,376,2,Anonymous,3,3,3,3,groundedness: 번역가보다 수필가·기고 작가처럼 서술된 부분이 큼; coherence: 번역가와 수필가 서사가 혼재; plausibility: 번역가라기보다 수필가 서사가 중심임; fluency: creative_world_persona 추상 표현
+4e4e11ca-ed87-4f06-96b2-60587bec8587,377,2,Anonymous,5,5,5,3,fluency: 어색한 반복 표현
+de50d8d5-9422-4bb0-8ce8-f014cb50d56d,378,2,Anonymous,3,4,2,3,groundedness: 낮은 소득 앵커와 복층 아파트 생활 묘사의 긴장; coherence: 가족 관계 서술과 친구 중심 서술이 약간 어긋남; plausibility: 29년 차 음악 프로듀서의 예술소득 없음·가구소득 1천만원 미만과 서울 복층 아파트 서사가 충돌
+27bc5095-634c-4550-8daf-b0ec75f5e4f7,379,2,Anonymous,5,5,4,3,fluency: 개인 서술 중 '대구의 미술가들은'으로 일반화되어 어색함
+baf43d40-247d-4f22-b6a4-0e70dcd1ec07,380,2,Anonymous,4,4,2,4,coherence: 성악가에게 악기 보관 중심 생활 묘사가 어색함; plausibility: 성악가에게 악기 보관비가 부자연스럽고 전업인데 예술소득 없음
+0b476e6c-1bd3-48c5-898b-6c575ef64443,381,2,Anonymous,5,5,4,4,
+b87f66ae-17b3-4563-b08c-a32c5fb63a1c,382,2,Anonymous,5,4,4,4,coherence: 창작 시간이 화·목 오후인지 주말인지 약간 불일치
+e315b854-1ca7-4f70-a245-2022da25ce07,383,2,Anonymous,3,5,4,4,groundedness: 예술 개인소득 없음인데 촬영 수입을 전제로 함; plausibility: 광고 협업이 있는데 개인 예술수입 없음은 설명이 조금 부족함
+c4dc24f3-7290-48e7-8059-002d288c96e5,384,2,Anonymous,3,4,3,4,groundedness: 15세 데뷔인데 대학 시절 시작으로 보이는 배경 서술이 다소 불일치; coherence: 15세 데뷔 맥락에 비해 대학 시절부터 방송 활동을 시작했다는 표현이 다소 어긋남; plausibility: 15세 데뷔·25세 대학원·10년 경력의 연결 설명 부족
+5b3fdbc0-216c-4201-a462-44ee8f995067,385,2,Anonymous,5,4,4,4,coherence: network_persona가 실제 인적 네트워크보다 수입·지원 서술에 치우침; plausibility: 24세 7년 차와 해외 경험은 빠른 편이나 가능
+ef09e334-14f5-478e-9f5a-73d82c2dbe48,386,2,Anonymous,3,3,2,3,"groundedness: 성악가인데 악기 보관·악기 관리비가 반복되어 직업 특성과 약간 불일치; coherence: 성악가 서사에 악기 보관·협주곡 연주 표현이 부적절함; plausibility: 성악가에게 악기 보관, 협주곡 연주라는 설정이 부정확함"
+29e16ef9-2464-4466-947d-6d02db7943c4,387,2,Anonymous,5,5,5,3,
+f1f31a74-47eb-4447-808f-3f7dcf2bfddb,388,2,Anonymous,5,5,4,4,plausibility: 장기 갤러리 협업 경력 대비 계약 경험 없음이 부자연스러움; fluency: hobbies_and_interests의 '근린 공원 짧은 산책를'은 조사 오류
+d9cf3daf-d4df-461f-bbb8-53d56158efa9,389,2,Anonymous,4,4,4,3,coherence: 설치미술 서사에 '화면의 밀도' 표현이 반복되어 장르감이 약간 흔들림
+40a3ce0d-cab9-4e8a-b9d0-467bf9ae5316,390,2,Anonymous,5,5,3,4,plausibility: 1년 차 전업 연극 배우의 3-4천만원 예술소득은 설명 부족
+cd8d81e9-6931-4f11-b2e9-b9bbc6859f74,391,2,Anonymous,3,3,3,4,"groundedness: 가족과 동거하지 않는다고 하면서 '아내와의 관계'가 갑자기 등장해 가족 서술이 다소 불안정함; coherence: 비동거 가족 설정과 아내 관계, 경력단절 표현이 다소 충돌; plausibility: BIFF 상영 경력의 전업 감독치고 소득이 매우 낮음"
+8d501468-3f02-431a-ba51-5a169e32a9f2,392,2,Anonymous,4,4,4,2,"coherence: 지원 경험 표현이 다소 불명확함; fluency: hobbies_and_interests의 '산책를' 조사 오류, support_persona의 '미달을 경험' 의미 불명확"
+6c55e68a-a315-465f-815d-577b71698328,393,2,Anonymous,4,4,4,3,fluency: 부자연스러운 표현: '생활 공간에 미치지 않도록'
+9c1b2671-bdfd-46b6-8ae3-1f6724a6a1b3,394,2,Anonymous,4,5,4,4,
+81e3cd62-1d60-4b35-973b-91f26090f6ac,395,2,Anonymous,5,4,3,4,coherence: 네이버웹툰에서 단행본으로 연재 표현이 어색함; plausibility: 개인 예술소득이 가구소득보다 크고 네이버웹툰 단행본 연재 표현이 어색; fluency: 도움/도움 중복 표현
+0347c10f-07b6-420b-8de9-a413899e3854,396,2,Anonymous,5,4,3,3,coherence: 미디어아트와 손의 흔적·자연 중심 표현이 약간 장르 혼재처럼 보임; plausibility: 66세에 41년 미디어아트 경력은 한국 미디어아트 역사상 드문 설정; fluency: AI식 추상 표현이 일부 반복됨
+ffba9e0e-b2ef-4e5f-926f-5390dec7d31b,397,2,Anonymous,4,4,3,4,coherence: arts_persona의 커피와 예술 감상 연결 표현이 어색함; plausibility: 늦은 전환 1년 차와 해외 경험·협주곡 활동의 연결 설명 부족
+5fe11972-5f91-4185-800c-c93f0006853c,398,2,Anonymous,3,4,3,3,groundedness: 예술 개인소득 없음인데 촬영 수입·클라이언트 작업 언급; coherence: 다큐 프로젝트와 광고 클라이언트 요청의 결합이 다소 어색함; plausibility: 광고 클라이언트 촬영 언급이 개인 예술수입 없음과 긴장됨
+fbfa38f2-5928-4dcb-b5c2-88de82aeb726,399,2,Anonymous,5,5,3,3,plausibility: 전업 비프리랜서 사진가인데 클라이언트 작업과 예술소득 없음이 함께 제시됨; fluency: AI식 요약 문장과 일반화 표현
+a72a12b3-6ce7-4c2c-a091-2a50b2a22b72,400,3,Anonymous,3,3,2,4,groundedness: has_secondary_job=False인데 강의 수입을 생활비 원천처럼 언급; coherence: 번역가인데 신춘문예 당선 시집 출간 서사가 섞임; plausibility: 번역가와 창작 문인 서사 혼재
+40252b64-85eb-467f-9ba2-7572af19e46c,401,3,Anonymous,4,3,3,2,coherence: 가족 일정 조율 설명이 기존 야간/주중 작업 리듬과 상충하고 과도하게 예시화됨; plausibility: 비프리랜서 세션 연주자라는 조건 대비 서사는 프리랜서형; fluency: 가족 서술이 과도하게 인공적이고 문체가 튐
+886091cf-a110-473a-a920-516a8061f5e8,402,3,Anonymous,5,5,3,4,plausibility: 전업·무소득과 높은 가구소득의 근거가 서사에 없음
+24efc3d7-be72-4954-a092-9bfa83c65ff1,403,3,Anonymous,3,5,3,4,groundedness: 예술소득 없음인데 창작 지원금 수혜가 언급됨; plausibility: 전업 번역가의 단행본 작업·지원금 수혜와 예술소득 없음이 약간 부자연스러움
+05914248-5184-4899-bc34-ccf908952e28,404,3,Anonymous,5,5,3,4,plausibility: 정규 패널·기획 성과 대비 예술수입이 매우 낮음
+656f66b3-196c-448e-8b9a-8cfa5ffbedb1,405,3,Anonymous,2,4,3,4,시집 출간·기고/강연 생계와 예술소득 없음/저작권 없음 충돌
+c5869370-aaa0-41ea-aa62-768c61cf228b,406,3,Anonymous,2,4,3,4,groundedness: 전업/부업 없음인데 강의 및 외주 병행 서술; coherence: 전업인데 강의 및 외주 작업 병행이 언급됨; plausibility: 23세 대학원 이상 4년 차 전업 소설가와 강의 수입 언급이 다소 어색
+ea05def5-65a3-4b00-8d06-d60fc80a580a,407,3,Anonymous,4,3,3,3,coherence: 네트워크 필드가 지원제도 설명에 가깝고 해외 활동을 여행처럼 서술해 다소 혼재됨; plausibility: 비프리랜서 전업 촬영감독인데 매우 낮은 예술수입; fluency: 해외 활동 경험이 국내 여행을 자주 떠나는 이유처럼 서술되어 의미 연결이 어색함
+6e35ce21-7bf8-4f3b-90fc-aafdaa5e302d,408,3,Anonymous,3,4,3,4,groundedness: 경력단절 있음에도 서사에서 구체적 단절·복귀 맥락이 부족함; coherence: 복귀형 표현이 현재의 장기 전업 서사와 약간 긴장됨; plausibility: 37년 전부터 미디어아트 작가였다는 장기 경력 설정에 시대적 설명 부족
+9fb44ddb-9f4a-4062-809a-5e10f7442d4d,409,3,Anonymous,4,4,4,3,coherence: 설치미술 작가에게 '화면의 밀도' 표현이 다소 매체와 어긋남; plausibility: 협업이 많지만 계약 경험 없음과 약간 긴장됨; fluency: persona에 '행사 둘러보며' 조사 누락
+dbe9f453-0be5-4687-a6f6-1f27f973cc18,410,3,Anonymous,4,4,2,3,coherence: 성악가에게 '악기 보관' 표현이 부자연스러움; plausibility: 중졸 3년 차 성악가의 콩쿠르·협연·독주회 규모가 과도함; fluency: 추상 명사형 표현이 일부 두드러짐
+7c5bfd80-c0b8-4923-91d8-9082243ab5b7,411,3,Anonymous,5,4,3,3,plausibility: 24세 2년 차인데 경력단절·재진입형 지원 서사가 설명 부족
+191f1508-d5eb-46f4-b808-7d97bcc75a8f,412,3,Anonymous,4,3,2,4,"coherence: 기악 연주자와 정가·판소리 중심 설명의 혼재; plausibility: 기악 연주자인데 정가·판소리 중심, 2년 차에 국립국악원 이수자 시험 통과와 강의 경험이 과함"
+16811327-0cc2-490c-962d-b2aa19a5abff,413,3,Anonymous,4,4,4,3,coherence: 미디어아트보다 회화적 표현이 반복되어 약간 이질적; plausibility: 갤러리 협업이 많은데 계약 경험 없음은 다소 약함
+67d8c629-7c9c-4a2b-a8ff-5ecd42106903,414,3,Anonymous,4,4,4,4,
+bf58a5c4-3d7f-4608-a451-a062358bbb24,415,3,Anonymous,5,5,4,4,
+017c063d-cd66-4125-a831-09c29877dd5a,416,3,Anonymous,5,5,3,3,plausibility: 비프리랜서 전업 세션 연주자치고 소득과 고용 구조가 불명확
+91d2f734-29ef-4855-8c62-1b85beb78f79,417,3,Anonymous,5,5,4,4,fluency: living_persona의 '귀를 쉬운다'는 '귀를 쉬게 한다'가 자연스러움
+f5aaffe5-4d45-449f-8a82-4435392f7d0c,418,3,Anonymous,4,3,4,4,coherence: 47세 대학 졸업 후 전환이라는 배경이 설명 부족으로 어색함; fluency: 일부 추상적 문어체 표현
+75374840-ba83-4035-aa2a-0f3e42d073e4,419,3,Anonymous,5,5,4,4,
+91d43a76-440e-4584-b1d9-dc004b9787c6,420,3,Anonymous,5,4,3,4,coherence: arts_persona의 예술 활동 설명이 다소 약함; plausibility: 전업 정규 코너 MC 대비 예술소득이 낮음; fluency: arts_persona에서 '주말에 동네 산책하며'는 '동네를 산책하며'가 자연스러움
+13306eab-7157-44dd-ba4e-3f26aa99cdc0,421,3,Anonymous,5,5,4,4,plausibility: 26년 음악 프로듀서인데 저작권 없음으로 제시됨
+7952fb76-9fe3-4eb7-a188-b305c28d3266,422,3,Anonymous,1,3,1,3,"groundedness: 17세인데 4년제 대학교 졸업/대학 전공 선택 서사가 충돌; coherence: 17세인데 이미 대학 전공을 선택했다는 표현이 연령 서사와 어색함; plausibility: 17세와 4년제 대학교 졸업/재학 서사, 고소득, 겸업 설정이 심하게 부자연스러움"
+9ba764ba-31f2-45b9-8276-2e59f7ffa745,423,3,Anonymous,5,5,2,2,"plausibility: 개인 예술소득이 가구소득보다 높고, 비프리랜스 겸업 작곡가의 고소득 설명 부족; fluency: 반복적 주어와 조사 오류: '방문를'"
+584f098a-c748-4fd9-aa9c-5cec5b54d238,424,3,Anonymous,4,3,2,4,coherence: 22세 5년 차 지휘자가 국공립 교향악단 객원 지휘를 주로 맡는 설정은 다소 비현실적; plausibility: 22세 5년차의 국공립 교향악단 객원 지휘 중심 활동은 과도함
+25de45d3-a392-4f35-8929-e27f278b8a76,425,3,Anonymous,3,5,3,3,groundedness: 전업·부업 없음인데 교육 현장 병행처럼 읽히는 표현; plausibility: 63세 전향 후 전업 기악 연주자로 활동하는 경로는 드묾; fluency: hobbies_and_interests 조사 오류 '확인를'
+02ec22c4-46ed-4fe5-a362-ab0eff6e9ad1,426,3,Anonymous,3,4,3,4,groundedness: 계약 경험 없음인데 갤러리 전속 작업 표현이 다소 과함; coherence: 갤러리 전속 작업 언급이 계약 없음과 약간 긴장됨; plausibility: 갤러리 전속 작업 언급과 계약 경험 없음이 약간 충돌
+661d3fdf-9df7-453c-a8f8-c0c47a844e36,427,3,Anonymous,3,4,3,2,groundedness: 배우인데 대본과 캐스팅 주도 표현이 다소 과함; coherence: 배우가 대본과 캐스팅을 주도한다는 설정이 약간 과함; plausibility: 배우가 대본과 캐스팅을 주도한다는 역할 범위가 다소 과함; fluency: 반복적 끝맺음과 추상 표현
+6cd4b7e3-a224-4fc4-9515-290e2df08e3a,428,3,Anonymous,3,3,2,3,groundedness: 부업 없음인데 정기 수업 담당을 수입 활동처럼 서술함; coherence: 기악 연주자와 성악/판소리 중심 서사가 충돌함; plausibility: 20세 대학원·전업·경력공백·전수교육관 수업 담당 조합이 매우 드묾; fluency: 반복적 주어와 추상 표현
+28e5076f-eae0-48e9-980b-88a862c3aca2,429,3,Anonymous,3,3,3,4,groundedness: 작곡가 앵커에 비해 연주자식 수입·연습공간 서술이 반복됨; coherence: 작곡가인데 연주 수입·연습 공간·연주 후 회복 서사가 반복되어 직업 정체성이 흔들림; plausibility: 위촉·콩쿠르 성과 대비 개인예술소득이 매우 낮음
+44916037-2abc-40bd-b8c9-725aadc85d1b,430,3,Anonymous,4,4,3,4,coherence: 조각가 서사에 '화면의 밀도' 표현이 다소 부자연스러움; plausibility: 비프리랜서 겸업 수치와 판매수입 중심 서술이 약간 어긋남
+9afa7125-1971-4506-b45f-890fe91fa188,431,3,Anonymous,4,4,3,3,coherence: 지원 신청 여부 표현이 신청과 미신청으로 혼재됨; plausibility: 15세 데뷔 성악 경력 및 저작권 보유가 설명 없이 다소 특이; fluency: support_persona의 '미신청으로 결정했다'가 부자연스럽고 sports_persona에 명사형 단문이 섞임
+bb055a37-7e92-4376-98e8-ee91ba80d942,432,3,Anonymous,5,5,2,4,plausibility: 65세 신규 전환 후 3년 차 전업 디자이너의 BIM 주도·수입 없음 설정이 드묾
+abd25519-e4dc-4adf-a78a-30c0a642c116,433,3,Anonymous,5,4,2,4,coherence: 방송 MC와 연기 꿈 배경이 약간 느슨하게 연결됨; plausibility: 정규 케이블 MC·11년 차 전업인데 예술수입 5백만원 미만은 매우 낮음
+5ffd1ec8-877a-49d9-adb5-83988b317aeb,434,3,Anonymous,5,5,3,4,
+378cfd68-2183-426f-af8c-e9ef119032d4,435,3,Anonymous,4,3,2,2,coherence: 10년 차 경력과 대학 시절 입문 서술의 시간선 긴장; plausibility: 25세 10년 차 극작가 및 가구소득보다 높은 개인 예술소득; fluency: 계절 식재료 기록·계절 향초 정리 등이 예술/식사 맥락에서 부자연스럽게 결합됨
+ab1ac201-6417-4cf7-9f4a-368d121830c7,436,3,Anonymous,3,3,2,2,groundedness: 방송작가인데 대기용 의상·출연료 등 출연자에 가까운 표현이 섞임; coherence: 방송작가와 출연자 설정이 섞임; plausibility: 방송작가와 방송 출연자 설정 혼재; fluency: 반복적 AI 문장과 조사 누락
+fed316b0-f944-4dd4-8a58-b5a5ba88ae9d,437,3,Anonymous,5,5,3,4,plausibility: 4년차 전업 회화 작가의 개인 예술수입 4-5천만원은 설명 대비 높은 편
+a72feea2-18bc-4a35-b4d8-e4d703f3be40,438,3,Anonymous,4,4,2,4,groundedness: age=90에서 '저강도 러닝 주 2회'는 가능하나 다소 이례적임; coherence: 90세 인물의 주 2회 저강도 러닝이 약간 돌출됨; plausibility: 90세 신춘문예 이후 강연·기고 확대와 주 2회 러닝은 매우 드문 조합
+5a17bff2-0f4f-4247-b299-96f1d6422e93,439,3,Anonymous,3,4,3,3,groundedness: 전업·부업 없음인데 강의 수입 언급; coherence: 평론가 설정에 신춘문예 첫 작품·낭독회 서사가 창작자처럼 섞임; plausibility: 평론가 서사에 신춘문예·첫 작품 게재 표현이 다소 부정확함; fluency: sports_persona의 '카페에서의 탁구'가 비현실적이고 어색함
+dbb6d041-436b-4695-b18a-80aa902c4e4d,440,3,Anonymous,3,4,3,4,groundedness: 데뷔 18세와 대학원 시절 본격 시작 서술의 시점 불일치; plausibility: 18세 데뷔·16년 경력과 대학원 시절 본격 시작 서사가 약간 불일치; fluency: 일부 번역투 표현
+31b50520-cafd-4e2a-acd5-dd1591fced10,441,3,Anonymous,5,4,4,5,coherence: 편집기사인데 촬영 현장 일정과 이동비가 반복되어 역할 범위가 조금 넓음
+fffa26d1-24cd-45ff-b3d0-9779f02bce3c,442,3,Anonymous,5,5,4,4,
+9c32ca3d-9819-428d-ad40-f3c324538d6f,443,3,Anonymous,5,4,2,4,coherence: 실내 클라이밍 설정이 다른 생활·취미 서사와 연결이 약함; plausibility: 64세 후발 전업 세션 연주자 설정 설명 부족; fluency: 어색한 표현: '귀를 쉬킨다'.
+26a24812-d6a5-4d56-b926-1c3da016332f,444,3,Anonymous,4,4,4,4,
+93a157b6-60d0-4d2b-af02-93cf085795de,445,3,Anonymous,5,5,5,4,
+5c345410-8eee-4bd0-a53a-e130c7be837a,446,3,Anonymous,3,3,3,4,groundedness: 78세인데 70대 초반 신체 관리라고 표현; coherence: 78세인데 '70대 초반'으로 지칭하고 실내 클라이밍 루틴이 다소 부자연스러움; plausibility: 78세의 주 2회 실내 클라이밍은 설명 없이는 다소 이례적
+197351d4-7f2f-4a2a-994d-aad1a1ae943b,447,3,Anonymous,4,3,3,3,coherence: 기악 연주자 서사에 정가·목소리 중심 표현이 섞임; plausibility: 기악 연주자인데 정가·가야금·대금 서술이 다소 혼재; fluency: hobbies_and_interests에 '방문를' 조사 오류가 있음
+f3939427-20b2-46f3-8a5b-b85e9250326f,448,3,Anonymous,4,4,3,4,plausibility: 파일럿 패널이 시청률 1.5% 상승을 이끌었다는 인과가 과장됨
+23553b9d-b392-44d4-aa89-95ae3063b18a,449,3,Anonymous,5,4,4,3,coherence: 가족과 함께하는 일상 묘사가 일부 엇갈림; plausibility: 예술소득 없음과 고소득 가구 배경 설명 부족; fluency: hobbies_and_interests 조사 오류 '구경를'
+ac7c5cfe-790b-4ff0-a32a-95eb8fefe324,450,3,Anonymous,5,5,4,3,fluency: 나이·경력 정보를 문장에 노출하는 방식이 부자연스러움
+f6e2419e-8e6a-40c3-bbe4-60f600a10494,451,3,Anonymous,4,5,3,4,plausibility: 정규 케이블 패널인데 예술소득 5백만원 미만인 사유가 부족함
+deefc278-0124-4e5c-85e6-a0dbea51f4d8,452,3,Anonymous,5,5,3,4,plausibility: 세션 연주자 역할과 정기 음원 업로드·팬 피드백 서사가 약간 어긋남
+d1a7f016-8e31-40d5-a06b-988f21d082ec,453,3,Anonymous,5,5,4,4,
+e0e8773c-bc4c-4017-8cd3-88def927cbe0,454,3,Anonymous,3,4,4,3,groundedness: 77세를 70대 초반으로 표현; coherence: 77세인데 '70대 초반'이라고 표현함; fluency: sports_persona에서 77세인데 '70대 초반의 몸 상태'라고 해 나이 표현이 맞지 않음
+6a0fce80-dcc9-410d-92be-469ed6b21bad,455,3,Anonymous,4,4,2,4,coherence: 25세 10년 차 연출가 설정이 다소 빠르고 압축적으로 느껴짐; plausibility: 15세 연출가 데뷔로 25세 10년 차라는 설정이 이례적; fluency: 일부 문장이 지원사업 문서투처럼 건조함
+408af89a-fc91-42bf-bed2-9413c9c1934d,456,3,Anonymous,5,5,4,4,plausibility: 갤러리 전속 작업과 예술수입 없음의 긴장
+0bc0e02a-b020-4db5-9c1b-ffdb02cff9f1,457,3,Anonymous,5,4,3,2,plausibility: 1년차 신진 프로듀서의 표준계약·저작권 보유 설명 부족; fluency: 문법 오류에 가까운 '귀를 쉬운다'와 부자연스러운 조사 연결이 있음
+8e80f235-f169-4422-8146-ac45c77dfa24,458,3,Anonymous,4,5,4,4,
+696e7550-f8dd-41a2-941e-3afb701fec0e,459,3,Anonymous,4,4,4,4,coherence: 설치미술에 '화면의 밀도' 표현이 약간 부적합
+a76f500c-031f-4cee-b152-f9b6020d24e0,460,3,Anonymous,4,4,3,3,방송 출연 경력 대비 낮은 예술소득 설명이 약함
+9f5aa7b8-14bb-4004-8c72-8df8742e534a,461,3,Anonymous,3,4,2,4,"groundedness: 예술 개인소득 없음인데 출연료 언급; plausibility: 장기 경력 전업 방송연예인인데 개인 예술수입 없음, 계약 경험 없음"
+a92dee25-a532-4028-9e0a-a3cca2ad69d0,462,3,Anonymous,5,5,4,3,fluency: 주어 반복과 템플릿식 취미 문장
+bfc02fe5-265b-4772-8400-94d4087ba731,463,3,Anonymous,5,5,4,3,
+64f84a59-40da-48c1-9fde-b5974ac8c97b,464,3,Anonymous,3,3,3,5,groundedness: 30년 경력 소설가에게 '최근 신춘문예 당선'은 경력 단계와 어색함; coherence: 30년 경력 소설가에게 최근 신춘문예 당선 설정이 부자연스러움; plausibility: 30년 경력과 최근 신춘문예 당선 계기 서술 충돌
+04f49445-f7e1-427d-8b64-cbec5478f27d,465,3,Anonymous,3,5,3,4,groundedness: 전업·부업 없음인데 부수적인 활동을 이어가겠다고 서술; plausibility: 전업 예술행정 8년 경력 비프리랜서 치고 개인 예술소득이 매우 낮음
+ce567e2b-59db-42b5-863e-2bc5c115bcad,466,3,Anonymous,5,4,3,2,coherence: culinary_persona에 동일 문장 반복; plausibility: 장기 경력 전업 연주자 수입이 매우 낮고 시립국악단 협업 성과 설명이 과장됨; fluency: culinary_persona에서 같은 문장이 반복됨
+b11920d4-cde4-4353-bbfc-bf1bfc83591a,467,3,Anonymous,5,5,4,3,fluency: 주어 반복이 많고 번역투 문장 존재
+afa3cfe7-ea13-459e-ba73-9c2db5e4c819,468,3,Anonymous,4,4,2,3,groundedness: 무학과 방송 관심의 인과 표현이 부자연스러움; coherence: 55세·24년 경력 방송 출연자가 '신인 발굴 프로그램에 지원'했다는 대목이 다소 부자연스러움; plausibility: 무학·장기 방송 패널·표준계약·저소득 조합 설명 부족; fluency: 부자연스러운 조사·표현
+f47a80a2-bb78-46f7-885b-0f5e8c8a6424,469,3,Anonymous,3,3,2,2,"groundedness: 88세인데 반복적으로 70대 미술가로 지칭; coherence: 70대 표기와 76세 전향 후 12년 차 서술의 연령 불일치; plausibility: 88세 조각가의 10년 목표와 해외 활동 경험 설명 부족, persona는 70대로 표기해 age=88과 불일치; fluency: skills_and_expertise에 '加해'라는 비정상 표기가 있음"
+5b3dc5bd-56e5-417f-bcd1-1bd95eb89cf3,470,3,Anonymous,5,4,3,4,plausibility: 성악가에게 악기 관리비를 주요 비용으로 둔 표현이 부자연스러움
+fa42f182-6dc3-43b2-a432-0aebb17ed637,471,3,Anonymous,2,5,3,3,groundedness: 계약 경험 없음인데 갤러리 전속 계약을 언급함; plausibility: 갤러리 전속·정기 전시 수익과 매우 낮은 개인 예술소득 간 긴장; fluency: AI식 추상 표현 포함
+6fc86f95-2dd2-4016-9322-6b001c52ef6e,472,3,Anonymous,4,3,2,3,coherence: MC가 파일럿 시청률 상승과 정규 편성을 이끌었다는 인과가 다소 과장됨; plausibility: 정규 케이블 패널·시청률 성과에 비해 개인 예술소득이 지나치게 낮음
+851b2c92-26c4-4b22-94de-14da236fcb43,473,3,Anonymous,4,4,3,4,plausibility: 전북 기반 정규 케이블 패널의 고소득 설정 설명이 약함; fluency: 일부 과장된 목표 표현
+547b85f8-597e-4b2a-a46c-216392239236,474,3,Anonymous,4,4,4,4,fluency: 일부 행정문서식 표현
+e15017c9-9cee-4450-8e4c-5ffd4f30882a,475,3,Anonymous,2,4,3,5,groundedness: 전업·부업 없음인데 강의 수입과 강의 능력 언급; plausibility: 전업·부업 없음 설정과 강의 수입 언급이 어긋남
+64b8cdc5-d27d-4e0f-847b-cc0b9e223d1f,476,3,Anonymous,4,5,2,4,plausibility: 활동량 대비 개인 예술소득이 지나치게 낮음
+89d13117-69eb-4612-8765-530c42ac7341,477,3,Anonymous,5,5,4,4,plausibility: 작품 발표와 아트페어 활동 대비 예술소득 없음은 약간 어색함; fluency: 조각가 설명에 '화면의 밀도'가 회화 쪽 표현처럼 보임
+0d7225de-c94b-40e0-9079-c1a9755bb12d,478,3,Anonymous,3,3,3,2,"groundedness: art_field_primary=기타를 기타 연주로 해석한 이상점; coherence: 기타 연주 역량이 갑자기 등장, 87세의 10년 후 목표가 부자연스러움; plausibility: 87세 전업 매개자의 높은 가구소득·해외 활동 경험 설명 부족; fluency: 문체가 존대와 평서체 사이에서 흔들림"
+cdd6b71e-afb8-413a-8386-2c80a2ae55d7,479,3,Anonymous,4,5,4,3,plausibility: 예능인이 캐스팅 조율을 주도한다는 표현은 다소 과장; fluency: 어색한 조어와 번역투 연결 표현 있음
+d696f007-3ab5-43b3-9040-b020413bfeab,480,3,Anonymous,4,4,4,4,
+e5329f25-fee9-493e-af76-5b268c192ec4,481,3,Anonymous,5,5,4,4,plausibility: 계약 경험은 있으나 예술소득 없음은 약간 설명 부족
+1dd7aeb1-577e-4e33-8cd8-b48da87f0caa,482,3,Anonymous,2,5,3,4,groundedness: 경력 공백 앵커 미반영; plausibility: 초등학교 학력·계약 경험 없음·정규 케이블 패널의 조합이 이례적; fluency: cultural_background의 '서울의 중소도시' 표현이 이상함
+ec09aba8-a6d9-4e8e-baa4-3a5edf5aaad4,483,3,Anonymous,4,4,3,4,"coherence: 관계 대상이 친구 중심과 가족 중심으로 약간 혼재; plausibility: 장기 음악 프로듀서인데 저작권·계약 경험 없음이 어색함; fluency: “주로” 중복, 일부 문장이 지원서/보고서식 표현으로 딱딱함"
+af3809df-f0c3-4264-be6a-d1fc512068c9,484,3,Anonymous,5,5,4,3,
+a9ff3426-48dd-4e9b-be42-6c98c21cbfd1,485,3,Anonymous,2,5,2,4,groundedness: 예술 개인소득 없음인데 광고 촬영 수입과 클라이언트 수입을 반복 언급; plausibility: 광고 사진가인데 계약 경험과 예술소득이 모두 없음
+aa119f64-3f87-4a8c-a702-797d9b3a4dab,486,3,Anonymous,2,2,3,4,groundedness: 방송작가인데 출연자 생활 묘사가 반복됨; coherence: 방송작가와 방송 출연자 서술이 여러 필드에서 혼재; plausibility: 방송작가인데 출연자 생활 묘사가 섞임
+6497a75a-7552-4aa8-a381-61333aa6f3d4,487,3,Anonymous,5,5,4,3,
+92cafd42-4191-47f1-a37b-dd8618918618,488,3,Anonymous,3,5,3,4,groundedness: 예술 개인소득 없음인데 프로젝트 입금 관리 서술; plausibility: 14년 차 전업 편집기사인데 개인 예술수입 없음 및 계약 경험 없음은 설명 부족
+d8b9dc8c-48f2-4d8b-91fc-39eb8811627d,489,3,Anonymous,3,4,4,3,groundedness: 유리공예 서술에 도예에 가까운 '유약/소성' 표현이 반복됨; coherence: 유리공예 서사에 '유약' 표현이 다소 부자연스러움; fluency: AI식 추상 표현 다수
+31a19b6a-58f7-4650-ac3b-eb8f4a326791,490,3,Anonymous,5,5,4,3,
+8a1fd34d-5f17-42a4-8b80-4f66323bcd31,491,3,Anonymous,3,4,2,3,"groundedness: 성악가에게 '악기 관리비', '악기 연주 능력' 표현이 다소 부정확함; coherence: 성악가에게 '악기 관리비'가 다소 어색함; plausibility: 성악가에게 악기 관리비가 반복되고 전업인데 예술소득 5백만원 미만; fluency: 어색한 행정체 및 반복적 AI식 문장"
+06448fbe-d4af-436f-9db4-d45ea6fa8ee3,492,3,Anonymous,4,4,3,4,plausibility: 비프리랜서 전업 평론가의 극저소득 가구소득
+5b932b25-4698-4cf6-a9b8-48c373761ef9,493,3,Anonymous,3,2,2,3,groundedness: 목공예가에게 성형·소성 표현 사용; coherence: 목공예가에게 '소성' 기술이 반복되어 분야 정체성이 흔들림; plausibility: 목공예에 도예 용어인 성형·소성이 반복됨; fluency: 목공예 맥락에서 '성형하고 소성하는 도구'는 도예 표현처럼 보여 어색함
+21cc6f2d-692c-4cf3-838d-bc31c2618bd7,494,3,Anonymous,5,5,3,4,plausibility: 국공립 교향악단 협업 규모 대비 예술소득이 지나치게 낮아 보임
+08ea0975-2eb5-4012-bcd2-777c7f28166b,495,3,Anonymous,3,4,4,4,groundedness: 전업·부업 없음인데 강의 진행 언급
+4d879864-42e2-4d16-89c7-84faf09fde71,496,3,Anonymous,5,4,4,5,
+2a7df34c-b9fd-4b40-b94d-2020cb078ece,497,3,Anonymous,5,4,3,4,plausibility: 개인 예술소득이 가구소득보다 높은 값으로 설정됨; fluency: 일부 딱딱한 표현
+c416952a-6bc0-458f-a64e-9d172477d5fd,498,3,Anonymous,4,4,3,4,coherence: 전문성 필드에 취미성 내용이 섞임; plausibility: 전업 평론 활동이 있으나 개인 예술소득 없음이 설명되지 않음
+dee0634e-cf1c-481f-bbd4-d6d95f67a42f,499,3,Anonymous,3,4,2,2,groundedness: 32년 경력인데 목표 서술에서 30년 차로 표기; coherence: 경력 연수 표현이 32년과 30년 차로 약간 불일치; plausibility: 전업 비프리랜서 성악가인데 예술소득 없음과 불규칙 연주수입 서술이 충돌; fluency: career_goals_and_ambitions에서 32년 경력과 '30년 차' 불일치
+f0ed6f59-bc06-4efe-b252-9a9faf54ff27,500,3,Anonymous,4,5,4,3,fluency: AI식 효과 설명이 여러 필드에서 반복됨
+825f7f98-b5b1-4740-8f00-214a6f5e1821,501,3,Anonymous,2,3,2,3,5년 차 소극장 무대미술가의 6천만원 이상 소득 및 낮은 가구소득 조합이 비현실적
+a9172494-56cd-4646-b5f5-faed915b052a,502,3,Anonymous,4,3,2,3,개인 예술소득 6천만원 이상이 가구소득 3-4천만원 미만보다 큼
+706300e9-4802-436b-b781-c4cdef2c5301,503,3,Anonymous,4,4,3,4,coherence: 15세 데뷔/16년 경력과 대학 시절 본격 연습 시작 서술이 약간 어긋남; plausibility: 31세 '판소리 명창' 호칭은 과하게 이른 설정
+132b97a0-1b42-4a1f-a99d-931be1bfc499,504,3,Anonymous,5,4,4,2,plausibility: 지역 정보가 '기타'라 구체성이 낮고 반복적 표현 많음; fluency: 동일한 주어 반복이 과도함
+4c116961-b25c-447a-9fbb-a3d83433f3a4,505,3,Anonymous,5,4,4,3,coherence: family_persona에서 친구와 가족 범주가 혼재함
+aa6b7c5c-5e19-43ad-9713-99a9795297e9,506,3,Anonymous,2,4,3,3,"groundedness: 예술소득 없음·부업 없음인데 원고료와 강의 수입을 반복 언급함; coherence: 번역가와 창작자 정체성이 다소 혼재됨; plausibility: 예술 개인소득 없음인데 원고료·강의 수입 반복 언급, 번역가와 신춘문예 창작자 역할 혼재; fluency: 어색한 동사 선택: '공고는 마감 전에 접하고'"
+a770b3b2-b418-457f-a0ad-b235541af426,507,3,Anonymous,5,4,4,4,coherence: 프로듀서와 세션 활동의 비중이 약간 혼재됨
+daaffebc-aed1-40c7-ba63-45c5f410b90d,508,3,Anonymous,5,5,4,4,plausibility: 신춘문예 당선 설정은 별도 근거가 없으나 큰 모순은 아님
+27e31dbe-4f61-44e4-aa87-eb83a56ae694,509,3,Anonymous,5,5,3,3,plausibility: 29세 판소리 명창 호칭은 다소 과하고 정가 경로 설명이 부족
+4cae06d9-74e2-46d5-9bad-6ccd131593a9,510,3,Anonymous,5,4,4,3,coherence: 작곡가 서사에 연주 수입·연습 공간 비용이 다소 강하게 섞임; fluency: hobbies_and_interests의 '독립서점 방문를'은 조사 오류
+e90c8357-98dc-426a-8238-5d100f1eccb2,511,3,Anonymous,3,4,2,3,groundedness: 전업 국악인이 공연·수업·위촉 공연을 지속한다는 서술이 개인 예술소득 없음과 다소 충돌 가능; coherence: 가야금 언급이 다른 국악 역할 설명과 충분히 연결되지 않음; plausibility: 정기공연·수업 병행 전업 국악인의 개인 예술수입 없음이 매우 어색함; fluency: 어색한 동작 연결과 추상 표현
+087989a3-ca6a-4fe8-92b6-57cff8aee3c7,512,3,Anonymous,4,4,4,4,coherence: 설치미술 서사에 '화면의 밀도' 표현이 다소 회화적으로 섞임
+d944ee59-d1ed-455e-b5c0-d9474622a491,513,3,Anonymous,5,5,2,4,plausibility: 대학 졸업 후 활동 시작 서사와 16세 데뷔·34년 경력 수치가 모순
+7422fbc8-f50c-40d8-a46c-af06e2f55af1,514,3,Anonymous,4,4,2,2,coherence: 후배 양성보다 협업 정확성에 집중한다는 설명과 후배 소통 강조가 약간 긴장됨; plausibility: 오케스트라 단원 장기 경력인데 계약 경험 없음·예술소득 5백만원 미만은 매우 부자연스러움; fluency: 조사 오류 '이용를' 및 템플릿식 AI 표현 반복
+7b5043b1-c205-4f13-ab9a-8701338974fd,515,3,Anonymous,3,4,2,3,groundedness: 경력 0년 대비 활동·프로젝트 경험 서술이 다소 많음; coherence: 경력 공백 이후라는 설정이 서사 내에서 충분히 설명되지 않음; plausibility: 경력 0년 대비 프로젝트 경험 과다
+5dcb83c2-696f-440e-a3db-c18222001c3b,516,3,Anonymous,5,4,4,4,coherence: 배우자가 있으나 자취 생활로 표현되어 생활 형태가 다소 애매함
+e4238e13-222c-48eb-9893-6d0c92a35a1a,517,3,Anonymous,3,3,3,4,groundedness: 작곡가보다 세션 연주 생계 서술이 두드러짐; coherence: 아침 고정 작업과 야간 후 늦은 오전 회복의 일정 충돌; plausibility: 21세 작곡가의 해외활동 경험 설명 부족; 작곡가인데 저작권 없음; fluency: 일부 일반적·추상적 표현
+46cfec4b-f7d1-43f4-ac47-95c7cca253b3,518,3,Anonymous,2,5,3,4,groundedness: 예술 개인소득 없음인데 프로젝트 수입에 의존한다고 서술됨; plausibility: 프로젝트 수입 의존과 개인 예술소득 없음 충돌
+632f15d5-c8fe-49c0-9b56-1ecf7f122163,519,3,Anonymous,5,4,3,3,plausibility: 지역 신진 세션 연주자에게 스트리밍 수익 비중 높은 프로젝트 선호는 설명 부족
+1827bb02-1503-4d01-8e04-b0f37ce503a8,520,3,Anonymous,3,3,3,4,groundedness: 데뷔 16세인데 대학원에서 첫 공연을 경험했다는 서술이 모순; coherence: 첫 공연 시점과 11년 차 배우 경력의 내적 시간선 불일치; plausibility: 16세 데뷔인데 대학원에서 첫 공연을 경험했다는 서술 충돌
+feb95e74-d19e-44d8-8e39-45553ab597ec,521,3,Anonymous,4,4,2,3,coherence: 지휘자 경력에 비해 대학원 문학 전공 설명이 다소 이질적; plausibility: 젊은 지휘자의 11년 경력과 문학 대학원 배경 설명 부족; fluency: 동일 문장 반복으로 생성문 느낌이 강함
+08aa9564-c509-49d0-bd6c-ac1d1445bd18,522,3,Anonymous,5,5,3,3,"plausibility: 개인 예술소득이 가구소득보다 높고, 10년차 편집기사의 계약 경험 없음이 다소 비현실적; fluency: 문법 오류: '생계를 책임지며도'"
+e58efb44-b2ac-4f44-8d10-9ca9133557ac,523,3,Anonymous,4,4,4,3,coherence: 야간 작업 후 늦은 오전 회복과 매일 아침 러닝이 다소 어긋남; fluency: 템플릿식 취미 문장
+ae416117-209c-4243-9272-117479ed35da,524,3,Anonymous,4,5,3,3,plausibility: 22세 4년제 대학 졸업과 5년 경력 설정이 다소 빡빡함; fluency: 조사 오류 '소모이'가 있음
+ac2f94b8-4833-4a00-9b5c-e8dc95c49d6e,525,3,Anonymous,4,3,3,2,"coherence: 설치미술 서사에 회화적 표현과 산만한 생활 루틴이 섞임; plausibility: 비엔날레·아트페어 활동과 예술소득 없음, 비프리랜서 설정의 연결이 약함; fluency: 설치미술 작가 서술에 '화면의 밀도'가 반복되어 매체 어휘가 어색함"
+355ca86b-81c2-4c93-a674-6c872b1fedd1,526,3,Anonymous,5,4,4,3,coherence: sports_persona에 전시 공간 방문이 섞여 있어 항목 초점이 약간 흐림; plausibility: 성과 수치가 다소 작위적임; fluency: AI식 수치화 표현
+d40088f1-7207-47b5-91d8-cffc987e207e,527,3,Anonymous,5,5,3,4,plausibility: 초등학교 학력에서 설치미술 전업 작가로 이어진 경로 설명 부족
+799d7a0c-e3f5-4820-b815-ad4b941fbccf,528,3,Anonymous,2,4,3,4,groundedness: has_contract_experience=False인데 인디 레이블 계약을 통한 발매라고 서술함; plausibility: 인디 레이블 계약 서술과 계약 경험 없음이 모순됨
+db954495-0320-446b-a284-04a500b6c7d9,529,3,Anonymous,5,5,3,3,plausibility: 16년 차 전업 프로듀서의 개인수입이 매우 낮음
+03481459-4efa-478d-b319-3b5f66508bcb,530,3,Anonymous,3,4,2,3,groundedness: has_contract_experience=False인데 레이블 계약 언급; coherence: 음악 첫 접촉 시점이 대학원이라는 표현이 가정 환경 설명과 약간 어색함; plausibility: 레이블 계약·음원 발매 묘사와 계약경험 없음·저작권 없음·소득 없음이 부자연스러움; fluency: 어색한 명사화와 추상 표현이 있음
+f51da210-b8a8-4616-bc52-7d4eb927688c,531,3,Anonymous,5,4,3,2,"plausibility: 전업·예술소득 없음인데 갤러리 협업과 전시 지속의 재원 설명이 약함; fluency: sports_persona 어휘 오류, hobbies_and_interests 템플릿식 문장"
+009d43ba-a27c-4043-aa49-cc631d61e1de,532,3,Anonymous,5,4,3,4,coherence: sports_persona에 전시 방문이 들어가 필드 성격이 약간 어긋남; plausibility: 정규 케이블 패널·파일럿 코너 기획 경력 대비 예술수입이 매우 낮음; fluency: 일부 추상적 AI식 표현
+f29927e3-8772-4927-b522-9084ad1947fd,533,3,Anonymous,5,5,3,4,plausibility: 전업 무수입 판화가가 갤러리 전속·레지던시 활동을 지속하는 생계 설명 부족; fluency: 한두 문장 구조가 어색함
+cc96a0a2-306c-4e98-acad-8606ba9cda51,534,3,Anonymous,4,2,2,2,groundedness: 85세인데 70대 초반 신체 관리라고 표현; coherence: 85세인데 '70대 초반'으로 지칭; 판소리 명창 서사에 전시 공간 중심 도입이 어색함; plausibility: 현재 85세인데 70대 초반 신체 관리로 서술되고 판소리와 정가 활동이 혼재됨; fluency: sports_persona에서 85세인데 '70대 초반'이라고 표현됨
+821a622b-09fd-47f6-a248-f715f313df31,535,3,Anonymous,4,5,2,4,plausibility: 15세 데뷔 12년 경력 산정과 비프리랜서 전업 판화가 설정이 어색함
+cfe910f4-bdf0-4215-8893-dfb26b1d834d,536,3,Anonymous,5,3,3,3,coherence: 성악가 서사에 오케스트라 단원/실내악 연주 경험이 어색하게 섞임; plausibility: 성악가인데 성악곡 위촉작을 직접 썼다는 설정이 다소 어색함; fluency: hobbies_and_interests에 '확인를' 조사 오류
+ec67ffdc-809c-4747-b161-0967ecf4ccb3,537,3,Anonymous,4,5,4,4,plausibility: 갤러리 협업이 있으나 계약 경험 없음은 다소 어색
+50e0fbf1-4d6b-4cbc-8b8f-148a0cf72f1a,538,3,Anonymous,2,4,2,2,groundedness: 개인 예술소득 6천만원 이상 대비 낮은 가구소득·절약형 생활 서술; coherence: arts_persona에 '방송 촀' 오탈자; plausibility: 개인 예술수입 6천만원 이상이 가구소득 3-4천만원 미만보다 커서 모순; fluency: arts_persona에 깨진 텍스트 '방송 촀' 포함
+ac6869f9-b1f1-44a5-8b1e-2f4d8a9bd505,539,3,Anonymous,5,4,3,3,coherence: arts_persona의 예술 감상 방식이 다소 부자연스러움; plausibility: 높은 가구소득과 낮은 예술소득의 배경 설명 부족
+7fef37a3-965f-470a-ab57-aced379aac52,540,3,Anonymous,4,4,4,4,coherence: 기타 지역 거주와 대학로 중심 활동의 연결 설명이 약함; plausibility: 지역이 '기타'로만 제시되어 구체성은 낮음
+f1be0a25-699d-44b7-8039-0d300013c8d1,541,3,Anonymous,5,5,4,3,"fluency: ""라이브러리 식사""는 의미가 불명확함"
+6f59383c-61a9-4b48-9d7e-400fab6aba96,542,3,Anonymous,4,5,4,4,plausibility: 미디어아트인데 재료·건조·손의 흔적 표현이 다소 일반 미술 작가처럼 보임
+c5a2ad79-3711-491d-93ab-97b373798144,543,3,Anonymous,5,5,4,4,
+4827e0cd-236c-46f1-855e-cdd272487060,544,3,Anonymous,4,4,3,3,coherence: 지원 신청 여부 서술 불일치; plausibility: 개인 예술소득이 가구소득보다 큰 설정; fluency: support_persona에서 '공방 임대 지원 공고를 신청하지 않으며'와 '발표 후 연결이 있는 지원을 우선 선택'이 약간 충돌함
+475dadef-59d5-47e2-9324-04481534bf7c,545,3,Anonymous,2,3,3,4,groundedness: 28년 경력 성악가인데 최근 콩쿠르 입상 후 첫 위촉작처럼 묘사; coherence: 28년 경력과 최근 콩쿠르 입상 후 첫 위촉작이라는 경력 단계가 어색함; plausibility: 28년 경력 대비 첫 위촉작 준비와 낮은 수입 설명이 약함
+0395fba9-b2f1-4a51-a1bd-d9ae0f2d21c1,546,3,Anonymous,5,5,3,4,plausibility: 개인 예술수입이 가구소득보다 높고 17세 무대미술 데뷔 경력 산정이 이른 편
+3f01f4bb-0562-4dd3-8770-45b2e345050f,547,3,Anonymous,5,5,4,4,
+a01c10e9-384e-4841-989c-a409bab9c3f2,548,3,Anonymous,4,4,4,3,coherence: 평론가인데 단행본 시집 발표 언급이 다소 어색함
+0d779062-9e0b-43f5-9988-48d893ddcf69,549,3,Anonymous,2,5,2,4,groundedness: 예술 개인소득 없음인데 판매 수입과 아트페어 활동을 수입처럼 서술함; plausibility: 15세 미디어아트 데뷔 35년 경력 및 저작권 없음이 부자연스러움
+a340a195-3c1b-42ec-8311-c644ff237137,550,3,Anonymous,4,4,2,3,"coherence: 지휘자 서사에 편곡·위촉작 역할이 다소 넓게 섞임; plausibility: 20세 전업 지휘자가 오케스트라 공연 주도와 위촉 편곡을 수행하는 설정이 드묾; fluency: ""요리하며"" 반복과 소품 수선-식사 연결이 부자연스러움"
+e192ced6-8a4c-448b-bc6b-ba4f3874fd2b,551,3,Anonymous,4,5,4,4,plausibility: 울산 기반 인디 레이블 세션 일감의 지역 연결 설명은 약함; fluency: 일부 취미와 역량 연결이 부자연스러움
+0ce442c6-9227-4a17-bf46-8757b543f550,552,3,Anonymous,5,5,4,4,
+5a380f15-a97f-4aad-a1a8-2f924e18ae71,553,3,Anonymous,4,4,2,3,coherence: 빨래 정리와 전시회 감상이 한 행동처럼 연결되어 어색함; plausibility: 전업 사진가의 클라이언트 작업·잡지 게재와 예술소득 없음이 부자연스러움; fluency: 빨래 정리와 전시회 감상이 한 문장에 붙어 의미가 어색함
+a8a00896-1cb8-4d48-bcf4-d89438c530a7,554,3,Anonymous,2,4,3,3,groundedness: 계약 경험 없음·예술소득 없음인데 레이블 계약과 세션 생계가 언급됨; plausibility: 예술소득 없음과 세션 작업으로 생계 유지가 모순됨
+a46ddec8-b876-414d-bf01-8e374fd7156a,555,3,Anonymous,4,5,4,4,
+36247c4c-6230-4dfe-b9f6-df4533271689,556,3,Anonymous,4,5,1,3,plausibility: 개인소득이 가구소득보다 높고 86세 전업 영화 편집 활동 규모가 비현실적; fluency: hobbies_and_interests에 '일정 확인를' 조사 오류
+ee71b1bc-2570-4abf-98d0-aed1233f271b,557,3,Anonymous,5,5,4,4,
+7d8742c7-0d2f-483c-a397-4db96c88b148,558,3,Anonymous,5,5,3,2,plausibility: 고정 패널 기대·매니지먼트 계약 대비 예술소득 없음이 다소 부자연스러움; fluency: 조사 오류: '방문를'; 템플릿형 취미 설명 반복.
+ea694a4c-6a4d-4ad5-98a1-1bda3b8e1711,559,3,Anonymous,3,4,3,4,groundedness: 경력 목표 필드에서 11년 차를 10년 차로 표기; coherence: 경력 11년 차와 '10년 차 동화작가' 표현 불일치; plausibility: 11년 차와 최근 신인상 수상 서술의 경력 단계가 다소 불일치
+3382ef12-e01c-4164-97ca-6324921c4c1c,560,3,Anonymous,5,4,3,3,coherence: 82세 조각가의 운동 수준이 필드 간 약간 다르게 표현됨; plausibility: 82세 전업 조각가의 장기 확장 목표와 무소득 설정이 다소 약함
+66b1ee3a-1656-4ceb-9778-11cb62b40a80,561,3,Anonymous,5,5,3,3,plausibility: 초등학교 학력과 표준계약 경험의 경로 설명 부족; fluency: 문장 오류: '지원 제도의 일정 고정과 보고 부담이 큰 부분으로'
+905c50e3-7394-4086-a90e-d77678455e16,562,3,Anonymous,5,4,3,3,"coherence: arts_persona에 요리·식재료 내용이 섞임; plausibility: 광고 클라이언트 촬영이 있는데 개인 예술소득 없음, 학력·해외경험 설명 부족; fluency: 장소 표현 어색, 일부 일반화된 AI식 문장"
+0ce81b4f-64a4-4934-9bd3-15ee9d30332e,563,3,Anonymous,2,4,2,2,groundedness: 개인 예술소득 없음인데 연주 수입이 있다고 서술; coherence: 가족 관계를 별도로 조율하지 않는다는 설명과 가족 식사가 많다는 설명이 다소 충돌; plausibility: 전업 프리랜서 지휘자가 공연·위촉 협업을 하면서 예술수입 없음; fluency: 문체 불일치와 어색한 높임말 반복
+ce39cc3f-6c3c-4ad6-9706-7ebaa5890206,564,3,Anonymous,5,4,3,4,plausibility: 비프리랜서 전업 장기 안무가인데 저소득·계약경험 없음
+9c5e8714-5b80-4f1e-bd6f-b881ebbc9882,565,3,Anonymous,5,5,3,4,plausibility: 전업 판화가의 전시·아트페어 활동과 예술소득 없음이 약간 부자연스러움
+58b1d907-2cad-4ff2-9673-738f9397b782,566,3,Anonymous,5,4,4,4,"coherence: 운동 루틴 세부가 러닝, 코어 운동, 산책으로 다소 흩어짐; fluency: 취미 문장이 과도하게 설명적임"
+9e2f3b05-12f6-469d-b897-c50fdb5e3a00,567,3,Anonymous,4,4,3,4,coherence: 성악가에게 '악기 보관' 표현이 부자연스러움; plausibility: 신진 성악가의 오케스트라 협연·위촉작 빈도가 다소 높음
+324db360-6c5e-4da5-a6dd-584494ae99e7,568,3,Anonymous,5,4,4,3,fluency: sports_persona에서 향 소도구 수집을 신체 균형과 연결한 표현이 부자연스러움
+3216cb51-053a-4119-b459-f22a288a9849,569,3,Anonymous,5,4,4,4,coherence: 첫 앨범 준비 중인데 10년 내 앨범 발매 목표가 다소 느슨하게 반복됨
+bc3245e1-b7a7-4260-bdaa-dae6fff1c43d,570,3,Anonymous,5,4,3,4,coherence: 국내 여행은 거의 하지 않는다면서 지역 자연 경관 촬영을 주요 활동처럼 서술; plausibility: 83세 신규 다큐 사진가의 플랫폼 협업·러닝 루틴은 설명이 더 필요; fluency: 해외 여행 경험 없음과 국내 여행을 거의 하지 않음의 연결이 어색함
+408f4283-33c7-441b-a5d8-78148b832922,571,3,Anonymous,4,4,4,3,일부 예술 감상/식생활 문장이 추상적이고 어색함
+56d26394-cc0e-413c-9920-d9d2aebd4f1a,572,3,Anonymous,2,4,2,3,광고 클라이언트/촬영 수입과 예술소득 없음/계약경험 없음 충돌
+dbb00fc7-0671-47a4-979c-93689e491076,573,3,Anonymous,5,5,3,3,plausibility: 전업 프리랜스인데 예술수입 없음과 작업실 유지의 근거 부족; fluency: hobbies_and_interests에 '일정 확인를' 조사 오류가 있음
+f5edebb5-be02-40c2-b9a3-6b404397848b,574,3,Anonymous,5,5,4,3,
+105b49a8-3dc3-49ec-816b-c5db9d0ed252,575,3,Anonymous,3,2,2,3,groundedness: 성악가인데 오케스트라 단원 활동 감각이라는 서술이 직업 앵커와 다소 어색함; coherence: 성악가 서사에 협주곡 발표와 오케스트라 단원 활동이 섞여 직업 정체성이 충돌; plausibility: 성악가 서사에 협주곡 발표·오케스트라 단원 등 직무 혼재가 큼; fluency: sports_persona의 '소리를 휴식시키는' 표현이 부자연스러움
+ab7da5ee-d3e7-4b98-9c03-085f6bbdc0ca,576,3,Anonymous,3,4,3,4,groundedness: 전업 번역가·부업 없음인데 강의 수입 언급; coherence: 강의 수입 설정이 번역가 생활과 충분히 설명되지 않음; plausibility: 문학 번역가인데 번역 언어·외국어 경로 설명이 부족함
+62411ff6-f5b6-4307-b491-6612342a0622,577,3,Anonymous,5,5,4,4,
+8b4cd539-1133-478a-bf5a-e3cac85f9cc9,578,3,Anonymous,4,5,3,4,plausibility: 1년 차 작가의 아트페어 판매·표준계약 경험이 다소 빠름
+369bc2d2-fbc2-4b4b-8776-5f01e5d16c55,579,3,Anonymous,5,5,4,5,
+e4806046-26e9-4359-9352-c516afcea372,580,3,Anonymous,3,4,3,4,groundedness: 중학교 졸업 후 전문대학 진학 서술이 교육 앵커와 약간 부자연스러움; coherence: 중학교 졸업 후 전문대학 진학 서술이 교육 경로상 다소 부자연스러움; plausibility: 경상북 극단 배우가 대학로 소극장 주 활동이라는 지역 동선이 다소 약함; fluency: 문법 어색함: '걷기 모임을 꼭 참석한다'.
+d8d984a9-38cc-4723-8718-98104cc7554f,581,3,Anonymous,4,4,3,3,plausibility: 22년 경력 지휘자 활동량 대비 개인 예술소득이 매우 낮음; fluency: 전체적으로 존대체 사용이 다른 항목과 달라 어색함
+4370a0aa-d19e-4ecb-be6e-1ebec1562523,582,3,Anonymous,3,3,3,3,"groundedness: 기악 연주자인데 위촉작을 썼다고 서술; coherence: 기악 연주자와 작곡가 역할 혼재, 서점 산책으로 연습 공간 확보 문장 어색; plausibility: 기악 연주자와 작곡가 역할 혼재; fluency: 서점에서 산책하거나 식재료를 구매한다는 표현이 부자연스러움."
+c54c6071-01e9-4d2a-87d7-3ce3662048b1,583,3,Anonymous,4,3,2,3,coherence: 방송작가인데 출연자처럼 보이는 의상·출연·촬영 전 신체 점검 표현이 섞임; plausibility: 16세 방송작가 데뷔와 13년 경력의 실무 책임 설정이 희귀
+9ec0b8f1-20d0-4c48-a66e-0054acb32a32,584,3,Anonymous,4,4,4,5,
+42a9db2a-9a4a-4372-82cb-0424d46313ab,585,3,Anonymous,2,4,2,3,"groundedness: 경력 0년인데 주요 독주회·실내악·위촉 협주곡 발표를 기성 경력처럼 서술함; coherence: 성악가가 협주곡을 발표했다는 표현이 다소 어색함; plausibility: 0년차 58세 성악가의 고소득·위촉 협주곡·독주회 활동 설명 부족, 개인소득이 가구소득보다 높음; fluency: 직업 맥락상 어색한 표현: 성악가의 '협주곡 발표'"
+f4a3c791-6979-4f9a-a7d1-d7aee7ff1f51,586,3,Anonymous,5,4,3,3,coherence: 미디어아트 서사에 회화적 표현이 일부 섞임; plausibility: 18세 데뷔로 43년 미디어아트 경력은 분야사와 약간 어색함; fluency: culinary_persona에서 빨래 개기와 요리 음미의 연결이 부자연스러움
+5de81a4d-d0ed-42c6-866d-2aff8bbd3161,587,3,Anonymous,4,5,4,4,plausibility: 예술소득 없음 대비 높은 가구소득은 겸업 설명에 의존
+bc3a4d18-cd43-4117-a97d-02793d60883f,588,3,Anonymous,4,5,4,3,"fluency: 조사 오류: ""방문를"""
+95ea1a7b-c061-44ef-bd55-14e400d5a677,589,3,Anonymous,5,5,5,4,fluency: 일부 맥락상 어색한 표현
+c2b4aa46-e7fe-40e9-8141-6036b207df29,590,3,Anonymous,5,5,2,4,plausibility: 59세 입문 후 20년 만에 전업 판소리 명창·전승 프로젝트 참여는 설명 없이는 희귀함
+fa087a6d-249d-4012-8f24-349f9e9b9069,591,3,Anonymous,1,5,3,4,groundedness: 예술 개인소득 없음인데 광고 촬영 수입과 클라이언트 프로젝트 수입을 반복 서술; plausibility: 광고 사진가 전업 활동과 개인 예술소득 없음·계약 경험 없음이 충돌
+28a46051-09dd-4ef7-bb85-48ac2f56919f,592,3,Anonymous,5,4,3,3,coherence: 미디어아트 창작 설명이 회화/판화식 표현에 치우침; plausibility: 전시·아트페어 활동 대비 예술수입 없음이 약간 부자연스러움
+1a0de36b-5579-45a0-9f29-9550aca36f8a,593,3,Anonymous,5,5,3,4,plausibility: 79세 전업 판화가의 10년 후 목표가 약간 비현실적으로 장기적임
+1ccf90c0-8c5b-4ef4-b7a3-706a02e911dd,594,3,Anonymous,4,5,4,4,
+1c1c5499-da98-47fe-9416-bfc23c929f80,595,3,Anonymous,4,4,3,4,coherence: 정량적 성과 표현이 다소 튐; plausibility: 개인 예술소득이 가구소득보다 크게 높음; fluency: 조사 오류: '산책를'.
+8bb5dae4-710f-4cfd-b55a-4f971700560a,596,3,Anonymous,5,5,4,4,
+bbe464db-26c1-4406-b935-04e25b3068e7,597,3,Anonymous,5,5,3,3,plausibility: 전업·갤러리 전속 언급 대비 예술소득이 매우 낮음; fluency: AI식 일반화 표현 반복
+00224d3d-d791-42ae-8fec-94000f3245ad,598,3,Anonymous,5,4,4,3,coherence: 향·색깔 감각 분석이 극작가 역량과 다소 느슨하게 연결됨; fluency: 극작가 맥락과 다소 먼 감각 표현이 반복됨.
+b81566a8-26b7-449c-9591-405f982046cc,599,3,Anonymous,5,4,2,4,plausibility: 개인 예술수입이 가구소득보다 크게 높음
+b402b95f-ec6a-44dd-8b8a-cc251dd88cc0,600,4,Anonymous,5,5,2,3,"plausibility: 개인 예술소득이 가구소득보다 큰 모순이 있으며, 고소득 정규 패널과 소액 지원금 필요 서사가 어색함; fluency: 일부 일반적이고 설명적인 AI식 문장"
+6986176e-3027-42b8-82ec-c548f311e1e4,601,4,Anonymous,4,4,4,4,coherence: 재진입형 지원 선호의 배경이 다소 부족함
+27b0008a-89ce-4bb3-b6bf-43b9444373c8,602,4,Anonymous,4,4,4,3,coherence: 저녁 식사를 오전 7시 이전에 완료한다는 시간 표현 이상; fluency: culinary_persona의 '저녁 식사는 오전 7시 이전'은 시간 표현이 이상함
+667af9bf-cee5-4b63-aa77-5d5b282c19f6,603,4,Anonymous,5,4,3,3,plausibility: 2년 차 프로듀서에게 BIFF 수상작 후반 작업 성과가 다소 큼
+cbab8e80-d779-40c0-8ac2-5d5fc3e42486,604,4,Anonymous,5,4,4,4,coherence: 전시 감상 장소 표현이 다소 부자연스러움; fluency: arts_persona에서 전시 관람과 '거실에서'라는 장소 표현이 어색하게 연결됨
+ffaa98b3-0099-4922-8630-d00ef311c3eb,605,4,Anonymous,5,5,4,4,
+e40cc22c-2a8b-4c58-af92-3a4a4338d352,606,4,Anonymous,5,5,4,4,plausibility: 초등학교 졸업 후 설치미술 진입 경로 설명이 약함
+3fe7f823-97b0-44ab-a3e8-97e131685956,607,4,Anonymous,5,5,5,4,fluency: 조사 반복과 일부 문장 중복감
+705aa9c7-d618-4cb7-b00f-432fd17de488,608,4,Anonymous,2,3,2,3,groundedness: 예술수입 없음 및 계약경험 없음인데 위촉 작곡과 콩쿠르 이후 공연 계획이 다소 과도함; coherence: 61세 전업 작곡가의 최근 콩쿠르 입상 및 실내악 협주곡 연출 서사가 다소 부자연스러움; plausibility: 전업 작곡가인데 예술소득·저작권·계약 경험이 모두 없고 위촉작 활동과 충돌; fluency: 작곡가에게 '협주곡을 연출한다'는 표현이 부자연스러움
+e0febbc1-f7c4-435e-8886-ce024249f4f7,609,4,Anonymous,2,3,2,2,groundedness: 섬유공예가인데 성형·소성·기물 제작 서술이 반복됨; coherence: 섬유공예 서사에 도예의 성형·소성 과정이 혼입됨; plausibility: 섬유공예와 소성·기물 제작 표현 불일치; fluency: 섬유공예가인데 성형·소성·기물 제작 등 도예 어휘가 반복됨
+723c9283-e7bd-4c4f-a44a-fe4b6de24306,610,4,Anonymous,4,4,4,3,coherence: 독립 영화 제작 목표가 앞선 연극 서사와 연결 설명이 약함; fluency: 반복적인 템플릿 문장과 AI식 정리 표현
+7a227315-31b2-4553-b239-4dd504b2aac3,611,4,Anonymous,4,4,4,4,groundedness: career break 반영이 다소 약함; coherence: career break나 재진입 배경이 narrative 안에서 충분히 설명되지 않아 support_persona가 약간 튐; plausibility: 2년 차 대비 수상작·국제지원 역량 서술이 약간 과함
+ca6e9fb8-42a2-47e2-a42a-5269cbacefcc,612,4,Anonymous,5,5,3,4,plausibility: 위촉작 다수·표준계약 사용에도 저작권 없음과 낮은 예술소득이 다소 불일치
+00017a37-f294-4efe-ab2b-de729f04c2a9,613,4,Anonymous,5,5,3,4,"plausibility: 1년 차 세션 연주자에게 표준계약·저작권 보유가 다소 과잉 설정; fluency: ""지원 공고를 접었으나""는 구어적 생략이 어색함"
+a6f5e731-4dd9-40a5-a1e4-b4de6318d349,614,4,Anonymous,4,5,3,3,"plausibility: 작곡가인데 저작권 없음, 특정 교향악단 설정이 다소 불명확; fluency: culinary_persona의 '조리물' 표현 부자연스러움"
+0ad56c90-a602-4a42-8d83-e6daabd63dc1,615,4,Anonymous,5,5,3,3,plausibility: 중학교 졸업 후 16세 데뷔 MC 19년 경력과 매우 낮은 예술소득의 조합이 다소 특이함; fluency: 조사 오류와 반복적 AI식 마무리 표현
+4a76bf8d-91b9-45b3-9a34-15f52a49ed05,616,4,Anonymous,3,4,2,3,groundedness: 성악가인데 오케스트라 단원 참여 표현이 부자연스러움; coherence: 성악가와 오케스트라 단원 표현이 다소 충돌함; plausibility: 초등학교 학력 성악가의 장기 강의 경력과 오케스트라 단원 표현이 부자연스러움
+535df1ae-bc09-4cd7-af35-ca96d48229ab,617,4,Anonymous,4,4,3,3,"coherence: 운동 필드에 공연장 일정 확인이 섞여 필드 정합성이 약함; plausibility: 전업 인테리어 디자이너의 개인 예술소득 없음이 애매함; fluency: sports_persona에서 단수 인물을 ""이들""로 지칭"
+18082369-1821-4d3a-be1d-02e546f9dda2,618,4,Anonymous,4,5,5,4,
+68605102-a6df-4cf6-9195-748096916ccc,619,4,Anonymous,4,4,4,4,coherence: 촬영 일정 설명이 다소 혼선 있음
+1eebb487-e727-4118-9015-31daffb13956,620,4,Anonymous,5,4,2,3,coherence: 카페에서 핸드드립 커피를 내린다는 표현이 부자연스러움; plausibility: 개인 예술소득이 가구소득보다 크게 높음; fluency: 상투적이고 포괄적인 표현이 반복됨
+9f2f7d0c-a97a-4739-ab98-50fe35c65823,621,4,Anonymous,4,4,3,4,"groundedness: 데뷔 19세인데 본격 창작을 대학 진학 후로 서술해 약한 시점 불일치 가능; coherence: network_persona에 창작 루틴 내용이 섞임; plausibility: 작곡가 장기 경력과 저작권 없음, 낮은 예술소득의 조합이 어색"
+948d0748-35d4-4e31-8159-575a41783bfb,622,4,Anonymous,5,5,4,4,plausibility: 17세 데뷔는 이르지만 대중음악 작곡가로는 가능
+9178c3a1-90dc-4b43-9fbf-4f0603367d9e,623,4,Anonymous,4,4,4,4,
+627df805-13cc-4b19-9b8a-6dd15847c033,624,4,Anonymous,5,5,4,4,plausibility: 전시·아트페어 활동 대비 개인 예술소득 없음 설명이 다소 부족함
+287dfcb9-95f6-48e7-92cb-3c12f980c823,625,4,Anonymous,2,4,3,4,"groundedness: career_years=0·has_secondary_job=False와 단행본 출간, 문예지 연재, 강의 수입 서술이 충돌; coherence: 강의 수입 언급이 다른 서사에서 충분히 뒷받침되지 않음; plausibility: 0년 경력 대비 단행본·연재 성과가 과밀함"
+babefa8c-bec6-49fb-8c19-d00299b54130,626,4,Anonymous,4,5,3,3,plausibility: 개인 예술소득 6천만원 이상인데 가구소득 3-4천만원 미만
+b67f6719-e3f5-49e3-85b2-0b148468752d,627,4,Anonymous,5,4,4,3,
+8d6a4e5b-24f8-4f4d-9ca5-fc048f358f9b,628,4,Anonymous,4,3,3,3,coherence: 작곡가와 연주자 생활 묘사가 혼재; plausibility: 전업 작곡가가 협주곡 위촉·오케스트라 계약을 했는데 예술소득 없음; fluency: sports_persona 어휘 오류 '삼삼히'
+04386f25-b0fd-4773-99ce-a0261d01becd,629,4,Anonymous,2,5,4,4,groundedness: 18세 데뷔·42년 경력인데 대학 졸업 후 방송 진출로 서술
+9e54786a-2b87-49bb-b616-304355e50a9d,630,4,Anonymous,2,4,2,4,groundedness: 경력 0년·예술소득 없음인데 정규 프로그램 패널 및 출연료 확보로 서술됨; coherence: 0년차·복귀형 신인인데 정규 케이블 프로그램 패널 활동이 다소 급격함; plausibility: 정규 패널 및 출연료 확보 서술이 예술소득 없음·0년 차와 충돌
+4af2ffe6-4d85-4a0c-861d-2e21d021d297,631,4,Anonymous,5,4,4,3,fluency: 추상적 비유와 '일상의 흐름' 반복이 두드러짐
+077ecde3-49b4-46eb-9959-fe796b700cb0,632,4,Anonymous,2,3,3,3,groundedness: 데뷔 51세·경력 0년인데 50대 중반 전환 및 활동 증가 서술이 시간상 불일치; coherence: 데뷔 직후 경력 0년 설정에 비해 인디 레이블·라이브 클럽 활동이 많고 전환 시점 표현이 어긋남; plausibility: 51세인데 '50대 중반에 대중음악으로 전환'이라는 시간선 불일치
+b95da08e-a926-4c13-9414-971a7a3274fb,633,4,Anonymous,5,5,2,4,plausibility: 고령 초등학력 음악 전향자가 5년 차 지휘자로 오케스트라 협업하는 배경 설명 부족
+75306edb-3670-4697-b9ba-4538924feb3f,634,4,Anonymous,5,5,4,4,plausibility: 전업·예술소득 없음의 생계 기반 설명이 부족함
+4f3666ad-ac02-49e3-98a7-49625c785de7,635,4,Anonymous,4,5,4,4,
+778a3326-fbc4-4c7f-9637-17ebe163f145,636,4,Anonymous,4,4,2,4,"plausibility: 85세 전업 고소득 설계 실무자, 계약경험 없음 조합이 매우 이례적"
+f5261b27-f2d8-478b-b553-df486c21dd96,637,4,Anonymous,4,5,4,4,
+d50cef95-a030-4522-a52c-f7bfc54960b3,638,4,Anonymous,5,5,4,4,
+4e4f6333-d1a3-4499-a921-b00185ddb0b9,639,4,Anonymous,5,5,3,4,plausibility: 전업 등록건축사인데 개인 예술수입 없음은 비현실적
+7880f59a-634b-48b6-8f1c-f7880dc3be4e,640,4,Anonymous,5,5,3,4,plausibility: 초등학교 학력·낮은 개인소득·높은 가구소득 조합 설명 부족
+21ac2fc9-c05c-485a-b651-7727ee3be566,641,4,Anonymous,5,5,4,4,
+5593e833-e61c-4063-a46b-4254fa958ea3,642,4,Anonymous,3,4,3,4,groundedness: individual_art_income_bracket=없음인데 판매 수입이 비정기적이라고 서술함; plausibility: 전시·아트페어·레지던시 활동이 있는데 계약 경험과 예술수입이 전혀 없다는 점은 설명 부족
+43b35396-b1fe-49e9-ab8d-1d2c34613aa5,643,4,Anonymous,5,4,4,4,coherence: 시나리오 작가의 창작 초점이 설명·대사·음악/시각 요소 사이에서 약간 흔들림; plausibility: 시나리오 작가에게 후반작업 지원 표현은 다소 어색함
+64541761-b068-4b7f-adcf-69c01f88d28b,644,4,Anonymous,3,3,4,3,groundedness: debut_age=41인데 '40대 후반' 입문으로 서술됨; coherence: 미술 전환 시점이 41세와 40대 후반으로 불일치; fluency: arts_persona에서 전시 공간 방문과 거실 관람이 어색하게 섞임
+b42290cc-4c1a-4f61-ae1b-15e0036e7bee,645,4,Anonymous,3,4,1,4,groundedness: 예술소득 6천만원 이상인데 '본업으로 전환해 안정적인 수익 구조' 목표가 약간 어색함; coherence: 활발한 연재 서사와 '재진입형 지원' 선호가 약간 어색함; plausibility: 개인소득이 가구소득보다 높고 2년 차 겸업 만화가의 6천만원 이상 소득과 단행본 연재 표현이 부자연스러움
+20a4c705-2aa4-40aa-a773-367a0174d75c,646,4,Anonymous,5,4,3,4,coherence: arts_persona가 생활 취미와 예술 감상이 섞여 초점이 약간 흐림; plausibility: 작곡가·위촉작 활동과 저작권 없음이 부자연스러움
+81fc0c67-a1cd-4877-9e86-43f59c065e57,647,4,Anonymous,4,4,4,3,프로듀서 서사에 편집기사식 후반 작업 몰두가 약간 섞임
+fe39c996-f0f4-407c-a267-43fa695febb4,648,4,Anonymous,2,3,2,4,"groundedness: 0년차·예술소득 없음인데 발매 및 수익 확대를 서술하고, 20세인데 대학 전공을 마친 후라고 함; coherence: 20대 초반 신진 서사와 '대학 전공을 마친 후' 표현이 다소 충돌함; plausibility: 20세인데 4년제 대학 전공을 마친 것으로 서술됨"
+302b3d54-b605-4d1a-a577-a6e06e9f51b4,649,4,Anonymous,3,3,3,4,groundedness: 21년 경력인데 최근 신인상 수상 서술이 어색함; coherence: 21년 경력 작가가 최근 신인상 수상 후 청탁을 받았다는 경력 단계 어긋남; plausibility: 21년 경력과 최근 신인상 서술의 부조화; fluency: travel_persona의 '해외 여행 경험이 없어 국내 여행은 거의 하지 않는다'는 인과가 어색함
+76f329c0-28b0-44ef-a7f0-755dfa6f950c,650,4,Anonymous,3,4,3,3,groundedness: 84세를 70대 후반으로 표현; coherence: 84세를 70대 후반으로 지칭; plausibility: 저소득 고령 전업 설치작가의 비엔날레 준비는 설명이 약함
+c8db76ba-fc1f-4355-953d-329d07106270,651,4,Anonymous,5,4,3,4,coherence: 미술대학 졸업 여부가 다른 배경 서술과 다소 불명확; plausibility: 미술대학 졸업 후 65세 데뷔까지의 경력 공백 설명 부족
+46e2ee0a-cc51-4c83-8423-1b5522c4c9f5,652,4,Anonymous,5,4,4,4,coherence: 빨래와 산책을 결합한 표현이 부자연스러움; fluency: sports_persona에서 빨래 개기와 산책을 동시에 하는 듯한 문장이 어색함
+1169265c-2738-4fc4-9ef0-ffd5e00bfd5c,653,4,Anonymous,4,4,3,3,coherence: arts_persona에 어색한 장소 표현; plausibility: 성악가에게 악기 보관·관리비 표현이 부정확함; fluency: arts_persona의 '거실에서 카페에서의 차 시간' 표현이 문맥상 이상함
+e5f0cea8-beb4-4baf-be31-62588921f75e,654,4,Anonymous,5,5,3,4,plausibility: 레지던시와 설치 작업이 있는데 예술소득·계약 경험 없음
+1121d6b0-951f-42b8-ae68-adc30bf07845,655,4,Anonymous,4,4,4,4,groundedness: 회화 작가에게 '손으로 직접 조형' 표현은 약간 어색함; coherence: 회화 작가 서사에 손으로 직접 조형한다는 표현이 다소 조각적으로 들림; plausibility: 49년 전업 회화 경력 대비 개인 예술소득이 매우 낮음
+6834d4fb-1996-4bb8-9805-c0e40eee23f6,656,4,Anonymous,5,5,3,4,plausibility: 예술소득 없음과 고가구소득의 근거가 서사에 없음
+096505c3-9db0-4e2e-aece-cc7a6d1871e8,657,4,Anonymous,5,5,4,3,"fluency: ""구경를"", ""높이기로 목표로 삼는다"" 문법 오류"
+101ebb4e-f9c8-485a-8856-bdae9bbc8f1b,658,4,Anonymous,3,2,3,2,groundedness: travel_persona에 '페스.createSequentialGroup'라는 생성 오류 문자열 포함; coherence: 생성 오류 문자열 및 주거 안정성 설정 충돌; plausibility: travel_persona에 코드 조각 같은 비현실적 문자열 포함; fluency: 생성 오류 문자열 포함
+4725440f-7209-4efb-b76b-fca64aa24446,659,4,Anonymous,3,4,3,3,groundedness: 전업·부업 없음인데 강의 활동이 현재 역량/목표에 반복 언급됨; plausibility: 젊은 전업 미디어아트 작가의 해외 레지던시·아트페어 활동 대비 수입 설명 부족; fluency: arts_persona의 '낮은 학력' 표현이 인물 서술에서 부자연스럽고 낙인처럼 보임
+83f10659-840e-4b9b-ae87-801436275a58,660,4,Anonymous,4,5,3,4,plausibility: 개인 예술소득이 가구소득보다 높게 제시됨; fluency: 비교 구조가 어색한 문장: '공기보다 설명을 덜 중시'.
+a68f0190-41ea-43d9-8479-022320e94f2b,661,4,Anonymous,5,4,4,3,coherence: 카페에서 요리 실험을 한다는 표현이 약간 부자연스러움; plausibility: 전업 판화가인데 예술수입 없음은 가구소득 의존 설명 필요
+4c4747bc-cce5-4a0b-8ec4-cf0b28237a0b,662,4,Anonymous,4,5,4,4,
+e05905e2-aa8f-4e40-91d8-23365e1d9b60,663,4,Anonymous,5,4,4,4,coherence: sports_persona에 카페 커피 활동이 섞여 있음; plausibility: 소설가인데 저작권 없음이 다소 부자연스러움
+f731044a-7d0e-4d06-a8c6-f879f32c9975,664,4,Anonymous,5,4,4,4,fluency: culinary_persona의 '서울의 지역 특산물'은 표현이 부자연스러움
+002c4bba-fdf1-4afd-9037-2c705412ff33,665,4,Anonymous,5,4,4,3,plausibility: 갤러리 계약 없음과 갤러리 관계 유지 서술이 약간 애매함; fluency: 추상적이고 반복적인 AI식 마무리 문장이 있음
+12ada264-07ea-455e-967d-78ca2dde005b,666,4,Anonymous,3,4,3,4,groundedness: debut_age 40인데 40대 중반 전환이라고 서술; coherence: 49세 9년 차라면 전환 시점은 40세 전후인데 ‘40대 중반’과 충돌; plausibility: 전업·무수입과 높은 가구소득의 설명 부족
+6a6928c4-a8d4-4402-9416-cd7533529379,667,4,Anonymous,4,4,4,3,"coherence: 운동 빈도 표현이 비문에 가까움; fluency: ""배드민턴을 1회 주 2회로 조율"" 의미와 어순이 어색함"
+ff26c541-6a75-4044-a210-edd8e66b5730,668,4,Anonymous,4,4,3,2,coherence: cultural_background의 '47세에 경기에서 자란' 표현이 부자연스러움; plausibility: 전업 비프리랜서 광고사진가의 매우 낮은 소득 구조 설명 부족; fluency: arts_persona에 '거실에서 카페에서의 메모'라는 비문이 있음
+489bee6d-27ed-4ce2-830a-27b3341c4aaa,669,4,Anonymous,5,5,2,4,plausibility: 인디 싱어송라이터 예술소득 6천만원 이상에 대한 근거 부족; fluency: 일부 일반적 표현
+cdeeddf5-ae63-47d2-b87c-23cf3d4a7089,670,4,Anonymous,2,3,2,3,"groundedness: 87세를 70대 초반으로 잘못 묘사함; coherence: 나이 표현이 87세와 70대 초반으로 충돌; plausibility: 나이 불일치: 87세를 70대 초반으로 서술, 줄넘기 루틴도 매우 이례적; fluency: 87세인데 sports_persona에서 '70대 초반'이라고 함"
+47883125-b23b-4534-a247-55c75f5aada6,671,4,Anonymous,5,5,4,4,
+af70edc4-f250-4d7b-9358-e1dbb0fac416,672,4,Anonymous,3,4,4,3,groundedness: 80세를 '70대 초반'으로 표현; coherence: sports_persona의 연령 표현이 현재 나이와 불일치; plausibility: sports_persona의 '70대 초반'이 age=80과 불일치; fluency: sports_persona가 80세를 '70대 초반'으로 서술
+8a2593ac-c7a8-4c7d-8fd3-344a69d1f773,673,4,Anonymous,4,4,4,3,"coherence: 전시 관람 장소 표현이 거실과 전시 공간 사이에서 어색함; fluency: ""근린 공원 짧은 산책를"" 조사 오류, 전시 관람과 거실 표현 연결이 어색함"
+afbd12b0-7592-41f4-a752-77e4a98dd9d8,674,4,Anonymous,5,5,4,4,"fluency: creative_world_persona에서 ""재료의 본질을 강조"" 반복"
+03e47aca-fdee-4de9-9b58-2d28098a246b,675,4,Anonymous,5,4,4,4,
+3869401d-a124-472c-b6d5-6dcbf46fae28,676,4,Anonymous,5,5,4,3,
+b34276a5-9721-4852-a9d5-6cf4d0405984,677,4,Anonymous,5,5,4,4,plausibility: 15세 데뷔 기준 12년 경력은 가능하나 어린 전문 진입 설명이 조금 더 필요함
+65b6b75e-afba-4ad8-8095-8a756409aecf,678,4,Anonymous,3,5,3,3,groundedness: individual_art_income_bracket=없음인데 '판매 수입이 비정기적'이라고 서술됨; plausibility: 전업 판화가 예술소득 없음과 고가구소득의 근거가 서사에 없음; fluency: 일부 문장이 인물 서술보다 평가문처럼 들림
+84fcee84-7ab1-4cfc-8a6e-4f1368c2d807,679,4,Anonymous,5,4,2,3,coherence: 식사와 방송 콘텐츠 정보 수집 연결이 다소 작위적; plausibility: 방송 MC 정규 활동 및 계약 경험과 개인 예술소득 없음이 충돌; fluency: 일부 문장에서 추상적 연결어와 AI식 표현이 반복됨
+7547e2d0-3f3e-47e8-be88-683a8f32a6dc,680,4,Anonymous,5,4,3,4,coherence: 고정 근무라는 표현이 방송 출연자 서사와 다소 부자연스러움; plausibility: 고소득 장기 방송 출연자인데 계약 경험 없음이 부자연스러움
+d7a6156a-13ac-4397-a09a-5339d9f424da,681,4,Anonymous,5,5,4,3,plausibility: 전업 예능인 개인소득 1-2천만원 미만과 높은 가구소득의 간극 설명은 약함; fluency: 일부 문장이 '콘텐츠의 질' 같은 포괄 표현을 반복함
+dca9ea39-d921-4523-bf1b-742a4fc8e93c,682,4,Anonymous,2,5,3,3,groundedness: 예술 개인소득 없음과 프로젝트/스트리밍 수익 서술 충돌; plausibility: 예술 개인수입 없음과 프로젝트 수입 강조가 다소 충돌; fluency: 어색한 표현: '돈과 공간을 버티고 있다'
+5e4dc3c6-9b4e-4a93-8dd9-ab16739a2570,683,4,Anonymous,5,5,4,4,plausibility: 전시 활동이 있는데 예술소득 없음에 대한 설명이 조금 부족함; fluency: hobbies_and_interests의 병렬 연결이 다소 어색함
+7c28fdd8-6493-406a-9ccc-45da2542b3bd,684,4,Anonymous,4,5,4,4,
+b2344bf5-71ef-492f-9855-43c2da91d520,685,4,Anonymous,5,4,3,3,plausibility: 40년 경력 전업 방송 출연자 대비 개인 예술소득이 매우 낮음
+c2dec7cb-be89-4f2f-a03b-958c6efd92c8,686,4,Anonymous,5,5,3,4,"plausibility: 사진가인데 저작권 없음, 19세 데뷔 후 대학원·경력중단 설명 부족"
+aa6887b5-6471-46b6-96ba-1ab2351790c6,687,4,Anonymous,4,5,2,3,plausibility: 개인 예술소득이 가구소득보다 높음; fluency: 카페에서 미술 전시를 관람한다는 표현이 부자연스러움
+bd479c60-a15c-42c1-a254-ba501759205d,688,4,Anonymous,5,4,3,3,coherence: 운동 루틴에 필라테스와 근력 운동이 혼재됨; plausibility: 가구소득 1천만원 미만과 대학로 지속 활동의 생계 설명이 다소 부족; fluency: hobbies_and_interests에 조사 오류 '산책를' 있음
+186109f9-5fa2-40d7-ad90-874f1d3ea7e4,689,4,Anonymous,4,4,3,4,coherence: 작곡가인데 연주 수입 중심 표현이 다소 어색함; plausibility: 작곡가인데 저작권 보유 없음은 부자연스러움
+33b245fc-27b7-408e-a6e3-35b08d387d68,690,4,Anonymous,4,4,2,4,coherence: 학력 배경 대비 외국어 커뮤니케이션 능력 설명이 약함; plausibility: 초등학교 학력과 영화 프로듀서 직무 역량 사이 설명 부족
+f3581275-4a9d-4d9e-bbdb-189980a2b488,691,4,Anonymous,5,5,4,3,plausibility: 미디어아트 작가인데 저작권 보유 없음은 다소 아쉬움; fluency: hobbies_and_interests에 조사 오류 '산책를'
+83cc2c70-c228-493f-af5e-8f5fa0710893,692,4,Anonymous,4,4,4,3,plausibility: 전업 18년 차이나 예술소득 없음은 다소 설명 부족
+9f69c4e2-9e2c-466c-a1f2-33370cb78518,693,4,Anonymous,5,5,3,2,plausibility: 장기 경력 프로듀서의 활동 규모 대비 개인 예술소득이 낮음; fluency: 문법 오류 및 어색한 높임말
+99928582-f22c-43db-ae1a-5cfcae742ea9,694,4,Anonymous,4,5,4,4,
+554606dd-14b1-4927-89cd-ac244482e559,695,4,Anonymous,5,5,2,4,plausibility: 활동 중인 23년 차 세션 연주자의 예술소득 없음이 강하게 부자연스러움
+746ed4cc-4b1d-4fef-ad6d-9c9648332320,696,4,Anonymous,5,4,3,3,coherence: 조각가 서사에 '화면의 밀도' 표현이 다소 부적합; plausibility: 예술소득 없음·고가구소득·겸업의 수입원 설명 부족
+ceb5a705-b5c8-4a02-8654-6fd83ed90a80,697,4,Anonymous,2,3,2,3,groundedness: 성악가인데 위촉작 협주곡을 썼다고 하여 직업 앵커와 역할이 충돌함; coherence: 성악가가 위촉작 협주곡을 썼다는 서술이 직업 정체성과 충돌 가능; plausibility: 성악가가 위촉 협주곡을 썼다는 직무 혼선
+3e23ff04-cbdd-461c-99e2-6b5002c3c2c8,698,4,Anonymous,5,4,4,4,
+27eccfa6-1223-475b-aacc-db1842455abb,699,4,Anonymous,2,5,3,4,groundedness: 예술 개인소득 없음인데 광고 사진 클라이언트 작업을 생계 일정으로 서술함; plausibility: 광고 사진가 활동과 예술소득 없음의 긴장
+a7ea0533-f232-48cf-9f49-79a53028ea83,700,4,Anonymous,4,4,3,2,coherence: '코리아나' 준비물 표현이 이상함; plausibility: 16년차 전업 MC의 낮은 소득과 계약 경험 없음이 어색하며 '코리아나' 준비물도 의미가 불명확; fluency: 의미 불명 표현: '코리아나'
+16a4e7bf-83ec-4eff-8c6a-a2fc6a7b3504,701,4,Anonymous,5,5,4,3,
+d754a503-f094-439a-9b77-5f1307cf1778,702,4,Anonymous,4,4,4,4,coherence: 설치미술 작가에게 '화면의 밀도' 표현이 반복되어 장르 정합성이 약간 약함; plausibility: 전업 장기 경력 대비 예술수입이 매우 낮음
+036e7237-2e95-457a-9074-b476f780d8d2,703,4,Anonymous,3,3,2,4,groundedness: 편집기사 서사에 '미술 자재 구매'가 반복되어 직무 맥락상 다소 어색함; coherence: 영화 편집기사 서사에 '미술 자재 구매'가 부자연스럽게 삽입됨; plausibility: 개인소득이 가구소득보다 높고 편집기사 서술에 미술 자재 구매가 섞임
+68b87e4d-fb88-44e4-93ce-135498daa96d,704,4,Anonymous,4,5,4,3,fluency: hobbies_and_interests에 '확인를' 조사 오류
+d423c2c5-f90f-4ff8-8ff5-2763745e1830,705,4,Anonymous,5,5,3,3,plausibility: 장기 전업 프로듀서의 매우 낮은 개인 예술소득과 높은 가구소득 간 설명 부족; fluency: 문체가 일부 필드에서 존대와 평서체로 섞임
+a9dad1ad-f68e-46d7-a0cc-37ac23bd8984,706,4,Anonymous,4,4,4,3,coherence: 지원 선호가 창작비와 후속 프로젝트 사이에서 약간 흔들림; fluency: 조사 오류: '이용를'
+fb1dc47f-b5fe-4de9-b467-1a1bea88b6a3,707,4,Anonymous,4,5,3,4,plausibility: 인디 레이블 프로젝트 수입 언급과 예술수입 없음이 충돌 가능
+ae3209c1-f3d8-490e-8cb3-dff6cb9a762b,708,4,Anonymous,4,4,3,3,coherence: 판소리 명창 서사에 정가·시조 활동이 섞여 직업 정체성이 약간 흐림; plausibility: 29세 4년 차를 '판소리 명창'으로 부르는 점과 정가·시조 활동 혼재가 어색함; fluency: 조사 오류: '일정 확인를'.
+bfd5463b-f694-406d-8910-9a5ef8ba402b,709,4,Anonymous,4,4,4,4,coherence: 대전 기반 배우인데 대학로 소극장 18년 활동이라는 지역 서술이 다소 어긋남; plausibility: 대전 거주인데 대학로 소극장 18년 활동 서술은 지역 초점과 약간 흔들림
+491d741f-93f1-4a82-a351-9c4da4ad4d64,710,4,Anonymous,2,2,2,3,groundedness: 47세 무렵 태어났다는 표현은 나이·출생 서술상 명백한 이상점; coherence: 47세 무렵 충청북에서 태어났다는 명백한 시간·출생 서술 오류; plausibility: 가구소득이 개인소득보다 낮고 출생 서술 오류; fluency: cultural_background의 '47세 무렵 충청북에서 태어난'은 문장 의미가 비문에 가까움
+30b95c4c-a25a-4a12-bb84-192fe54f4142,711,4,Anonymous,5,5,3,3,"plausibility: 무학 학력과 전문 디지털 음악 프로듀싱 역량의 연결 설명이 약함; fluency: 어색한 표현: '귀를 쉬운다', 의미 불명확: '헌팅 라디오'."
+e109c340-e962-4a00-94f8-7a7b368f544d,712,4,Anonymous,5,4,4,3,fluency: arts_persona 부자연스러운 일반화
+ceeaf14f-d163-4151-a965-1df31734bf1e,713,4,Anonymous,5,5,4,4,fluency: culinary_persona 일부 조사 생략
+b8bae99d-ffa0-4d73-aa8e-207832b65cec,714,4,Anonymous,5,5,4,4,fluency: 문법 오류 1곳
+b6cfab5a-8629-4f69-a82e-5116a4677266,715,4,Anonymous,4,4,4,3,coherence: 보여지는 캐릭터 표현이 방송작가 정체성과 약간 불명확함; plausibility: 대기용 의상·촬영 회복 표현은 방송작가 직무와 약간 혼재됨
+2d357e9f-7ab8-4d39-aa95-719b469616d5,716,4,Anonymous,2,4,2,3,groundedness: 성악가 서술이 객원 지휘와 위촉작 기획 중심으로 직업 앵커와 충돌; coherence: 성악가 서사에 객원 지휘와 악기 관리비가 다소 넓게 섞임; plausibility: 성악가 활동이 객원 지휘·위촉작 기획 중심으로 직무 혼선이 큼; fluency: 일부 표현이 구어적이거나 번역투처럼 어색함
+2362e43b-239e-4005-a529-6ba2f767f2c5,717,4,Anonymous,5,4,4,4,coherence: 설치미술에 '화면의 밀도' 표현이 다소 어색함
+d4217b8c-af9a-4f50-b3a1-8dfe596cacc9,718,4,Anonymous,2,4,3,2,groundedness: 전업·부업 없음 앵커와 강의 수입 서술 충돌; coherence: 강의 수입이 다른 필드에서 충분히 설명되지 않음; plausibility: 전업 수필가 저소득과 높은 가구소득의 근거 설명 부족; fluency: AI식 추상 표현 반복
+fc44bcb5-3eca-4169-acec-6d32c25917d2,719,4,Anonymous,4,4,3,4,coherence: 작곡가인데 연주 수입 중심 표현이 약간 어색함; plausibility: 전업 작곡가인데 저작권 없음으로 제시됨
+3635b1b7-3a98-44e5-8e0c-cb55989c0020,720,4,Anonymous,4,5,2,4,plausibility: 국공립 교향악단 객원 지휘와 예술수입 5백만원 미만의 괴리가 큼
+fbbddc5a-5fe4-41f6-baab-8884ded18a37,721,4,Anonymous,4,4,4,3,coherence: 방송작가 서사에 출연자 같은 '대기용 의상' 요소가 섞임; fluency: 전체 서술에서 높임말 종결이 반복되어 데이터셋 문체와 다소 어긋남
+5297fdc6-bd4c-46af-8435-9c1437a16253,722,4,Anonymous,5,5,4,3,plausibility: 고소득 가구 배경 설명은 부족하나 불가능하지 않음; fluency: hobbies_and_interests 조사 오류 '산책를'
+16823d2d-71ef-4199-99a7-314c9908d6c0,723,4,Anonymous,4,4,4,4,
+9b734813-a651-47f0-b365-31c653014343,724,4,Anonymous,5,4,4,3,fluency: persona의 '일상이 ... 최선을 다한다'는 비문에 가까움
+b21e4704-b8e0-4d61-82d9-7d54340e0b8c,725,4,Anonymous,4,5,4,3,fluency: 조각가 서술에 '화면의 밀도'가 반복되어 매체 어휘가 어색함
+44b06a95-2fee-4293-93eb-670148e0ad51,726,4,Anonymous,5,4,4,4,
+d151496f-fd8a-4d18-a706-06d73cedca45,727,4,Anonymous,2,5,3,4,groundedness: individual_art_income_bracket=없음인데 프로젝트 수입 비중이 높다고 반복 서술함; plausibility: 19년 경력 프로젝트형 작곡가인데 개인 예술수입 없음은 다소 불명확함
+7195b836-2b45-42c4-aa2a-df1144ee4305,728,4,Anonymous,4,4,3,4,coherence: travel_persona의 서울 내 여행과 인근 도시 언급이 다소 불일치; plausibility: 전업 활동과 예술소득 없음의 긴장
+2fcc5b77-eebe-4205-8c9a-189b5b538428,729,4,Anonymous,4,4,1,4,plausibility: 88세 신규 데뷔 세션 연주자로 야간 작업·인디 레이블 프로젝트를 수행하는 설정이 비현실적; fluency: 일부 일반적 마무리 표현
+97dfdb47-01ab-41d9-98a3-387f3146ff5d,730,4,Anonymous,5,5,3,3,plausibility: 전업 회화 작가인데 예술소득 없음의 생계 설명 부족
+63decd70-c408-4708-956f-00c4b3e105ba,731,4,Anonymous,4,4,3,3,coherence: 해외 활동 경험 때문에 국내 여행을 선호한다는 연결이 어색함; plausibility: 네이버웹툰 단행본 준비 전업 작가 치고 개인 예술소득이 지나치게 낮음; fluency: 조사 오류: '산책를'.
+c44026b3-fac6-4a0d-91e5-6a8e7d0031f3,732,4,Anonymous,4,4,3,4,coherence: 지원 정산 절차와 협업 지연을 연결한 표현이 부자연스러움; plausibility: 공연 일정 단절 서술 대비 개인 예술소득이 높은 편
+16fed52b-a8c5-4a2c-81c4-fa7b515325cd,733,4,Anonymous,3,4,4,4,groundedness: 세션 연주자의 '세션 알바'가 부업인지 본업인지 불명확함
+72d20aba-d5fa-4177-8b93-080091b9b1b7,734,4,Anonymous,5,5,4,3,
+e7d774dc-24c8-4565-91ee-4a6ab2909b6f,735,4,Anonymous,5,3,3,3,coherence: 무대미술가 역할과 분장/대본 준비 서술이 다소 혼재; plausibility: 32년 차 전업 무대미술가인데 예술소득·계약경험 없음
+875dba06-7476-48c9-87db-fcbadeb674c4,736,4,Anonymous,4,4,3,4,"coherence: 정기적 운동 여부 표현이 약간 상충; plausibility: 개인 예술소득이 가구소득보다 높은 설정, 계약 경험 없음과 갤러리·비엔날레 협업의 긴장"
+762c651c-8fc8-4901-be61-6c51c7d9b887,737,4,Anonymous,4,4,4,4,coherence: family_persona가 가족 관계보다 친구 관계 중심; plausibility: 갤러리 협업이 있으나 계약 경험 없음 설명 부족
+5ce31fec-045b-48e8-ad5f-3a0a00f10311,738,4,Anonymous,3,3,3,3,groundedness: 번역가보다 수필가/작가 활동이 두드러짐; coherence: 번역가 정체성과 수필가·신춘문예 서사가 다소 충돌; plausibility: 번역가와 수필가/창작 작가 서사가 혼재; fluency: 어색한 조사 표현
+1344028b-01e0-43da-bf6e-fd542d542675,739,4,Anonymous,5,4,4,4,
+2ebb4a63-5c45-466c-8de4-54f686580d64,740,4,Anonymous,5,4,3,3,coherence: network_persona가 네트워크보다 지원 제도 설명에 가까움; plausibility: 개인 예술소득이 가구소득보다 높고 장기 세션 연주자 계약 경험 없음은 부자연스러움; fluency: 일부 문장 성분 누락 및 generic한 AI식 표현
+384947b4-d2dc-4958-9510-02fc4013a560,741,4,Anonymous,5,5,4,4,fluency: 상투적 인과 표현이 반복됨
+bfbf9738-1e7a-484f-ba7b-1fbd5b0b550f,742,4,Anonymous,5,5,4,4,plausibility: 전시 활동 대비 예술소득 없음 설명 부족
+616be134-da63-4ab7-b83b-97550f852e71,743,4,Anonymous,4,5,3,3,plausibility: 전업 15년 기악 연주자이나 예술소득 없음과 무대 활동 지속이 약간 어색함; fluency: 어색한 표현: '주 내부에서 세밀하게 배분'.
+76008c0f-c13f-49f5-97fe-12c805d2f3c6,744,4,Anonymous,4,3,2,3,coherence: 초등학교 졸업 직후 방송 활동 시작이라는 배경이 현재 경력 타임라인과 어색함; plausibility: 초등학교 졸업 후 방송 활동 경로와 케이블 패널 경력 설명 부족; fluency: AI식 추상 표현이 여러 곳에 보임
+83e9825e-345d-42cb-b81b-4fb6fbcc8d05,745,4,Anonymous,5,5,2,4,"plausibility: 개인 예술소득이 가구소득보다 높음, 지휘자 저작권 보유 설정 애매"
+5c51fe27-e210-412f-be13-245c5e56902c,746,4,Anonymous,3,3,4,3,groundedness: debut_age=50인데 '50대 후반에 데뷔'라고 서술; coherence: 50대 후반 전환과 17년 경력·50세 데뷔가 충돌; plausibility: 데뷔 나이와 '50대 후반 전환' 서술 불일치; fluency: 일부 과잉 일반화 표현
+0ea36c9f-0179-4872-8e81-14c3996cd32a,747,4,Anonymous,4,5,4,4,plausibility: 경력 대비 예술소득이 낮은 편; fluency: 일부 조사 생략으로 어색한 문장
+4b226817-2cac-44d0-838c-9c190b320af1,748,4,Anonymous,3,3,4,3,groundedness: 데뷔 나이를 40세가 아니라 40대 중반으로 서술; coherence: 데뷔 시점이 40세와 40대 중반으로 불일치
+b574765a-4d56-466f-927e-e8557d70d889,749,4,Anonymous,2,5,3,3,groundedness: 예술 개인소득 없음인데 기고 수입 변동성과 청탁 증가를 명시함; plausibility: 예술소득 없음과 기고 수입 변동성 언급이 충돌; fluency: 상투적 AI 표현
+eb2214e4-2690-42aa-bedc-240eb20ed3de,750,4,Anonymous,3,4,4,3,groundedness: 부업 없음인데 강의 수입·문학 강의 능력이 생계 요소처럼 제시됨; coherence: 전업 시인 서사에 강의 수입이 등장해 약간 혼재됨
+4e1d4d0b-c7b4-477e-b86e-b64e34b1834b,751,4,Anonymous,3,3,2,2,groundedness: sports_persona의 '70대 초반'이 age=83과 불일치; coherence: sports_persona의 70대 초반 언급이 83세와 충돌; plausibility: 무소득 전업 비프리랜서 사진가 설정이 불명확하고 sports_persona의 '70대 초반'도 age=83과 불일치; fluency: hobbies_and_interests에 '방문를' 조사 오류가 있음
+536a1f7e-c8a1-4e61-a5f4-8e436b0666d4,752,4,Anonymous,5,4,3,4,coherence: 작곡가 서사에 악기 보관·연습 공간 표현이 반복되어 직무 정체성이 조금 흐림; plausibility: 작곡가·위촉작 활동과 저작권 없음이 부자연스러움
+88b6ec5a-965c-4d96-81c7-6a5fb5dc5538,753,4,Anonymous,5,5,5,4,
+f6f22264-9bb8-4d2e-84eb-433c445ec21f,754,4,Anonymous,5,4,3,3,coherence: culinary_persona에 식생활과 무관한 취미 문구가 섞임; plausibility: 비프리랜서 전업인데 예술소득 없음과 낮은 가구소득으로 생계 설명 부족; fluency: travel_persona의 '여행은 국내 주로 경기 지역 내에서 이루어지며'는 어순이 어색함
+37b3933f-cb64-465c-9a87-41e8a525742d,755,4,Anonymous,5,5,3,3,plausibility: 전업 프로듀서의 연 예술수입 5백만원 미만은 낮은 편; fluency: AI식 취미 설명 문장
+278b9632-26e4-4c0e-b389-731cdc3e49b5,756,4,Anonymous,3,3,3,4,groundedness: 목공예가에게 소성 가마 비용 언급은 도예적 요소로 보이는 약한 불일치; coherence: 목공예가 서사에 소성 가마가 등장해 공예 분야가 흔들림; plausibility: 목공예가가 소성 가마 비용을 절감했다는 서술은 도예 쪽 표현에 가까움; fluency: 목공예가에게 '소성 가마'는 부자연스러운 소재 선택으로 보임
+421800ba-02fa-41a9-b546-e788f73779cc,757,4,Anonymous,5,4,4,4,coherence: 고정 근무나 수업 일정 언급이 다른 필드와 약하게 연결됨; plausibility: 22년 경력 대비 개인 예술소득 없음은 다소 낮음
+560044ec-9c6d-4128-8a18-94ae1d0785a9,758,4,Anonymous,4,4,3,3,plausibility: 비프리랜서 전업 1년차와 사무소 운영비 서술의 불일치; fluency: arts_persona의 '차는 시간을 가져가며' 표현 오류
+33ce0f7c-bfc6-4ee4-82dd-0a49eddc9328,759,4,Anonymous,5,5,4,4,fluency: 상투적 반복 문장 일부 존재.
+19d6be27-4fe3-49c9-9f00-a7938d3e1b60,760,4,Anonymous,5,5,4,3,fluency: 팟캐스트 청취와 소통 능력 연결이 부자연스러움.
+0073d317-2bc9-4762-a17d-cc0308a38f61,761,4,Anonymous,5,5,3,3,plausibility: 전업 비프리랜서 국악인인데 매우 낮은 개인 예술소득 설명이 부족
+a070951b-90fd-4713-b0f8-9174846f9b84,762,4,Anonymous,4,4,4,3,coherence: 외주 강의가 뒤늦게 등장해 맥락이 다소 약함; plausibility: 중학교 졸업 후 프로듀서 전환은 가능하지만 설명이 더 필요; fluency: hobbies_and_interests에 '산책를' 조사 오류
+94d93bbe-9135-4be5-9817-7821f393481c,763,4,Anonymous,5,5,5,4,
+6ac867c7-3391-4b44-b723-cde249b99c60,764,4,Anonymous,5,5,3,2,plausibility: 2년 차 평론가의 단행본 수입 확보는 다소 이른 설정; fluency: arts_persona 문장 '카페에서 전시 공간을 들르며'가 의미상 어색함
+e3c6eee6-893a-480b-8539-59b9a4969f8c,765,4,Anonymous,4,4,4,3,coherence: arts_persona 문장 종결이 어색함; fluency: arts_persona 문장 종결 '시간을 가져'가 부자연스러움
+29959021-333b-4891-baff-0e91b05bfb88,766,4,Anonymous,2,4,3,3,groundedness: 77세·19년 경력 작가를 신진작가전 입선으로 묘사해 경력 단계가 어색함; coherence: 고령·19년 경력과 '신진작가전' 표현이 다소 어색함; plausibility: 77세 19년 차에게 신진작가전 표현이 부자연스럽고 수입 없음과 전시 활동의 긴장; fluency: 추상 미술 비평어가 과하게 삽입됨
+f8700181-afa7-465f-9d63-a5bb6aeced3d,767,4,Anonymous,4,4,3,3,"coherence: 카페에서 영화 관람, 빨래를 개기며 요리 준비 등 생활 표현이 약간 부자연스러움; plausibility: 전업 지휘자 13년인데 예술소득 없음 설명 부족; fluency: 어색한 장소·행동 결합 표현 있음"
+31bff2cc-eee7-472e-b00b-4208ea0e271d,768,4,Anonymous,5,5,4,4,
+c4e4b4a5-8783-4e2d-93c7-03857b221438,769,4,Anonymous,5,5,4,3,
+b0cc9b46-94d0-42de-9c15-40d47ab18d09,770,4,Anonymous,5,5,5,4,fluency: 전문어 결합이 어색함: '유약 성형'
+3ea78b30-4e12-4033-8a93-a2419493cce8,771,4,Anonymous,2,5,3,4,groundedness: 예술 개인소득 없음과 연주 수입 서술 충돌; plausibility: 19년 경력과 예술수입 없음의 간극이 큼
+e17019c4-af3a-429f-905f-d05c790b33a3,772,4,Anonymous,5,5,3,3,"plausibility: 주문 제작·워크숍 활동과 예술소득 없음의 긴장, 고가구소득 설명 부족; fluency: professional_persona의 '도예가 아닌 섬유의 물성을 살린 기물'은 섬유공예 설명으로 다소 부자연스럽습니다."
+9686d437-d83e-47cf-938f-27feb5b2d0ed,773,4,Anonymous,4,4,4,3,coherence: 68세에 대구에서 자랐다는 표현이 부자연스러움; plausibility: 광고 클라이언트 협업과 예술수입 없음의 불일치 가능성
+ac5399cb-4b02-434b-80fb-d67f71a834a8,774,4,Anonymous,4,4,4,2,coherence: 지원 제도 미신청과 선호 지원 서술이 다소 충돌; plausibility: 1년 차 전업 연출가가 비프리랜서로 표시된 점은 다소 애매함
+6b8fd83b-dc3f-4fa8-9110-a09bdf18f65d,775,4,Anonymous,5,5,4,4,plausibility: 36년 경력 전업 판화가의 예술수입 없음은 다소 특이하나 복귀 맥락이 있음; fluency: 일부 취미 설명이 템플릿처럼 반복됨
+b275c73a-3c7e-4b7b-9b0b-47a1f1f44a1b,776,4,Anonymous,4,5,2,3,plausibility: 0년 차 23세 세션 연주자의 4-5천만원 예술소득과 경력단절 이력이 매우 부자연스러움
+7029f6d6-cdcf-402e-9896-dc70fa1ff1b9,777,4,Anonymous,4,4,3,4,광주 프리랜서 영화 편집기사의 6천만원 이상 소득 설명 부족
+88cfc465-0f34-4e00-bcef-844f2c03c3c2,778,4,Anonymous,5,4,4,3,"coherence: 예능인과 제작자 성격이 일부 혼재됨; fluency: 어색한 표현: '메모지가 놓인 공간을 유지', '방문 제작 지원 공고'"
+31377033-8950-460a-ac1e-2de3e8118a29,779,4,Anonymous,5,4,3,3,plausibility: 83세 전업 미디어아트 설치 프로젝트 활동의 현실 설명이 다소 부족; fluency: cultural_background의 '전업 상태으로'는 문법 오류이며 arts_persona의 '시가와 소설'은 맥락상 '시와 소설'로 보임
+c39eed49-5fa2-4ff9-952f-804d1be9a270,780,4,Anonymous,5,4,4,4,coherence: 영화 감상 장소가 카페와 거실로 다소 혼재됨
+8f7592fc-2be9-4ac6-94e7-efe6da462c04,781,4,Anonymous,5,4,4,3,"plausibility: culinary_persona의 '서울의 지역 특산물인 떡볶이'는 다소 부자연스러움; fluency: persona 어색한 표현, culinary_persona 부자연스러운 지역 특산물 표현"
+6ea27377-b73f-4991-aaee-5414d2399c36,782,4,Anonymous,5,4,4,4,coherence: 조각가 서사에 '화면의 밀도'라는 표현이 약간 부자연스러움
+89e50c3a-c43d-4d6c-a324-02519c551bef,783,4,Anonymous,5,4,3,4,coherence: 실내 클라이밍 취미가 연령 및 손 피로 서사와 조금 튐; plausibility: 고령 미디어아트 작가의 클라이밍·아트페어 활동이 설명 없이 다소 이례적
+ff3141b9-9d25-4ad8-b972-34a291e4c31a,784,4,Anonymous,4,4,3,4,plausibility: 33년 경력 전업 인테리어 디자이너의 개인수입이 낮은 편
+3b00fed1-d0d2-44c3-9321-18510d111986,785,4,Anonymous,3,4,3,3,클라이언트/보존 프로젝트 서술과 계약경험 없음 사이 긴장
+32bfa6de-398e-4f5a-b79e-84fe19f82ce1,786,4,Anonymous,5,4,4,4,coherence: 서점에서 요리 실험을 한다는 표현이 부자연스러움; plausibility: 전업 번역가의 비프리랜서 지위가 다소 불명확함; fluency: culinary_persona의 '서점에서 책을 읽으며 요리 실험'은 의미 연결이 어색함
+61733317-7851-4000-bcb2-3713c643702d,787,4,Anonymous,2,4,1,3,"groundedness: 21세·career_years=0과 '판소리 명창', 교육 활동 생계, 경력 복귀 서술이 크게 어색함; coherence: 21세 신진 인물에게 명창 표현이 다소 과장됨; plausibility: 21세·0년 경력에 판소리 명창 호칭은 비현실적; fluency: 부자연스러운 동사 결합"
+45a2a218-aef5-4221-9f16-81b024ef9d60,788,4,Anonymous,5,4,4,3,fluency: hobbies_and_interests 템플릿식 나열
+ded8af17-3911-4bb6-8670-ea65d53b8b65,789,4,Anonymous,3,4,4,3,groundedness: 80세를 '70대 후반'으로 표현한 나이대 불일치; coherence: 80세인데 '70대 후반' 표현이 있음; plausibility: 설치미술인데 '화면의 밀도'가 반복되어 회화적 표현이 섞임
+578304c0-3cd3-4997-aa0d-2d4f642e3b39,790,4,Anonymous,4,4,4,3,fluency: 조사 오류: '구경를'
+b6df204b-4403-45c5-82b5-f28f25cac934,791,4,Anonymous,3,4,3,4,groundedness: 회화 작가인데 조각 작품을 선보였다는 서술이 직업 앵커와 약간 불일치; coherence: 회화 작가가 최근 단체전에서 조각 작품을 선보였다는 점이 다소 이질적; plausibility: 회화 작가가 최근 조각 작품을 선보인 맥락 설명 부족
+372dd0c1-a12f-4da2-9651-ee216e92e06e,792,4,Anonymous,3,4,3,2,groundedness: age=76인데 '70대 초반'으로 서술됨; coherence: sports_persona의 연령 표현이 다소 부정확함; plausibility: 방송작가와 출연자 활동 묘사가 혼재함; fluency: 동일 문장 반복과 '방문를' 조사 오류가 있음
+6daef255-314e-4da1-9168-1ae305b89e65,793,4,Anonymous,3,4,3,4,groundedness: 무용가 앵커에 비해 독립 안무가 서술이 반복됨; coherence: 무용가와 독립 안무가 정체성이 다소 혼재; plausibility: 16세 데뷔 기준 10년 경력은 가능하나 대학원·겸업 경로 설명이 다소 압축됨
+d1c3134b-1c30-4c35-9425-a55e99fb6d04,794,4,Anonymous,5,4,4,3,plausibility: arts_persona의 '경기 지역의 작은 카페에서 영화 관람' 표현은 다소 어색함; fluency: hobbies_and_interests 조사 오류
+21f7609d-f64c-4e71-b38b-5cab99902ee7,795,4,Anonymous,5,5,4,4,
+b4d9abd3-a7cc-4b70-9cee-0e89b1d0ae30,796,4,Anonymous,5,4,4,4,coherence: 자취 생활이라고 하면서 저녁에는 가족과 함께 식사한다고 해 생활 형태가 불명확함; plausibility: 레슨료 주요 수입과 개인 예술소득 없음이 다소 어긋남
+353367ec-98c5-47ed-84a3-81deb9024103,797,4,Anonymous,4,3,3,4,groundedness: 지원 신청 여부 서술이 모호함; coherence: 지원 신청 여부 표현 모순; plausibility: 전업 기악 연주자인데 개인 예술소득이 없음
+7320e9c3-0d17-4e67-9b1c-ef5fbf200b87,798,4,Anonymous,3,5,2,3,groundedness: 성악가인데 오케스트라 단원 경험이 중심적으로 언급됨; plausibility: 개인 예술소득이 가구소득보다 높음
+432de26c-5d9c-4e93-ac0b-635ce8e28455,799,4,Anonymous,4,4,4,2,coherence: 지역 식당에서 직접 요리한다는 표현이 부자연스러움; fluency: 지역 식당에서 직접 요리한다는 표현이 의미상 어색함
+79c427a8-d161-471c-a7d7-8c5181b2ae6a,800,5,Anonymous,5,5,4,4,
+180bf4d0-6e64-494c-af36-5105fa1b0b0d,801,5,Anonymous,4,4,3,3,coherence: 기존 방식 보완 선호와 새로운 기술 시도 목표가 약간 충돌; plausibility: 15세 데뷔를 42년 전문 경력으로 산정한 점은 설명 부족; fluency: hobbies_and_interests에 '산책를' 조사 오류가 있음
+e0b27779-fc85-41f9-9ec0-772a8d5bae86,802,5,Anonymous,4,4,3,3,coherence: 조각가 서사에서 '화면의 밀도' 표현이 반복되어 매체 정합성이 약간 어색함; plausibility: 비프리랜서 전업 조각가인데 계약 경험 없음은 다소 어색함; fluency: 조각가 맥락에서 '화면의 밀도'가 부자연스럽고 일부 문장 성분 누락.
+29bbb847-5543-4179-b58b-41b783dbd49e,803,5,Anonymous,5,5,4,4,
+cc75e5b1-c097-4b87-9d1c-b76857985708,804,5,Anonymous,4,5,3,4,plausibility: 전업 프리랜서 예술행정 25년차에 개인소득이 매우 낮고 가구소득은 높음; fluency: 일부 과장되고 일반적인 표현
+ad9676ec-50c7-4b8c-b755-82baf36c482a,805,5,Anonymous,3,4,3,3,groundedness: 계약 경험 없음인데 '갤러리 전속' 표현은 계약 관계를 암시함; coherence: sports_persona에 도서관 독서가 신체 관리처럼 섞여 있음; plausibility: 4년 차 신진 조각가의 갤러리 전속은 설명이 부족함; fluency: 조각 작업 서술에 '화면 밀도'가 반복되어 매체 어휘가 어색함
+50da1d5a-faa4-4c13-9caa-e3fe8cd34e19,806,5,Anonymous,4,4,3,3,plausibility: 계약·저작권·해외경험이 있는데 예술수입 없음; fluency: sports_persona의 '헌신하고'가 운동 서술과 맞지 않음
+6f6cd51b-ea88-41b8-acfd-d642e142402f,807,5,Anonymous,5,5,2,2,plausibility: 세종에서 자라 31년째 활동했다는 지역 타임라인이 부자연스럽고 고용형태도 불명확
+c08abed1-5b8e-453f-8995-3c9c50ae0d3f,808,5,Anonymous,5,5,5,5,
+64e4db90-d9a2-49bc-9e89-9b31c5eb8f20,809,5,Anonymous,5,5,4,4,plausibility: 개인 예술소득 5백만원 미만 대비 높은 가구소득의 배경 설명 부족
+e7739779-1d5e-4926-9cb0-cbfbdead788a,810,5,Anonymous,5,4,2,4,coherence: 작곡가 서사에 악기 관리비·레슨 이동비가 반복되어 약간 이질적; plausibility: 개인 예술소득이 가구소득보다 높고 지역 전업 작곡가 고소득 근거 부족
+206ee7b4-70d1-4d06-9abf-33cbbb028936,811,5,Anonymous,2,3,2,4,groundedness: debut_age=15·career_years=9인데 대학 졸업 후 극작가 선택으로 서술됨; coherence: 24세 대학 졸업 후 극작가와 9년 활동 시간선이 어색함; plausibility: 15세 데뷔 극작가 9년 경력과 경력공백·대학 졸업 서사가 시간상 빡빡하고 희귀함
+376734d5-89e8-40ee-82fa-123abe1cc6a0,812,5,Anonymous,2,4,2,4,groundedness: 개인 예술소득이 가구소득보다 높은 고소득 앵커와 생활비 압박 서사가 다소 강하게 불일치; coherence: 독립서점에서 계절 식재료를 기록한다는 취미 서술이 부자연스러움; plausibility: 개인 예술소득이 가구소득보다 큼
+2427421c-dd9a-4e12-bd2c-e02e451d9d99,813,5,Anonymous,3,3,3,3,"groundedness: 소설가인데 시집 출간 중심 서술이 약간 어색함; coherence: 소설가인데 주요 출간물이 시집과 산문집으로 제시됨; plausibility: 소설가인데 시집 출간 중심, 전업인데 비프리랜서 설정이 어색함; fluency: 시집 출간 등 직업 세부와 별개로 문체가 다소 일반적임"
+33acd51c-b4a3-46f9-b4ed-73b026165f38,814,5,Anonymous,5,4,3,3,coherence: 지원 신청 여부 표현이 약간 불명확함; plausibility: 비엔날레 참가 설정이 경력·수입 서사 대비 다소 급격함
+1547f9f0-a6fe-40f1-aeb4-036e3056ac38,815,5,Anonymous,4,5,3,4,plausibility: 전업 안무가인데 개인 예술소득 없음; fluency: 다소 추상적인 표현: '감정적 여정'.
+9542e617-7a11-480b-8c5f-127e8e9d33e8,816,5,Anonymous,5,5,5,3,
+81f15d4c-1526-4645-8b16-8ea9e5d956c8,817,5,Anonymous,4,4,3,3,coherence: 지휘자 서사에 악기 관리비와 연주자 역할이 섞여 역할 경계가 약간 흐림; plausibility: 지휘자와 기악 연주자 서사가 혼재; fluency: 문법 오류와 추상 표현 반복이 있음
+8e7ecd5d-2759-4cb5-ac6e-3be626dd529b,818,5,Anonymous,3,4,2,4,groundedness: 초등학교 학력·4년 경력 대비 건축사사무소 공모전 당선 기반 업무가 다소 과함; plausibility: 초등학교 학력·4년 경력으로 건축사사무소 공모전·도면 조율 전업은 설명 부족
+4b66590f-1e39-44dc-9cc8-951fdc0f0b4c,819,5,Anonymous,2,3,3,3,"groundedness: 계약 경험 없음인데 인디 레이블 계약 서술; coherence: 집에서 전시 공간을 방문한다는 표현과 서울의 중소 도시 표현이 부자연스러움; plausibility: 인디 레이블 계약 서술과 계약 경험 없음이 충돌; fluency: arts_persona의 '집에서 작은 전시 공간을 방문'은 표현상 이상하고, cultural_background의 '서울의 중소 도시'도 부자연스러움"
+316f7bbd-931e-49e0-ae47-fb72f14e5391,820,5,Anonymous,5,5,3,3,plausibility: 장기 전업 미디어아트 작가의 전시·협업 이력과 계약 경험·예술수입 없음이 잘 맞지 않음; fluency: hobbies_and_interests에 '방문를' 조사 오류가 있음
+8d62b472-c5a3-4252-b068-7602786aa3ef,821,5,Anonymous,4,5,4,4,plausibility: 갤러리 협업이 있으나 계약 경험 없음과 약간 어색함
+e8f1319c-638c-41ea-83e6-b2a3262bfadf,822,5,Anonymous,5,5,2,3,plausibility: 67세 2년 차 광고 사진가의 비프리랜서 전업 구조와 낮은 소득이 부자연스러움; fluency: 온도/일상 리듬/연장선 같은 추상 표현이 반복됨
+074fba55-9dd1-489a-8ccd-480aca26183e,823,5,Anonymous,5,4,4,4,coherence: family_persona가 가족 대신 친구 관계를 다룸
+3abbdae7-f950-44fb-9cc6-c6bf844225a2,824,5,Anonymous,5,5,4,3,plausibility: 전업·갤러리 전속인데 개인 예술소득이 매우 낮은 점은 설명이 약함; fluency: AI식 추상 표현 반복
+c2066041-b1da-4a75-83fc-6f0e51e56e7a,825,5,Anonymous,5,5,4,4,plausibility: 서울 거주지를 자주 바꾸는 설정은 저소득 무용가에게 약간 부담스럽지만 불가능하지는 않음
+932e1af0-83a5-4b7a-be0f-b43b91ed6aa7,826,5,Anonymous,5,5,4,3,
+3b81018c-d514-4b3f-b72f-8d9108e3bbeb,827,5,Anonymous,3,3,3,3,groundedness: 공원에서 매일 필라테스라는 생활 묘사가 다소 이상함; coherence: 오후 시간을 시장·마무리로 쓰는 서술과 긴 작업 시간 확보 서술이 충돌; plausibility: 2년 차 전업 국악 연주자치고 수입과 활동 밀도가 다소 높음
+8bdbca25-d02a-4ab5-8fb2-eb3442af0156,828,5,Anonymous,5,5,5,4,
+60d2edf3-01d6-49a0-97d6-53d31ac89843,829,5,Anonymous,3,4,4,4,groundedness: 장기 경력자에게 '복귀 초반' 지원 서사가 모호함; coherence: 복귀 초반 지원 서사가 장기 경력 전업자와 다소 불일치
+30ce395d-5ffd-4a90-a6a7-fdb828c89921,830,5,Anonymous,3,3,3,4,"groundedness: persona의 '70대 중반'이 age=82와 불일치; coherence: 연령대가 70대 중반과 80대 중반으로 충돌하고, 미술 전공과 74세 전환 서술이 불명확함; plausibility: 나이 표현 불일치와 고령 활동 강도가 다소 높음; fluency: age 82와 persona의 '70대 중반', sports_persona의 '80대 중반' 표현이 서로 어긋남"
+26ccd16f-0ae9-444a-9016-8e0537d54821,831,5,Anonymous,5,4,4,4,coherence: 지원사업 신청/미룸 표현이 모호함
+d34aa07c-28ac-4c37-bf85-85c4b0ff0c87,832,5,Anonymous,5,5,4,3,fluency: 필드별로 반말체와 높임말체가 섞여 문체 일관성이 낮음
+06cb1208-19d3-4ef2-95d5-184bc0f07a1d,833,5,Anonymous,4,4,3,3,"coherence: 지원 신청 여부가 '신청했으나 미신청'으로 모순됨; plausibility: 중학교 졸업 후 37세에 정규 패널로 진입한 경로 설명이 약함; fluency: 어색한 부사 '일정히', 조사 오류 '구경를'."
+f4ce2475-3552-4a37-a558-5ddb1ed13baa,834,5,Anonymous,4,5,4,5,
+548a68c1-83da-4767-bed5-0d2455a01aa9,835,5,Anonymous,5,5,3,4,plausibility: 장기 경력·해외 전시 대비 예술소득 없음이 다소 어색함
+5d873fc4-4e36-428d-a8b8-da50cb9f8fd8,836,5,Anonymous,5,5,3,4,plausibility: 40년 이상 경력·갤러리 전속 대비 소득과 고용형태 설명 부족
+1ab18c91-ebba-4586-8ab4-5cb2ea5eb592,837,5,Anonymous,4,4,4,4,fluency: '시장에서 산물로' 표현이 비문에 가까움
+d933c4f9-9733-42c6-8bc7-80295404c4bb,838,5,Anonymous,3,4,3,3,groundedness: has_secondary_job=False인데 '강의 수입'이 별도 수입원처럼 언급됨; coherence: 전업 번역가인데 강의 수입 언급이 보조 맥락 없이 등장함; plausibility: 비프리랜서 전업 번역가인데 불규칙 원고료·강의수입 중심으로 묘사됨
+c499fb2c-1c68-4b33-af1c-04ba70f3ad46,839,5,Anonymous,4,4,3,3,coherence: 조각가에게 '화면의 밀도' 표현이 다소 부적절함; plausibility: 조각가 서술에 회화식 '화면의 밀도'가 반복됨; fluency: 조각가 서술에 '화면의 밀도' 사용이 부자연스러움
+a541d48f-395e-49b3-82d5-3aabbe35ffb4,840,5,Anonymous,4,4,3,4,plausibility: 고소득 방송 출연자인데 계약 경험 없음
+05170296-be0f-41ce-a483-834d8e7991a2,841,5,Anonymous,2,4,2,3,23세 판소리 명창·문화재단 기획과 무소득/무계약 조합이 과함
+e1e65f9b-6a1a-457d-b4c9-32fb8ac4cbab,842,5,Anonymous,5,5,4,4,
+6e646c2e-b191-4d97-a429-3f0917815eb2,843,5,Anonymous,4,4,4,3,coherence: culinary_persona의 '함께하는 시간' 대상이 불명확함; plausibility: 경력 공백의 시기와 영향 설명이 부족; fluency: culinary_persona의 '도서관에서 책을 읽으며 함께하는 시간을 즐깁니다'는 함께하는 대상이 없어 문장이 어색함
+e92190db-499e-433b-ac37-420bfb0b68a9,844,5,Anonymous,4,4,3,4,plausibility: 예술 개인소득 없음과 기고·강연 수입 서술이 애매함
+d8a36fec-52e1-4cb3-8470-7bd59bd710e0,845,5,Anonymous,3,4,4,3,groundedness: 데뷔 시점과 본격 활동 시점 불일치; coherence: 사진 활동 시작 시점이 다소 애매함
+3e45d8f2-f04a-4bb2-adca-af51a9022752,846,5,Anonymous,4,5,4,4,
+61fcdd51-974f-44fd-be2c-694d58778bc2,847,5,Anonymous,4,4,4,3,groundedness: 11년 차 예능인에게 '신인 발굴 프로그램' 지원 서술이 약간 부자연스러움; coherence: 중견 예능인에게 신인 발굴 프로그램 수혜 설정이 다소 어색함; plausibility: 개인 예술소득 구간이 가구소득 구간보다 높음; fluency: 상투적 AI 표현 일부
+4445cdf9-ff1d-48ee-8283-074d046a085e,848,5,Anonymous,5,4,3,4,plausibility: 강원 신인 프로듀서의 레이블·라이브클럽 네트워크 설명 부족
+7f521b93-c9ed-476d-94eb-5d5401e3a963,849,5,Anonymous,5,5,3,3,plausibility: 전업 미디어아트 활동 규모 대비 예술소득 없음; fluency: AI식 반복 표현
+dd590769-29a0-436d-b29e-5618481602a5,850,5,Anonymous,4,5,5,3,"fluency: 조사 오류: ""산책를"""
+9074fbd7-553e-40f0-a1a5-7cda5e5b2f29,851,5,Anonymous,5,4,4,4,coherence: 국내 여행은 거의 하지 않는다는 설명과 자연 경관 감상 서술이 다소 긴장됨; plausibility: 32년 경력 대비 개인 예술소득이 매우 낮음
+43887ced-768a-43fe-ac8d-80005f2ff4f5,852,5,Anonymous,4,5,3,4,plausibility: 고경력 실무자임에도 예술소득·계약경험 없음은 비현실적 요소
+0322afa7-d970-4165-a9b8-75ac183a5e09,853,5,Anonymous,5,4,3,3,plausibility: 활동량 대비 개인 예술소득 없음이 다소 어색함; fluency: culinary_persona 문장에 '빨래를 정리하며'처럼 목적격 조사가 빠져 어색함
+e4547d2d-d9bb-45c5-95e1-d65164bdedba,854,5,Anonymous,4,4,2,4,coherence: 미디어아트 정체성에 비해 재료·손작업 서술이 다소 일반 미술/공예처럼 보임; plausibility: 16세 데뷔의 50년 미디어아트 경력은 시대적으로 매우 드묾
+f08785b9-1433-46ce-bc3e-2f4f2047e27c,855,5,Anonymous,3,4,2,4,groundedness: 예술 개인소득 없음인데 최근 제작지원으로 촬영 일정 확정 서술은 약간 어색; coherence: travel_persona의 해외 경험 없음과 국내 여행 거의 없음의 연결이 어색함; plausibility: 40년 차 전업 MC의 예술수입 없음 및 낮은 가구소득이 비현실적
+78e332ea-47e0-42b0-a99c-deeb5e16fb9b,856,5,Anonymous,5,5,4,2,fluency: 평론체 반복과 AI식 표현 다수
+57a839c9-6a45-4fbc-9385-81e4f1bdd4b4,857,5,Anonymous,5,5,4,4,plausibility: 전속 계약 대비 낮은 개인 예술소득은 약간 설명 부족
+9c573e7e-484e-418a-962c-35e4954618f4,858,5,Anonymous,3,3,3,3,groundedness: debut_age=15와 '대학 졸업 후 본격 창작' 불일치; coherence: 9년 차 활동과 대학 졸업 후 본격 창작 시작이라는 경력 시작 시점이 충돌함; plausibility: 15세 데뷔와 대학 졸업 후 본격 창작 시작 서술 모순; fluency: 어색한 병렬 문장
+c03ba52d-a1c7-43d9-b507-ec93304ec0fb,859,5,Anonymous,4,3,3,3,"coherence: 분장 준비와 식물 관리의 연결이 부자연스러움; plausibility: 22세 대학원·6년 경력 무대미술가는 가능하나 빠른 이력이고, 화단 관리와 분장 준비 연결이 이상함; fluency: sports_persona 시제 불일치"
+c29e5de2-e94d-4c16-87d9-7b2c64c7dca8,860,5,Anonymous,4,5,4,4,
+d696120e-9219-4136-b66e-482612e8164d,861,5,Anonymous,2,3,2,4,groundedness: 17세 데뷔인데 대학원 시절 첫 공연이라고 서술; coherence: 17세 데뷔인데 대학원 시절 첫 공연이라고 해 경력 시작 시점이 충돌함; plausibility: 데뷔 17세와 대학원 시절 첫 공연 모순
+e7be4195-40e6-45e1-8ff2-fe6b248d225d,862,5,Anonymous,4,3,3,3,groundedness: 고등학교 졸업 앵커와 '음악을 전공' 표현이 약간 모호함; coherence: 고졸 이후 음악 전공 표현이 불명확하고 지휘자 서사에 악기 관리비가 어색함; plausibility: 고등학교 졸업 설정과 음악 전공 서술 불일치; fluency: arts_persona의 책상 위에서 작품을 감상한다는 표현이 부자연스러움
+d4800b39-1d37-49ae-abe5-d4360284d6eb,863,5,Anonymous,4,5,3,4,plausibility: 개인 예술소득이 가구소득보다 높게 설정됨
+d2590a11-f7b6-4a4f-89f1-aef66e3c5bd8,864,5,Anonymous,5,4,4,3,coherence: 근린 체육 시설에서 등산한다는 표현이 부자연스러움; fluency: 조사 오류: '이용를'.
+65003735-be97-4ff9-825d-2d2d98e5493d,865,5,Anonymous,2,3,1,4,"groundedness: 18세인데 대학원 학력 및 '대학원 진학 전' 서술이 비현실적/불명확; coherence: 18세 대학원 진학 설정이 부자연스러움; plausibility: 18세 대학원 학력, 2년 차 방송작가 고소득 설정이 강한 이상점"
+53014386-a00e-40b5-be9f-06f19694ce6d,866,5,Anonymous,3,3,2,3,groundedness: 76세 33년 경력 회화 작가를 신진작가전으로 서술해 약간 부자연스러움; coherence: 미술대학 졸업 후 데뷔와 43세 미술 전환 서술이 긴장됨; plausibility: 76세·33년 경력 작가를 신진작가전으로 묘사; fluency: 추상적이고 과장된 AI식 표현 일부
+48a02498-f596-4feb-a688-f01f5892deb1,867,5,Anonymous,5,4,3,3,coherence: living_persona에 레슨 이동비가 갑자기 등장함; plausibility: 위촉작 중심 활동과 계약·저작권 경험 없음이 다소 어색함
+2ad7ee33-1ff0-4240-a7f6-2b7f7394e4f6,868,5,Anonymous,3,3,3,4,groundedness: 예술 개인소득 없음인데 프로젝트 수입 증가를 반복 서술함; coherence: 44세 대학 졸업 후 9년 직장 생활과 44세 데뷔가 시간상 충돌; plausibility: 프로젝트 수입 서술과 예술소득 없음이 충돌
+55592567-c902-4615-901e-df2ce691f29e,869,5,Anonymous,3,4,3,3,groundedness: 예술 개인소득 없음인데 원고료 수입을 반복 언급; coherence: 가족 관련 서술이 다소 단정적이고 맥락이 부족함; plausibility: 원고료와 강의 수입 언급이 개인 예술수입 없음과 충돌; fluency: family_persona의 '가족과 함께하지 않아'는 의미가 불명확함
+8d95f898-ca2d-42fb-a6fc-f4182d62bfa7,870,5,Anonymous,5,3,4,3,coherence: 조각가 서사에 '화면의 밀도' 표현이 반복되어 매체 정합성이 약함; fluency: 조각가 서술에 '화면의 밀도'가 반복되어 매체 어휘가 어긋남
+109450f5-8350-4cb8-819f-5cec2a016102,871,5,Anonymous,3,4,3,3,"groundedness: 대학 졸업 후 입문 서술이 17세 데뷔·6년 경력과 시간상 다소 불일치; coherence: 23세 6년 차인데 '대학 졸업 후' 본격 입문했다는 서술은 시간상 다소 어색함; plausibility: 23세 6년 차와 대학 졸업 후 입문 서술의 시간선이 약간 불명확함; fluency: ""독립서점에서의 전시 공간 방문""은 장소 관계가 어색함"
+b306319a-2aaa-4705-9794-21e8bf0c658c,872,5,Anonymous,3,5,4,4,groundedness: individual_art_income_bracket=없음인데 판매 수입이 비정기적이라고 서술함
+b65c2bf5-f5ed-4ce8-a667-702926ff54f0,873,5,Anonymous,5,4,4,4,
+c8689b0f-de23-4038-b0f6-09dfe3b8d7d7,874,5,Anonymous,4,5,4,4,
+239610fa-e410-4fdc-ba66-98bc89f2bbb2,875,5,Anonymous,4,4,3,3,coherence: family_persona가 가족이 아니라 친구 관계 중심으로 작성됨; plausibility: 세션 연주자보다 싱어송라이터·프로듀서 성격이 강함; fluency: 일부 의미가 부자연스러운 표현이 있음
+d50e82a9-64e7-41ac-a76d-16303bbb91c7,876,5,Anonymous,5,4,5,2,coherence: network_persona에 지원 제도 서사가 섞여 네트워크 설명이 약함
+483550c4-ec6c-486b-8cf7-5745539c67d0,877,5,Anonymous,5,5,4,3,fluency: 부자연스러운 관용 표현과 행정 문장투
+05ab33c5-fa01-4aef-9215-db55b63d6eb0,878,5,Anonymous,5,5,4,4,plausibility: 매니지먼트가 있는데 계약 경험 없음은 다소 어색함
+68e03550-e3b0-4c87-9c9a-ce90fbc9dbc0,879,5,Anonymous,4,5,4,4,plausibility: 문학 작가인데 저작권 없음 표기는 다소 어색함
+06a7781f-3e34-4632-b279-cfa9504f1850,880,5,Anonymous,2,5,3,3,groundedness: 예술 개인소득 없음인데 프로젝트 수입과 입금 시차를 반복 서술; plausibility: 장기 전업 세션 연주자인데 개인 예술수입 없음
+6b08e05a-0e44-4730-afd1-6ccde0477b61,881,5,Anonymous,5,4,4,3,fluency: culinary_persona에서 생활용품 디자인 구경과 음식 준비의 연결이 부자연스러움
+2d7f1536-3b20-4b52-aab2-590f98bbec60,882,5,Anonymous,4,5,4,3,fluency: 필드마다 같은 주어 반복
+cd10216b-8a0e-4000-aec5-37af95d57ea9,883,5,Anonymous,3,4,3,3,"groundedness: 13년 경력인데 최근 신인상 수상 서술이 시간상 약간 어색함; coherence: 소설가인데 시집 출간 활동이 중심처럼 언급됨; plausibility: 소설가가 시집 출간, 13년 경력인데 최근 신인상 수상이라는 설정이 어색함; fluency: network_persona에 '통해' 반복"
+44499424-3f07-4a98-8e26-91fd2c935e3e,884,5,Anonymous,4,4,3,4,plausibility: 무대미술가의 역할이 대본·캐스팅 수정까지 확장되어 다소 부자연스러움
+8fd208a9-b01d-4f60-943a-310bd5ef98a0,885,5,Anonymous,5,5,4,4,
+eb483888-7418-42c3-916e-9f5bfd4ea576,886,5,Anonymous,4,4,3,4,groundedness: has_contract_experience=false와 '인디 레이블 계약' 표현 불일치; coherence: 이미 정규 앨범 발매·인디 레이블 계약이 언급된 뒤 목표에서 다시 5년 내 발매와 협업을 제시해 시점이 다소 불명확함; plausibility: 계약 경험 없음과 인디 레이블 계약 서술 모순
+e78a6a32-f3d0-48ae-afc6-0d8ee86a6dee,887,5,Anonymous,4,4,3,4,plausibility: 전업·클라이언트 프로젝트가 있으나 개인 예술소득 없음
+e0bf0ec0-1921-4cc1-804e-ad22d5019e17,888,5,Anonymous,4,5,4,4,
+293350de-364e-4fdf-ad82-f995053867de,889,5,Anonymous,4,5,4,4,
+3e2cf74e-c429-431e-862e-7d129ac3b470,890,5,Anonymous,5,5,3,4,plausibility: 장기 전업 국악인의 개인수입과 고가구소득 간 격차 설명 부족
+c473aaec-2b85-4a78-a340-42e888e823a2,891,5,Anonymous,4,5,4,4,
+38e05040-2ed4-4c7c-96d8-17d972736b4d,892,5,Anonymous,5,5,4,3,fluency: AI식 반복: '동시대성을 탐구하는 데 기여'
+6a781c24-18d0-4be8-b55a-9f115dedc413,893,5,Anonymous,3,3,3,3,groundedness: 51세를 50대 후반으로 서술; coherence: 51세와 '50대 후반' 표현 불일치; plausibility: 나이를 50대 후반으로 잘못 서술; fluency: sports_persona에서 '50대 후반'이라고 해 실제 나이 51세와 맞지 않음
+55149031-f68a-4475-acc3-3ad185227d6a,894,5,Anonymous,5,4,4,5,
+4def78fa-833a-4580-a8ce-f6c1125d4480,895,5,Anonymous,3,4,2,4,groundedness: 경력 0년인데 광고 클라이언트 계약으로 생계 유지 서술; coherence: 신규 데뷔와 광고 클라이언트 생계 유지 설정이 다소 급격함; plausibility: 경력 0년 신진 사진가가 광고 클라이언트로 생계 유지
+90cbb142-17fe-4b96-9c53-f57555da100f,896,5,Anonymous,5,5,3,3,plausibility: 전업 무용가 예술소득 없음과 높은 가구소득의 설명 부족; fluency: 어색한 표현: '주 안으로'; AI식 반복: '몸의 감각을 말로 번역해'.
+740951e3-90d0-4a86-bf27-62bc881c6a6e,897,5,Anonymous,4,5,3,4,plausibility: 지역 정보가 모호하고 17세 데뷔 작곡가 경력 설명이 부족; fluency: 추상적 표현이 일부 반복됨
+82f24ff3-34f5-4ed8-957b-042bb6186022,898,5,Anonymous,2,4,2,4,레이블 협업·프로젝트 수입과 예술소득 없음/계약경험 없음 충돌
+79d57ecc-f11e-43cb-ab58-ce7e62d0842d,899,5,Anonymous,2,4,3,4,groundedness: 예술 수입 없음과 판매·외주 수익 서술 충돌; plausibility: 3년 차 무소득 작가에게 비엔날레 기획자 개인전 연결이 다소 과장됨
+91b9ea14-c975-4718-9354-74fc39aeef27,900,5,Anonymous,5,4,3,4,coherence: 방송작가 서사에 의상 준비가 다소 어색함; plausibility: 활동 중인 방송작가인데 예술소득 없음; fluency: professional_persona에서 일정 운영을 '가장 큰 성과'라고 한 표현은 약간 부자연스러움
+2cb0171d-a8fa-4e8d-be27-f7ccbb4e2186,901,5,Anonymous,4,4,2,4,coherence: 중학교 졸업 배경과 전문 기악 연주 경로 사이의 설명이 부족함; plausibility: 중학교 학력만으로 전문 기악 실내악·협주곡 전업 활동은 설명 부족
+276ad575-b799-490f-8706-bf89600fd00d,902,5,Anonymous,5,4,3,3,coherence: 판소리 명창 서사에 정가·시조 중심성이 다소 섞임; plausibility: 판소리 명창이라는 호칭과 매우 낮은 개인예술소득 간 설명 부족
+a22ee59c-1b94-4abd-b9de-def79d0e21f6,903,5,Anonymous,4,3,2,3,"coherence: culinary_persona가 식생활이 아니라 arts_persona 내용 반복; plausibility: 개인 예술소득이 가구소득보다 크게 높음, culinary_persona 내용 중복; fluency: culinary_persona가 arts_persona와 거의 동일해 음식 서술로 부자연스러움"
+466aacbd-cb88-44bf-b81a-0e4c80e5064e,904,5,Anonymous,4,4,3,4,plausibility: 미디어아트 고유의 기술·매체 활동보다 일반 회화/설치 작가 표현이 많음
+8f46d801-6553-458a-a9ce-91c45552e0be,905,5,Anonymous,4,5,4,3,
+ccd08d56-034e-44f9-85f3-c2427694d4e3,906,5,Anonymous,3,4,2,4,"groundedness: sports_persona의 '70대 초반'은 75세와 약한 연령 표현 불일치; coherence: 75세를 '70대 초반'으로 표현, 전시회 관람 장소 표현 부자연; plausibility: 저소득 전업 지휘자가 국공립 교향악단 협주곡을 주로 맡는다는 설정이 비현실적"
+2af15caa-454e-4d7d-b883-cd453572c0fa,907,5,Anonymous,4,5,4,3,fluency: hobbies_and_interests에 '확인를' 조사 오류가 있음
+d9d7ff25-5cb3-4c26-810e-b0ec83af9422,908,5,Anonymous,5,5,4,4,
+9c97480e-15e7-4c97-8b91-60dba2f9a27e,909,5,Anonymous,4,4,3,4,21세 예능인의 정규 패널·출연료 조율 주도는 다소 빠른 성공 사례
+db22eb90-fc7f-454c-bdb2-82689743dbfa,910,5,Anonymous,4,4,3,3,coherence: 다큐멘터리 사진가 서사에 광고 클라이언트 협업이 중심처럼 들어와 약간 혼재됨; plausibility: 다큐멘터리 사진가 설정에 광고 클라이언트 협업이 과하게 섞임; fluency: 특정 문구 반복이 많음
+429eb792-180f-4c9b-9644-8d1ab61eaeb0,911,5,Anonymous,3,4,4,4,groundedness: career_years=0인데 본업화와 기고·강연 활동이 다소 성숙하게 서술됨
+839d5272-43e8-48be-bd5c-2b254ebbdef9,912,5,Anonymous,3,3,3,3,groundedness: 방송작가인데 의상·소품·촬영 회복 중심 서술이 출연자처럼 보임; coherence: 방송작가와 방송 출연자 역할 요소가 혼재; plausibility: 방송작가인데 의상·소품 대기와 촬영 후 회복 등 출연자형 묘사가 섞임
+af209a23-6c67-4502-901d-14f7e0017263,913,5,Anonymous,5,5,4,3,plausibility: 겸업 안무가라도 17년 경력에 예술소득 없음은 다소 낮음; fluency: hobbies_and_interests에 '산책를' 조사 오류
+fa4df53e-bfd5-42fa-8c4a-8a90042b0e63,914,5,Anonymous,4,5,4,4,
+a10d2771-575f-439e-bf17-7001d6439640,915,5,Anonymous,4,5,4,4,plausibility: 사진집 준비와 계약·저작권 경험 없음의 약한 불일치
+fdae0172-95a6-4456-b61e-87a06e9ca0cc,916,5,Anonymous,2,4,2,3,"groundedness: 계약 경험 없음인데 인디 레이블 계약 서술; coherence: 야간 작업 리듬과 오전 10시-저녁 8시 집중 시간이 다소 어색함; plausibility: 레이블 계약과 계약 경험 없음 충돌, 22세 4년제 졸업 전제도 다소 이례적; fluency: 필드마다 동일한 주어 반복이 과도함"
+60c7971e-40f0-4368-b2e0-8238149159e8,917,5,Anonymous,5,4,3,4,coherence: 미니 라디오와 편집 파일 설정이 MC 직무와 연결이 약함
+4d5dfc46-4c88-4ae0-b492-29603da7bcc5,918,5,Anonymous,5,4,4,4,coherence: 실내 클라이밍을 손 피로 회복으로 제시한 점이 어색함
+d3675ebf-d971-4cf3-ba6b-f84e749daa44,919,5,Anonymous,5,3,2,3,coherence: 지휘자와 작곡가 역할이 혼재; plausibility: 젊은 전업 지휘자의 국공립 교향악단 초연·해외 경험·저소득 조합이 설명 없이 과도함; fluency: persona에 '기록 정리를 하루 루틴에 박혀 있다'라는 조사·구문 오류가 있음
+2a38401b-7cd0-4a5b-ae3b-2f23ef27dba5,920,5,Anonymous,4,5,3,3,plausibility: 초기 무소득 신진 작가의 갤러리 전속 계약 가능성이 설명 없이 높게 제시됨; fluency: sports_persona의 '산책을 삼는 것' 표현이 부자연스러움
+0f539134-198d-4c15-afdc-57aaf29817da,921,5,Anonymous,3,4,4,3,groundedness: 설치미술 작가 서사에 악기·레슨 비용이 등장함; plausibility: 협업·도록 제작이 있으나 예술소득 없음은 다소 설명 부족
+bb38fdbd-e814-444f-9ad6-5a0c950fffb0,922,5,Anonymous,4,3,2,4,coherence: 15년 경력/16세 데뷔와 대학 시절 본격 시작 서술의 긴장; plausibility: 16세 데뷔 15년 차 프로듀서인데 예술소득 없음의 불일치가 큼; fluency: 자연과의 연결 등 일부 추상적 AI식 표현
+725a877f-6048-4584-81a0-4716a8d0d24d,923,5,Anonymous,4,4,2,4,plausibility: 개인 예술소득 6천만원 이상인데 가구소득 3-4천만원 미만; fluency: 취미 문장에 템플릿식 표현 있음
+dd189ea0-dbd9-43d9-82e9-dc00d724ea3c,924,5,Anonymous,4,4,4,4,plausibility: 경력 0년 대비 레이블 계약·발매 경험이 다소 빠르게 제시됨
+fd39778d-9173-45fe-8f90-2236cd11c5b9,925,5,Anonymous,3,3,3,3,groundedness: 성악가에게 악기 관리비 서술이 어색함; coherence: 성악가 서술에 기악/협주곡 중심 표현이 다소 섞임; plausibility: 성악가에게 악기 관리비 표현; 예술소득 없음과 저작권 보유 조합 설명 부족; fluency: 성악가 서술에서 living_persona의 '악기 관리비'는 직업 어휘상 부자연스러움
+29846946-5d4f-4449-991d-ad59c999b47c,926,5,Anonymous,4,4,3,3,coherence: sports_persona 문장에 '산책을 산책하며' 반복 오류; plausibility: 58세 초졸 신인 싱어송라이터의 레이블 계약은 드문 사례; fluency: sports_persona에 '산책을 산책하며'라는 중복 표현이 있음
+b9dd2c2b-f451-4cc9-adbb-8ae52e8fe148,927,5,Anonymous,3,3,2,4,groundedness: 작곡가 앵커에 비해 연주자 중심 서술이 많음; coherence: 작곡가인데 연주 수입·반복 연습 중심 표현이 어색함; plausibility: 개인 예술소득이 가구소득보다 높음; 12년 차 작곡가인데 저작권 없음; fluency: 일부 과장된 추상 표현
+fafe203d-c76f-4003-a020-29ab89acac8b,928,5,Anonymous,3,3,3,3,groundedness: 40년 이상 경력의 61세 작가에게 '신진작가전' 입상 서술이 부자연스러움; coherence: 45년 경력 61세 작가가 '신진작가전' 입상 후 레지던시를 모색한다는 설정이 한 필드 이상에서 부자연스러움; plausibility: 45년 경력 61세 작가에게 신진작가전 입상은 부자연스러움; fluency: 경력 45년 작가에게 '신진작가전' 표현이 이상함
+90b397c3-ed41-43b7-92bf-8fad7934f4de,929,5,Anonymous,5,4,3,4,plausibility: 지휘자 서사에 악기 보관 비용이 반복되어 직종 세부가 약간 어긋남
+784c1580-ee78-4414-ac38-429a11224193,930,5,Anonymous,4,5,3,4,plausibility: 개인 예술수입이 가구소득보다 높고 비프리랜서 전업 시나리오 작가 설정이 모호함
+425db9df-e982-4b1a-bfd6-e0c05199705b,931,5,Anonymous,5,5,3,4,plausibility: 26세 10년 차 연출가와 예술소득 없음 조합은 가능하나 다소 이례적
+aa32da62-efb9-4243-b7c9-a2aeb94d01bc,932,5,Anonymous,4,4,2,3,coherence: network_persona가 네트워크보다 지원 제도 서술에 가까움; plausibility: 16세 데뷔와 48년 미디어아트 경력은 시대·분야상 매우 드묾; fluency: sports_persona에서 시장 산책과 요가 매트 스트레칭의 연결이 부자연스러움
+a85df999-5559-4ef4-91b7-c386293e508d,933,5,Anonymous,3,4,4,3,groundedness: 0년 경력 대비 단체전·아트페어 활동 서술이 다소 과함; coherence: 첫 개인전 기회와 5년 내 개인전 확정 목표 사이에 약한 중복/불명확성이 있음; plausibility: 0년 차치고 전시·아트페어 이력이 다소 많음; fluency: hobbies_and_interests에 '구경를' 조사 오류
+66510dca-cccc-44d5-9bb3-2a468f29ffe0,934,5,Anonymous,2,3,3,4,groundedness: 전업·부업 없음인데 '본업과의 균형'이라고 표현해 겸업처럼 서술됨; coherence: 전업 서사인데 목표에서 본업과의 균형을 언급함; plausibility: 전업 설정과 '본업과의 균형' 표현이 충돌함
+a93f33f1-c479-453d-ba1e-fffcee7b6d46,935,5,Anonymous,4,4,3,4,coherence: 해외 활동 경험의 구체적 맥락이 부족함; plausibility: 낮은 개인 예술소득 대비 높은 가구소득의 근거가 부족함
+8153fd76-4bbf-418b-9436-55a1f05f6753,936,5,Anonymous,4,4,4,4,
+79520710-f0b7-4096-9d3a-65c73c0dbe80,937,5,Anonymous,5,5,4,4,fluency: 반복 표현: '하며...하며'.
+ebb1828e-574a-4047-abe3-e594b47a874d,938,5,Anonymous,5,5,4,4,
+6dad0cd9-377e-45d9-8e76-233887e5026e,939,5,Anonymous,2,3,2,3,"groundedness: 2017년 기준 경력 계산이 현재 나이/경력과 불일치, 작곡가인데 연주 수입 언급; coherence: 2017년 단독 위촉작 시작, 71세 전환, 13년 차 사이의 시간축이 불명확함; plausibility: 2017년 경력 계산 오류와 고령 전환 작곡가의 높은 전업 수입 설명 부족; fluency: 일부 과장된 일반 표현"
+ee342a0b-502e-459a-b285-7f4a887ca670,940,5,Anonymous,5,5,4,4,
+32465afc-3c67-4c53-9766-8c00e2157858,941,5,Anonymous,4,5,4,4,plausibility: 전업 프로듀서의 예술수입 5백만원 미만은 생활비 출처 설명 부족; fluency: 일부 필드가 반복적이고 평이함
+9d85c06d-0b54-4663-a3db-71393814e733,942,5,Anonymous,5,5,4,3,
+5095f2a2-1a69-423d-8be4-9d1a71ce0719,943,5,Anonymous,5,4,2,4,coherence: 복귀형 지원의 배경이 narrative 내부에서 약함; plausibility: 22세 대학원 이상·2년 차 프리랜스 매개자의 소득과 경력 조합이 과도함
+981b026a-bb03-49c3-bbd4-9cb5a14db942,944,5,Anonymous,5,5,4,4,
+871337ad-fd04-430b-8c1d-ebf63a0034a0,945,5,Anonymous,4,5,5,4,
+4117c26d-424d-473b-a09c-9c9212b4cb7c,946,5,Anonymous,4,3,3,2,coherence: 국악 기악 연주자와 정가·판소리 창 중심 서술의 장르 혼선; plausibility: 기악 연주자에게 정가·판소리 창 전문 서술은 분야 혼동; fluency: 조사 오류: '방문를'; 과도한 장르 결합과 반복적 AI식 문장.
+56da06c0-0168-4237-8b10-2de48327c13e,947,5,Anonymous,3,4,3,3,groundedness: 예술 개인소득 없음인데 출연 수입 간격에 따른 생활비 관리 서술; coherence: 캐스팅 확정을 늦추는 주체가 MC처럼 서술되어 어색함; plausibility: 전업 정규 케이블 MC인데 개인 예술수입 없음은 설명 부족; fluency: network_persona에서 누가 캐스팅 확정을 늦추는지 불명확함
+0974820b-d665-4fac-9dc5-602b9bf80a7b,948,5,Anonymous,5,4,2,3,"plausibility: 경력 0년 신인의 높은 예술수입과 정규 패널 설정, 개인/가구소득 역전이 부자연스러움"
+2ca209dd-cc11-4f20-bd78-e7e924b98974,949,5,Anonymous,3,3,4,3,groundedness: 운동 취미가 배드민턴과 볼링으로 불일치; coherence: 운동 취미가 배드민턴과 볼링으로 불일치; plausibility: 운동 취미가 배드민턴/볼링으로 흔들림; fluency: '방문를' 조사 오류와 반복 템플릿 문장
+67fa8fbc-c8e3-4fb1-b616-a1a6659aae1d,950,5,Anonymous,5,5,4,4,
+ce108193-2361-45aa-bac8-e52686b2ade3,951,5,Anonymous,3,4,3,3,정규 케이블 프로그램 서술과 5백만원 미만 예술소득 사이 긴장
+feb2fdaa-0fa7-4c09-80ea-bb177add98b3,952,5,Anonymous,4,3,3,2,coherence: 주중 9-6 스튜디오 작업과 화/목 오후 3시 걷기 모임이 충돌; plausibility: 전업·비프리랜서·29년 경력과 매우 낮은 개인 예술소득의 결합이 어색함; fluency: arts_persona의 '시가와 소설' 표현이 부자연스러움
+0cad3563-4977-43c8-899b-d25269cb407c,953,5,Anonymous,3,3,3,4,groundedness: debut_age=15인데 대학 전공 후 본격 시작으로 서술; coherence: 15세 데뷔/8년 차와 대학에서 본격 창작 시작 서사가 충돌; plausibility: 15세 데뷔와 대학에서 본격 창작 시작 서술 간 불일치
+ab1d6a89-cb6d-44ee-b342-ae670cf7528e,954,5,Anonymous,4,4,4,3,coherence: 서울 근린 공원에서 '등산' 표현이 다소 부자연스러움
+d839db72-d60e-4431-b3ba-3333579a6f21,955,5,Anonymous,3,5,2,4,groundedness: 대학 졸업 후 전문화 서술은 16세 데뷔·13년 경력과 약간 긴장됨; plausibility: 16세 데뷔로 13년 차인데 대학 졸업 후 전문화 서술과 시간선이 어색함
+1d6a6405-a269-4f54-b56c-aff873b09fb5,956,5,Anonymous,5,4,3,3,coherence: 볼링 루틴이 주말 활동인지 주중 아침 활동인지 다소 불일치; plausibility: 24세 5년 차 프로듀서의 영화제 수상 후속 제작 서술이 다소 과함; fluency: 독립서점에서 샌드위치를 구매한다는 설정이 어색함
+f5affcb7-ee8b-4f4e-9dd0-76d9d14b9ac1,957,5,Anonymous,5,4,4,3,coherence: 문학 번역가인데 문학 감상을 피하는 듯한 표현이 약간 어색함
+e083aef2-5e79-46bb-920f-a7dee1cd265e,958,5,Anonymous,5,5,4,3,
+4d4a4524-9f8e-4587-ab0b-6fc3b52fc7ef,959,5,Anonymous,4,5,2,3,plausibility: 18세 지휘자 데뷔와 33세에 15년 차·위촉작 5개 활동은 설명 없이 드묾
+4973cd65-91da-47f0-83ca-b4a872b31b1c,960,5,Anonymous,5,5,5,5,
+d3be1916-d06a-4b7c-8c6d-2bd094d8d0f3,961,5,Anonymous,2,5,3,4,groundedness: 예술 개인소득 없음과 프로젝트 입금 서술 충돌; plausibility: 영화 편집 프로젝트 수행과 예술 개인수입 없음이 다소 충돌
+d523c058-a8db-4588-8e5b-96dcd4a09bca,962,5,Anonymous,5,4,2,4,coherence: 86세 인물의 저강도 러닝 설정이 다소 이질적; plausibility: 86세 겸업·외주 작업 및 러닝 활동이 다소 과함
+ef1f83cb-2f79-4a24-9086-32038c5f0a07,963,5,Anonymous,4,4,3,4,plausibility: 25년 경력 전업 프로듀서의 개인 예술수입 5백만원 미만은 설명이 부족함
+fed0f4b4-61ab-4ae6-85b9-c76802f8c944,964,5,Anonymous,4,5,4,4,plausibility: 비엔날레 참여 언급은 구체 설명이 부족해 약간 크게 느껴짐
+076d9fa4-a43f-4316-8e9a-3b0a9c2c4d01,965,5,Anonymous,3,3,3,3,groundedness: 비프리랜서인데 매니지먼트 없이 프로젝트별 캐스팅으로 묘사됨; coherence: family_persona가 가족 관계보다 친구 관계 중심으로 작성됨; plausibility: 32년 경력 MC의 계약 경험 없음과 낮은 예술소득이 이례적
+782e18fc-de4b-4c9a-b91b-e5f3ec6f0d58,966,5,Anonymous,4,3,4,3,coherence: 유리공예가인데 유약·소성 중심 서술이 반복되어 매체 정합성이 약함; plausibility: 유리공예 설명에 '유약 성형과 소성' 등 도예에 가까운 표현이 섞임; fluency: 유리공예 맥락에서 '유약 성형'은 다소 어색한 용어 사용으로 보임
+43aeed3d-7592-4f6a-894b-75d8cce4c25b,967,5,Anonymous,4,4,4,4,coherence: 일부 취미가 skills_and_expertise에 섞임; plausibility: 지역이 '기타'라 생태계 구체성이 낮음
+404ff5a5-c98c-4299-99c4-8f13489d15a0,968,5,Anonymous,5,5,4,4,
+93f60847-2a7a-4dd2-b932-f9ccbaff2c54,969,5,Anonymous,5,4,4,3,coherence: 아파트 화단 채소 활용 식단이 갑작스럽고 현실성이 약간 낮음; fluency: 일부 문장이 추상적이고 설명문처럼 과장됨
+4b8b091d-e6dd-4b94-b0ac-97b80d1e0622,970,5,Anonymous,4,3,3,3,coherence: 작업 시간대와 운동 시간대가 서로 어긋남; plausibility: 집중 작업 시간과 탁구 시간이 일부 겹침
+2cbe8c70-6b62-45de-b931-4d5586951a06,971,5,Anonymous,5,5,4,4,
+2a16e16e-4bf3-4961-ba3f-b798a395f263,972,5,Anonymous,5,3,3,3,"coherence: 성악가에게 악기 보관·관리비가 반복되고, 해외 경험 설정과 유럽 여행 서사가 긴장됨; plausibility: 초기 성악가 수입·해외활동 설명 부족; fluency: 성악가에게 '악기 보관' 표현이 부적절하고 '수첩에 꾸미는 습관'이 어색함."
+08fa3da3-2846-444d-970a-f36034b547a9,973,5,Anonymous,5,5,4,3,fluency: 어색한 표현: '귀를 쉬우며'
+c21c2d4f-61c6-44f4-9dfb-74003ad81906,974,5,Anonymous,5,3,2,3,"coherence: 예술 첫 접촉 시점이 기존 음악 경력과 어색함; plausibility: 개인 예술소득이 가구소득보다 높고, 22세 대학원·7년 경력·해외경험·고소득 조합이 매우 드묾; fluency: 어색한 표현: '귀를 쉬운다', '카페에서 영화 관람 후'"
+8ce1a7b5-dc47-4f87-88ec-518014a3bd97,975,5,Anonymous,3,4,3,3,"groundedness: 전업·부업 없음인데 강의 수입을 생활비 계획의 축으로 언급; coherence: 전업 서사와 '강의 수입' 언급이 약간 긴장됨; plausibility: 전업·부업 없음인데 강의 수입을 생활비 계획에 포함; fluency: ""수필의 세계에서""라는 AI식 추상 표현"
+11e456e2-ba7f-4114-bedd-79ce81d19ffd,976,5,Anonymous,5,4,3,2,plausibility: 77세 회화 작가의 줄넘기 루틴과 정기전 목표가 약간 이례적; fluency: 여러 필드에서 상투적인 생성형 문장 반복
+fa2009de-6c5c-4759-9f40-0bfcf4c75287,977,5,Anonymous,5,5,4,4,plausibility: has_overseas_experience=true와 has_copyright=false 조합은 대중음악 프로듀서로 다소 설명 부족
+f74b3242-ea4e-4f60-8c4c-bb88d0bcc51b,978,5,Anonymous,4,4,3,4,groundedness: 성악가가 '협주곡을 연주'한다는 표현이 다소 부정확함; coherence: 성악가에게 협주곡 연주 표현이 다소 부자연스러움; plausibility: 초등학교 학력의 성악가가 콩쿠르 입상·독주회·실내악 활동을 하는 경로 설명이 부족함
+9b8bbf06-4097-4494-a41f-f69932858cfc,979,5,Anonymous,4,4,3,4,plausibility: 장기 음악 프로듀서가 저작권 없음으로 제시됨
+977f8444-7a7a-44d2-84d3-e92abbf1d897,980,5,Anonymous,5,5,4,4,plausibility: 개인전·아트페어 활동 대비 예술소득 없음이 다소 낮음; fluency: 일부 번역투 표현
+1f4d80f7-eb40-43e1-97e1-5bcc1f6f6b75,981,5,Anonymous,2,4,3,4,"groundedness: 계약 경험 없음인데 갤러리 전속/협업 서술, debut_age=40과 '40대 중반' 불일치; coherence: 데뷔 시점이 40세인지 40대 중반인지 약간 불일치; plausibility: 전업 무수입 판화가와 고가구소득의 연결 설명 부족; fluency: 어색한 목적어 결합 표현 일부"
+73849eec-dffb-4555-b8d8-e603f60c9830,982,5,Anonymous,5,5,4,4,
+8ad348e4-9d52-413e-8d2b-6ab4447af7ed,983,5,Anonymous,5,5,4,4,
+27a653f6-dc06-4c5b-9e58-4be270267bf7,984,5,Anonymous,5,4,3,3,coherence: 세션 연주자 역할에 마스터링까지 포함되어 다소 범위가 넓음; plausibility: 세션 연주자가 마스터링까지 맡는 설정은 추가 설명이 필요함; fluency: persona에 '편에서' 비문
+5e32451f-d83e-4053-b5b9-30b78268963a,985,5,Anonymous,3,3,3,3,groundedness: 혼자 산다고 해놓고 주말에는 가족과 함께 식사한다고 서술됨; coherence: 혼자 산다는 설정과 주말 가족 식사 설정이 다소 충돌; plausibility: 45년 경력에 비해 전시 이력과 작업 성취 디테일이 빈약함; fluency: 목록식 문장과 일부 생활 서술 불일치가 있음
+f9551946-e49a-4de2-b3f6-761408bc58c4,986,5,Anonymous,4,4,3,3,coherence: 매진 공연을 주로 소화한다는 표현이 생활비 압박 서사와 약간 긴장됨; plausibility: 무수입 배우가 대학로 매진 공연을 주로 소화한다는 설명이 다소 과장됨; fluency: 과장된 추상 표현과 어색한 비유
+7c755f2b-66fd-4ef9-8f91-792f32261a8f,987,5,Anonymous,4,5,4,3,plausibility: 데뷔 첫해 활동 폭이 다소 넓음; fluency: AI식 목록 서술과 번역투 표현
+95e338cc-ca8d-475a-96e9-0f42ef9875ee,988,5,Anonymous,4,4,3,3,groundedness: 0년 차 대비 프로젝트 경험 서술이 다소 많음; plausibility: 0년 차 전업 프로듀서의 계약·실무 숙련 설명이 다소 과함
+9b2f96de-a57d-482a-ac1c-d8457f66d6ad,989,5,Anonymous,5,4,3,4,"coherence: 해외 활동 경험이 서사 내에서 다소 돌출됨; plausibility: 20세에 대졸, 해외 경험, 경력 공백까지 있는 설정은 시간축이 다소 촘촘함; fluency: 지역명 '전라남'은 보통 '전남/전라남도'가 자연스러움"
+a82101f7-91d1-4d42-ba0c-2410aa2b748a,990,5,Anonymous,5,4,4,4,
+61a0ad61-5475-4f22-8f56-08d38ef0cbc2,991,5,Anonymous,5,4,4,4,fluency: 반복적인 해요체로 문체 단조로움
+c72f099e-bae5-4ffb-91dd-19d5a888267e,992,5,Anonymous,3,3,4,4,"groundedness: 80세를 70대 초반으로 서술; coherence: 80세와 70대 초반 표현 불일치, 조각가에게 화면 밀도 표현 부자연스러움; plausibility: 70대 초반 표현이 실제 나이 80세와 불일치; fluency: 조각가에게 '화면의 밀도' 표현은 다소 부자연스러움"
+3b1bbeda-057f-4484-9f90-f06160c08bc8,993,5,Anonymous,4,3,3,3,"coherence: 세션 연주자 서사에 마스터링 역할이 반복되어 직무 경계가 흐림; plausibility: 전업 세션 연주자 수입 없음, 세션과 마스터링 역할 혼재"
+0a866da0-fb69-4021-a792-95293ee1bcce,994,5,Anonymous,3,3,3,3,"groundedness: 대학원 전공이 cultural_background에서는 문학, skills_and_expertise에서는 미술로 달라짐; coherence: 대학원 전공이 문학과 미술로 충돌; 회화 단체전 장소가 공연장으로 표현됨; plausibility: 대학원 전공이 문학인지 미술인지 서사 불일치"
+db6b1f35-e7db-47db-97c1-dbc607c5a3db,995,5,Anonymous,4,4,3,2,coherence: family_persona에 깨진 문자 '援' 포함; plausibility: 중학교 학력에서 공공예술 행정 17년 전문성으로 이어지는 경로 설명이 약함; family_persona 끝의 오타 '조율한다援'; fluency: family_persona 말미에 불필요한 한자 '援' 삽입
+95fc58b1-c59c-402a-9ce2-c16802ab65b3,996,5,Anonymous,5,5,3,4,plausibility: 60대 늦은 전업 대중음악 프로듀서 설정은 가능하나 드문 편
+4618e2bb-ce9f-45f3-b5a1-483972954e2e,997,5,Anonymous,5,4,4,4,coherence: network_persona에 생활비 관리 내용이 섞임; fluency: 일부 기계적 표현
+b0eb75af-69e7-4ae0-a2dd-b69dc8c87d12,998,5,Anonymous,2,2,3,2,groundedness: 43세에 태어났다는 식의 명백한 연령 서술 오류; coherence: 43세에 태어났다는 표현으로 생애 서사가 모순됨; plausibility: 문화배경 문장 오류; 전업 판소리 명창인데 예술소득 없음; fluency: cultural_background에서 출생 시점 표현 오류
+5f657ece-95c2-46a7-804c-c8b6ad9cd8a0,999,5,Anonymous,5,5,4,4,plausibility: province=기타라 지역 생태계 디테일이 약함

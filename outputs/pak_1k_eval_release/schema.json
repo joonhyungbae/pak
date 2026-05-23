@@ -1,0 +1,44 @@
+{
+  "tables": {
+    "annotations": {
+      "path": "annotations.csv",
+      "columns": {
+        "pak_uuid": "string persona identifier",
+        "annotator": "human_anonymous, claude, gemini, clova, or codex",
+        "dimension": "groundedness, coherence, plausibility, fluency, or _overall",
+        "score": "nullable integer score, 1-5 for scoring dimensions",
+        "reasoning": "judge reasoning text; empty for human rows",
+        "flag": "row-level flag text on _overall rows"
+      }
+    },
+    "sample_personas": {
+      "path": "sample_personas.csv",
+      "description": "The 1,000 stratified PAK personas used for PAK-1K-eval."
+    },
+    "calibration_anchors": {
+      "path": "calibration_anchors.csv",
+      "description": "The 10 calibration anchors used to lock the rubric."
+    }
+  },
+  "score_scale": {
+    "min": 1,
+    "max": 5,
+    "dimensions": [
+      "groundedness",
+      "coherence",
+      "plausibility",
+      "fluency"
+    ],
+    "overall_dimension": "_overall"
+  },
+  "annotators": {
+    "human_anonymous": "Public release label for the single human reference annotation.",
+    "claude": "Claude Opus 4.7",
+    "gemini": "Gemini 2.5 Pro",
+    "clova": "HyperCLOVA X HCX-007",
+    "codex": "Codex 5.5"
+  },
+  "probes": {
+    "qwen3": "qwen3 30B (generator self-preference probe). Generator-family self-preference probe. Reported against the Claude-Gemini panel, not a panel member. Some dimension scores are null from parse failures. Stored under judges/qwen3/ and not included in annotations.csv."
+  }
+}

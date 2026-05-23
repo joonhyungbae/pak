@@ -1,0 +1,17 @@
+{# hobbies_and_interests — 취미, 관심 분야 #}
+{{ sex }} {{ age }}세 ({{ career_band }}) {{ art_field_primary }} 예술인의 본업 외 취미·관심사를 80-150자로.
+
+- 아래 취미 계획 앵커를 자연스럽게 녹일 것: {{ hobby_plan_text }}
+- {{ local_routine_hint }} 같은 province 수준 생활 맥락을 약하게 반영
+- 예술 외 영역의 관심을 절반 이상 포함
+- 취미 이름을 나열하기보다 어떻게 소비하고 왜 붙잡는지가 드러나게 쓸 것
+- "{{ hobby_genericity_guard }}"를 지킬 것
+{% if blocked_hobby_family_text %}
+- 이번 배치에서 과하게 많이 나온 취미 표현군은 피할 것: {{ blocked_hobby_family_text }}
+{% endif %}
+{% if blocked_hobby_item_text %}
+- 이번 배치에서 과하게 반복된 정확한 취미 표현은 피할 것: {{ blocked_hobby_item_text }}
+{% endif %}
+- 위 취미 계획 앵커 5개 바깥의 새 generic 취미를 억지로 추가하지 말 것
+
+3인칭. 진부한 패턴 회피.

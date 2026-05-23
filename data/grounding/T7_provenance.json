@@ -1,0 +1,59 @@
+{
+  "table_id": "T7",
+  "title": "분야 × 5개 이항 변수 (응답자)",
+  "source": {
+    "pdf_path": "data/source/2024년 예술인 실태조사통계보고서.pdf",
+    "pdf_sha256": "2e25bc0773779d35691e41160345b6c95ffe8bdd5af40697935b7317982dc7f7",
+    "source_table_id_in_report": "표 3-23 + 3-26 + 3-41 + 3-55 + 3-7",
+    "pages": [
+      76,
+      78,
+      94,
+      108,
+      60
+    ],
+    "page_image_paths": {
+      "76": "data/pages/page_076.png",
+      "78": "data/pages/page_078.png",
+      "94": "data/pages/page_094.png",
+      "108": "data/pages/page_108.png",
+      "60": "data/pages/page_060.png"
+    }
+  },
+  "extractions": [
+    {
+      "method": "5 separate tables, each contributing one binary variable"
+    }
+  ],
+  "verification": {
+    "method": "automatic_aggregate",
+    "n_rows": 140,
+    "fields_covered": 14,
+    "verifier": "automatic",
+    "timestamp": "2026-05-03T03:37:59+09:00",
+    "passed_within_5pct": true,
+    "confidence": "high"
+  },
+  "post_processing": [],
+  "component_variables": [
+    "has_contract_experience",
+    "uses_standard_contract",
+    "has_copyright",
+    "had_career_break",
+    "has_overseas_experience"
+  ],
+  "visual_verification": {
+    "verifier": "claude_vision_2026_05_09",
+    "verified_at": "2026-05-09T19:15:59+09:00",
+    "page_image": [
+      "data/pages/page_076.png",
+      "data/pages/page_078.png",
+      "data/pages/page_094.png",
+      "data/pages/page_108.png",
+      "data/pages/page_060.png"
+    ],
+    "method": "5 binary marginals match report within ±0.5%p (계약 57.3, 표준계약 71.7, 저작권 29.1, 단절 23.0, 해외 16.5)",
+    "all_passed": true,
+    "confidence": "high"
+  }
+}

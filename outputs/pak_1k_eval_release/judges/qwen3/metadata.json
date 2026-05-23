@@ -1,0 +1,28 @@
+{
+  "annotator": "qwen3",
+  "display_name": "qwen3 30B (generator self-preference probe)",
+  "provider": "Alibaba",
+  "model": "qwen3:30b-a3b",
+  "api": "Ollama native (local)",
+  "role": "Generator-family self-preference probe. Reported against the Claude-Gemini panel, not a panel member. Some dimension scores are null from parse failures.",
+  "panel_member": false,
+  "source_path": "judges/qwen3/scores.json",
+  "n_personas": 1000,
+  "dimensions": [
+    "groundedness",
+    "coherence",
+    "plausibility",
+    "fluency"
+  ],
+  "null_scores": {
+    "groundedness": 70,
+    "coherence": 40,
+    "plausibility": 1,
+    "fluency": 37
+  },
+  "files": {
+    "scores_wide": "scores.json",
+    "scores_long": "scores_long.jsonl",
+    "overall_flags": "overall_flags.jsonl"
+  }
+}

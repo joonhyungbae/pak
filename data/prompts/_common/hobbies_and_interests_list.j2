@@ -1,0 +1,26 @@
+{# hobbies_and_interests_list — 5개 항목 (planner 고정) #}
+{{ sex }} {{ age }}세 ({{ age_band }}) {{ art_field_primary }} 예술인의 취미·관심사를 5개 항목 list로.
+
+[형식]
+"['항목1', '항목2', '항목3', '항목4', '항목5']" 정확히 5개
+
+[작성 지시]
+- hobbies_and_interests narrative와 일관
+- 아래 취미 계획 앵커 5개를 모두 list에 반영: {{ hobby_plan_text }}
+- 활동 지역 {{ province }} 맥락은 province 수준의 생활 루틴으로만 반영하고 유명 랜드마크 이름은 피할 것
+- 각 항목 짧은 명사구 (10-30자)
+- 각 항목은 정확히 한 활동/관심만 담을 것
+- 취미 이름 단독보다 맥락이 붙은 표현을 우선할 것
+- 분야 외 활동을 적어도 절반 이상
+- `음악 감상`, `책 읽기`, `산책` 같은 범용 항목은 단독 표현을 반복하지 말고 구체 맥락을 붙일 것
+- `A와 B`, `A과 B`, `A 및 B`, `A/B`, `A, B`처럼 한 항목에 둘 이상 묶지 말 것
+{% if blocked_hobby_family_text %}
+- 다음 취미 표현군은 피할 것: {{ blocked_hobby_family_text }}
+{% endif %}
+{% if blocked_hobby_item_text %}
+- 다음 정확한 취미 표현은 피할 것: {{ blocked_hobby_item_text }}
+{% endif %}
+- 위 5개 planner anchor 바깥의 새 항목을 추가하지 말 것
+
+[출력]
+list 그대로만 (대괄호·따옴표). 다른 텍스트 금지.

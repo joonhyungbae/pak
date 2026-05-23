@@ -1,0 +1,92 @@
+[project]
+name = "pak"
+version = "0.1.0"
+description = "PAK — Persona Arts Korea: a synthetic persona dataset of the Korean cultural arts domain"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "CC-BY-4.0" }
+authors = [{ name = "PAK Team" }]
+dependencies = [
+    "pydantic>=2.5",
+    "pydantic-settings>=2.1",
+    "pandas>=2.2",
+    "polars>=1.0",
+    "pyarrow>=16.0",
+    "numpy>=1.26",
+    "scipy>=1.12",
+    "pdfplumber>=0.11",
+    "pdf2image>=1.17",
+    "pillow>=10.2",
+    "camelot-py[base]>=0.11",
+    "opencv-python-headless>=4.9",
+    "tabula-py>=2.9",
+    "jinja2>=3.1",
+    "anthropic>=0.34",
+    "httpx>=0.27",
+    "rich>=13.7",
+    "python-dotenv>=1.0",
+    "ipfn>=1.4",
+    "tqdm>=4.66",
+    "matplotlib>=3.10.9",
+    "huggingface-hub>=1.13.0",
+    "datasets>=4.8.5",
+    "vllm>=0.19,<0.20",
+    "torch==2.10.0",
+    "torchvision==0.25.0",
+    "torchaudio==2.10.0",
+    "scikit-learn>=1.8.0",
+    "sentence-transformers>=5.5.0",
+    "nltk>=3.9.4",
+    "kiwipiepy>=0.23.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+    "ruff>=0.4",
+    "mypy>=1.10",
+    "jupyter>=1.0",
+    "ipykernel>=6.29",
+    "types-tqdm",
+]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu126" }
+torchvision = { index = "pytorch-cu126" }
+torchaudio = { index = "pytorch-cu126" }
+
+[[tool.uv.index]]
+name = "pytorch-cu126"
+url = "https://download.pytorch.org/whl/cu126"
+explicit = true
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/pak"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**" = ["B"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = false
+ignore_missing_imports = true
+files = ["src/pak"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+filterwarnings = ["ignore::DeprecationWarning"]

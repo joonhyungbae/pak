@@ -1,0 +1,47 @@
+{
+  "table_id": "T1",
+  "title": "분야 × 성별 × 연령대 (모집단)",
+  "source": {
+    "pdf_path": "data/source/2024년 예술인 실태조사통계보고서.pdf",
+    "pdf_sha256": "2e25bc0773779d35691e41160345b6c95ffe8bdd5af40697935b7317982dc7f7",
+    "source_table_id_in_report": "표 1-6",
+    "pages": [
+      21
+    ],
+    "page_image_paths": {
+      "21": "data/pages/page_021.png"
+    }
+  },
+  "extractions": [
+    {
+      "method": "camelot:lattice",
+      "table_index_on_page": 0,
+      "shape": "17x13"
+    },
+    {
+      "method": "camelot:lattice",
+      "table_index_on_page": 1,
+      "shape": "17x14"
+    }
+  ],
+  "normalization": {
+    "field_aliases_applied": {
+      "방송·연예": "방송연예"
+    },
+    "excluded_categories": [
+      "모름 (성별)",
+      "모름 (연령)"
+    ],
+    "excluded_reason": "모집단 비식별 케이스. PAK 페르소나는 알려진 (성, 연령) 조합만 사용"
+  },
+  "verification": {
+    "method": "automatic_row_total",
+    "computed_grand_total": 325449,
+    "expected_total_basis": "본문 총합 334,036명 (성별모름 4,871 + 연령모름 일부 제외 시 약 320k 예상)",
+    "passed_within_5pct": true,
+    "verifier": "automatic",
+    "timestamp": "2026-05-02T01:05:09+09:00",
+    "confidence": "high"
+  },
+  "post_processing": []
+}

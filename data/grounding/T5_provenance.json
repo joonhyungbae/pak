@@ -1,0 +1,42 @@
+{
+  "table_id": "T5",
+  "title": "분야 × 전업/겸업 × 프리랜서 (응답자)",
+  "source": {
+    "pdf_path": "data/source/2024년 예술인 실태조사통계보고서.pdf",
+    "pdf_sha256": "2e25bc0773779d35691e41160345b6c95ffe8bdd5af40697935b7317982dc7f7",
+    "source_table_id_in_report": "표 3-12 + 3-20 + 3-21",
+    "pages": [
+      65,
+      73,
+      74
+    ],
+    "page_image_paths": {
+      "65": "data/pages/page_065.png",
+      "73": "data/pages/page_073.png",
+      "74": "data/pages/page_074.png"
+    }
+  },
+  "extractions": [
+    {
+      "method": "3-table chained P(전업|분야) × P(프리|전업,분야) × P(프리|겸업,분야)"
+    }
+  ],
+  "verification": {
+    "method": "automatic_aggregate",
+    "n_rows": 56,
+    "fields_covered": 14,
+    "verifier": "automatic",
+    "timestamp": "2026-05-02T01:05:09+09:00",
+    "passed_within_5pct": true,
+    "confidence": "high"
+  },
+  "post_processing": [],
+  "visual_verification": {
+    "verifier": "claude_vision_2026_05_09",
+    "verified_at": "2026-05-09T19:15:59+09:00",
+    "page_image": "data/pages/page_065.png",
+    "method": "14 fields 전업% match within ±0.6%p of report (max diff 0.6%p)",
+    "all_passed": true,
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "annotator": "gemini",
+  "display_name": "Gemini 2.5 Pro",
+  "provider": "Google",
+  "model": "Gemini 2.5 Pro",
+  "api": "Google Gemini API",
+  "source_path": "judges/gemini/scores.json",
+  "source_note": "Clean release package. Original raw run folder removed after consolidation.",
+  "n_personas": 1000,
+  "dimensions": [
+    "groundedness",
+    "coherence",
+    "plausibility",
+    "fluency"
+  ],
+  "files": {
+    "scores_wide": "scores.json",
+    "scores_long": "scores_long.jsonl",
+    "overall_flags": "overall_flags.jsonl"
+  }
+}

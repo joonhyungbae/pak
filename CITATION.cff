@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use PAK, please cite the paper and the dataset."
+title: "PAK: A Survey-Grounded Synthetic Persona Dataset of the Korean Cultural Arts Workforce"
+abstract: >-
+  PAK (Persona Arts Korea) is a synthetic persona dataset of the Korean
+  cultural arts workforce, grounded cell-by-cell in the 2024 Survey of Korean
+  Artists via per-field iterative proportional fitting, with a co-released
+  human-versus-model-panel evaluation layer (PAK-1K-eval).
+type: dataset
+authors:
+  - family-names: Bae
+    given-names: Joonhyung
+    orcid: "https://orcid.org/0000-0001-5933-4302"
+    affiliation: "Korea Advanced Institute of Science and Technology (KAIST)"
+year: 2026
+license: CC-BY-4.0
+repository-code: "https://github.com/joonhyungbae/pak"
+url: "https://huggingface.co/datasets/joonhyungbae/Persona-Arts-Korea"

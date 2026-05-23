@@ -1,0 +1,14 @@
+{# network_persona — fallback #}
+{{ art_field_primary }} 분야의 {{ career_band }} 활동 예술인의 협업 네트워크 / 소속 / 인맥을 100-250자로 묘사.
+
+[정보]
+- 활동 지역: {{ province }}
+- 고용 형태: {{ employment_type }}{% if is_freelance %} / 자유계약자{% endif %}
+- 계약 경험: {{ "있음" if has_contract_experience else "없음" }}
+
+[묘사 포인트]
+- 동료 / 멘토 / 후배 관계
+- 단체·동인·소속 (구체적 이름은 만들지 말 것)
+- {{ province }} 지역 또는 분야 내 인맥 양상
+
+3인칭, 추상적·구조적 묘사. 클리셰 금지.

@@ -1,0 +1,21 @@
+{
+  "annotator": "claude",
+  "display_name": "Claude Opus 4.7",
+  "provider": "Anthropic",
+  "model": "Claude Opus 4.7",
+  "api": "Anthropic Claude API",
+  "source_path": "judges/claude/scores.json",
+  "source_note": "Clean release package. Original raw run folder removed after consolidation.",
+  "n_personas": 1000,
+  "dimensions": [
+    "groundedness",
+    "coherence",
+    "plausibility",
+    "fluency"
+  ],
+  "files": {
+    "scores_wide": "scores.json",
+    "scores_long": "scores_long.jsonl",
+    "overall_flags": "overall_flags.jsonl"
+  }
+}

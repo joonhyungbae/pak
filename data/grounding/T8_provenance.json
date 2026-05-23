@@ -1,0 +1,51 @@
+{
+  "table_id": "T8",
+  "title": "연령 4구간 × 경력 5구간 (응답자)",
+  "source": {
+    "pdf_path": "data/source/2024년 예술인 실태조사통계보고서.pdf",
+    "pdf_sha256": "2e25bc0773779d35691e41160345b6c95ffe8bdd5af40697935b7317982dc7f7",
+    "source_table_id_in_report": "표 3-3 (연령 sub-block)",
+    "pages": [
+      55
+    ],
+    "page_image_paths": {
+      "55": "data/pages/page_055.png"
+    }
+  },
+  "extractions": [
+    {
+      "method": "pdfplumber text parse (same source page as T4 분야 sub-block)"
+    }
+  ],
+  "verification": {
+    "method": "pdfplumber_text_row_sum_check",
+    "n_rows": 20,
+    "fields_covered": null,
+    "verifier": "automatic",
+    "timestamp": "2026-05-09T19:01:33+09:00",
+    "computed_grand_total": 5059,
+    "expected_grand_total": 5059,
+    "passed_within_5pct": true,
+    "confidence": "high",
+    "row_sum_target_pct": 100.0,
+    "row_sum_tolerance_pct": 0.5
+  },
+  "post_processing": [],
+  "normalization": {
+    "transformation": "P(career_band | age_group_4) × case_count_age → implied_count",
+    "reason_added": "원래 grounding은 (분야 × 경력) 1-way conditional만 사용해 (연령 × 경력) 결합분포가 보고서 p.55와 어긋남. 1000건 파일럿에서 40+세 0-9년차가 보고서 대비 1.7~1.85배 과대표집됨. T8은 IPF로 (분야 × 연령 × 경력) 3-way joint 추정에 사용."
+  },
+  "age_group_definition": {
+    "30대 이하": "10대 + 20대 + 30대 (보고서 표 3-3 4분류)",
+    "40대": "40대",
+    "50대": "50대",
+    "60세 이상": "60대 + 70대 이상",
+    "note": "PAK 내부 7구간(AGE_BANDS_7)과 매핑 시: 7구간을 4구간으로 합산하는 방향만 사용. 역방향(4구간을 7구간으로 분해)은 보고서에 없는 가정이므로 도입하지 않음."
+  },
+  "visual_verification": {
+    "method": "page_image_compared",
+    "page_image": "data/pages/page_055.png",
+    "verifier": "claude_vision_2026_05_09",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "table_id": "T3",
+  "title": "분야 × 학력 (응답자 N=5,059)",
+  "source": {
+    "pdf_path": "data/source/2024년 예술인 실태조사통계보고서.pdf",
+    "pdf_sha256": "2e25bc0773779d35691e41160345b6c95ffe8bdd5af40697935b7317982dc7f7",
+    "source_table_id_in_report": "표 부록-2",
+    "pages": [
+      117,
+      118
+    ],
+    "page_image_paths": {
+      "117": "data/pages/page_117.png",
+      "118": "data/pages/page_118.png"
+    }
+  },
+  "extractions": [
+    {
+      "method": "page text parse + Bayes inversion (P(분야|학력) → P(학력|분야))"
+    }
+  ],
+  "verification": {
+    "method": "automatic_aggregate",
+    "n_rows": 42,
+    "fields_covered": 14,
+    "verifier": "automatic",
+    "timestamp": "2026-05-02T01:05:09+09:00",
+    "passed_within_5pct": true,
+    "confidence": "high"
+  },
+  "post_processing": [],
+  "normalization": {
+    "transformation": "P(분야|학력) × case_count → implied_count → 분야별 정규화 → P(학력|분야)",
+    "education_case_counts": {
+      "고졸 이하": 826,
+      "대졸 이하": 2768,
+      "대학원 이상": 1465
+    }
+  },
+  "visual_verification": {
+    "verifier": "claude_vision_2026_05_09",
+    "verified_at": "2026-05-09T19:15:59+09:00",
+    "page_image": "data/pages/page_117.png",
+    "method": "row sum within ±10 (rounding); column sums match 826/2768/1465",
+    "all_passed": true,
+    "confidence": "high"
+  }
+}

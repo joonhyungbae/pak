@@ -1,0 +1,38 @@
+{
+  "table_id": "T4",
+  "title": "분야 × 경력 구간 5구간 (응답자)",
+  "source": {
+    "pdf_path": "data/source/2024년 예술인 실태조사통계보고서.pdf",
+    "pdf_sha256": "2e25bc0773779d35691e41160345b6c95ffe8bdd5af40697935b7317982dc7f7",
+    "source_table_id_in_report": "표 3-3",
+    "pages": [
+      55
+    ],
+    "page_image_paths": {
+      "55": "data/pages/page_055.png"
+    }
+  },
+  "extractions": [
+    {
+      "method": "camelot:lattice (used: data/extracted/T4_camelot_stream_0.csv)"
+    }
+  ],
+  "verification": {
+    "method": "automatic_aggregate",
+    "n_rows": 70,
+    "fields_covered": 14,
+    "verifier": "automatic",
+    "timestamp": "2026-05-02T01:05:09+09:00",
+    "passed_within_5pct": true,
+    "confidence": "high"
+  },
+  "post_processing": [],
+  "visual_verification": {
+    "verifier": "claude_vision_2026_05_09",
+    "verified_at": "2026-05-09T19:15:59+09:00",
+    "page_image": "data/pages/page_055.png",
+    "method": "14 fields × 5 bands % match within ±1.0%p of report",
+    "all_passed": true,
+    "confidence": "high"
+  }
+}

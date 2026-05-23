@@ -1,0 +1,489 @@
+{
+  "additionalProperties": false,
+  "description": "완전한 PAK 페르소나 (정량 NPK-superset + 정성 NPK-superset+PAK도메인).",
+  "properties": {
+    "persona": {
+      "description": "전체 요약 한 줄",
+      "maxLength": 300,
+      "minLength": 30,
+      "title": "Persona",
+      "type": "string"
+    },
+    "professional_persona": {
+      "maxLength": 600,
+      "minLength": 60,
+      "title": "Professional Persona",
+      "type": "string"
+    },
+    "sports_persona": {
+      "maxLength": 400,
+      "minLength": 50,
+      "title": "Sports Persona",
+      "type": "string"
+    },
+    "arts_persona": {
+      "description": "(NPK 호환) 예술/문화 향유. PAK에서는 본인 작품세계와 다름",
+      "maxLength": 400,
+      "minLength": 50,
+      "title": "Arts Persona",
+      "type": "string"
+    },
+    "travel_persona": {
+      "maxLength": 400,
+      "minLength": 50,
+      "title": "Travel Persona",
+      "type": "string"
+    },
+    "culinary_persona": {
+      "maxLength": 400,
+      "minLength": 50,
+      "title": "Culinary Persona",
+      "type": "string"
+    },
+    "family_persona": {
+      "maxLength": 400,
+      "minLength": 50,
+      "title": "Family Persona",
+      "type": "string"
+    },
+    "cultural_background": {
+      "maxLength": 400,
+      "minLength": 50,
+      "title": "Cultural Background",
+      "type": "string"
+    },
+    "skills_and_expertise": {
+      "maxLength": 400,
+      "minLength": 50,
+      "title": "Skills And Expertise",
+      "type": "string"
+    },
+    "skills_and_expertise_list": {
+      "description": "문자열 형태의 list (NPK 호환): \"['항목1', '항목2', ...]\"",
+      "maxLength": 300,
+      "minLength": 20,
+      "title": "Skills And Expertise List",
+      "type": "string"
+    },
+    "hobbies_and_interests": {
+      "maxLength": 400,
+      "minLength": 50,
+      "title": "Hobbies And Interests",
+      "type": "string"
+    },
+    "hobbies_and_interests_list": {
+      "description": "문자열 형태의 list",
+      "maxLength": 300,
+      "minLength": 20,
+      "title": "Hobbies And Interests List",
+      "type": "string"
+    },
+    "career_goals_and_ambitions": {
+      "maxLength": 400,
+      "minLength": 50,
+      "title": "Career Goals And Ambitions",
+      "type": "string"
+    },
+    "creative_world_persona": {
+      "description": "본인의 작품세계·미학적 지향 (PAK 도메인). NPK arts_persona와 다름.",
+      "maxLength": 500,
+      "minLength": 60,
+      "title": "Creative World Persona",
+      "type": "string"
+    },
+    "network_persona": {
+      "maxLength": 400,
+      "minLength": 50,
+      "title": "Network Persona",
+      "type": "string"
+    },
+    "living_persona": {
+      "maxLength": 500,
+      "minLength": 60,
+      "title": "Living Persona",
+      "type": "string"
+    },
+    "support_persona": {
+      "maxLength": 400,
+      "minLength": 40,
+      "title": "Support Persona",
+      "type": "string"
+    },
+    "pak_uuid": {
+      "description": "페르소나 고유 식별자 (UUID v4)",
+      "title": "Pak Uuid",
+      "type": "string"
+    },
+    "sex": {
+      "enum": [
+        "남자",
+        "여자"
+      ],
+      "title": "Sex",
+      "type": "string"
+    },
+    "age": {
+      "maximum": 100,
+      "minimum": 13,
+      "title": "Age",
+      "type": "integer"
+    },
+    "province": {
+      "enum": [
+        "서울",
+        "부산",
+        "대구",
+        "인천",
+        "광주",
+        "대전",
+        "울산",
+        "세종",
+        "경기",
+        "강원",
+        "충청북",
+        "충청남",
+        "전북",
+        "전라남",
+        "경상북",
+        "경상남",
+        "제주",
+        "기타"
+      ],
+      "title": "Province",
+      "type": "string"
+    },
+    "district": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "형식: \"{province}-{시군구}\". NPK 호환. PAK-core v0.1에서는 PDF 단일 근거만으로는 시군구를 정직하게 채울 수 없어 null 허용.",
+      "title": "District"
+    },
+    "country": {
+      "const": "대한민국",
+      "default": "대한민국",
+      "title": "Country",
+      "type": "string"
+    },
+    "education_level": {
+      "enum": [
+        "무학",
+        "초등학교",
+        "중학교",
+        "고등학교",
+        "2~3년제 전문대학",
+        "4년제 대학교",
+        "대학원"
+      ],
+      "title": "Education Level",
+      "type": "string"
+    },
+    "occupation": {
+      "description": "자유 텍스트 직업명. PAK는 분야 기반 합성",
+      "title": "Occupation",
+      "type": "string"
+    },
+    "marital_status": {
+      "anyOf": [
+        {
+          "enum": [
+            "미혼",
+            "배우자있음",
+            "사별",
+            "이혼"
+          ],
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Marital Status"
+    },
+    "military_status": {
+      "anyOf": [
+        {
+          "enum": [
+            "비현역",
+            "현역",
+            "해당없음"
+          ],
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Military Status"
+    },
+    "family_type": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Family Type"
+    },
+    "housing_type": {
+      "anyOf": [
+        {
+          "enum": [
+            "아파트",
+            "단독주택",
+            "다세대주택",
+            "연립주택",
+            "오피스텔",
+            "비주거용 건물 내 주택"
+          ],
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Housing Type"
+    },
+    "bachelors_field": {
+      "anyOf": [
+        {
+          "enum": [
+            "공학·제조·건설",
+            "사회과학·언론",
+            "보건·복지",
+            "교육",
+            "정보통신기술",
+            "서비스",
+            "예술·인문",
+            "자연과학·수학",
+            "경영·행정·법",
+            "농림어업·수의학",
+            "해당없음"
+          ],
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Bachelors Field"
+    },
+    "age_band": {
+      "enum": [
+        "10대",
+        "20대",
+        "30대",
+        "40대",
+        "50대",
+        "60대",
+        "70대 이상"
+      ],
+      "title": "Age Band",
+      "type": "string"
+    },
+    "education_level_pak": {
+      "description": "보고서 응답자 통계의 3-카테고리. education_level에서 매핑됨",
+      "enum": [
+        "고졸 이하",
+        "대졸 이하",
+        "대학원 이상"
+      ],
+      "title": "Education Level Pak",
+      "type": "string"
+    },
+    "art_field_primary": {
+      "enum": [
+        "문학",
+        "미술",
+        "공예",
+        "사진",
+        "건축",
+        "음악",
+        "국악",
+        "대중음악",
+        "방송연예",
+        "무용",
+        "연극",
+        "영화",
+        "만화",
+        "기타"
+      ],
+      "title": "Art Field Primary",
+      "type": "string"
+    },
+    "art_field_secondary": {
+      "anyOf": [
+        {
+          "enum": [
+            "문학",
+            "미술",
+            "공예",
+            "사진",
+            "건축",
+            "음악",
+            "국악",
+            "대중음악",
+            "방송연예",
+            "무용",
+            "연극",
+            "영화",
+            "만화",
+            "기타"
+          ],
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Art Field Secondary"
+    },
+    "career_years": {
+      "maximum": 70,
+      "minimum": 0,
+      "title": "Career Years",
+      "type": "integer"
+    },
+    "career_band": {
+      "enum": [
+        "10년 미만",
+        "10-20년 미만",
+        "20-30년 미만",
+        "30-40년 미만",
+        "40년 이상"
+      ],
+      "title": "Career Band",
+      "type": "string"
+    },
+    "employment_type": {
+      "enum": [
+        "전업",
+        "겸업"
+      ],
+      "title": "Employment Type",
+      "type": "string"
+    },
+    "is_freelance": {
+      "title": "Is Freelance",
+      "type": "boolean"
+    },
+    "has_secondary_job": {
+      "title": "Has Secondary Job",
+      "type": "boolean"
+    },
+    "individual_art_income_bracket": {
+      "enum": [
+        "없음",
+        "5백만원 미만",
+        "5백-1천만원 미만",
+        "1-2천만원 미만",
+        "2-3천만원 미만",
+        "3-4천만원 미만",
+        "4-5천만원 미만",
+        "5-6천만원 미만",
+        "6천만원 이상"
+      ],
+      "title": "Individual Art Income Bracket",
+      "type": "string"
+    },
+    "household_income_bracket": {
+      "enum": [
+        "1천만원 미만",
+        "1-2천만원 미만",
+        "2-3천만원 미만",
+        "3-4천만원 미만",
+        "4-5천만원 미만",
+        "5-6천만원 미만",
+        "6-7천만원 미만",
+        "7-8천만원 미만",
+        "8천만원 이상"
+      ],
+      "title": "Household Income Bracket",
+      "type": "string"
+    },
+    "has_contract_experience": {
+      "title": "Has Contract Experience",
+      "type": "boolean"
+    },
+    "uses_standard_contract": {
+      "anyOf": [
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "계약 경험자만 의미 있음. 미경험자는 None.",
+      "title": "Uses Standard Contract"
+    },
+    "has_copyright": {
+      "title": "Has Copyright",
+      "type": "boolean"
+    },
+    "had_career_break": {
+      "title": "Had Career Break",
+      "type": "boolean"
+    },
+    "has_overseas_experience": {
+      "title": "Has Overseas Experience",
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "persona",
+    "professional_persona",
+    "sports_persona",
+    "arts_persona",
+    "travel_persona",
+    "culinary_persona",
+    "family_persona",
+    "cultural_background",
+    "skills_and_expertise",
+    "skills_and_expertise_list",
+    "hobbies_and_interests",
+    "hobbies_and_interests_list",
+    "career_goals_and_ambitions",
+    "creative_world_persona",
+    "network_persona",
+    "living_persona",
+    "support_persona",
+    "pak_uuid",
+    "sex",
+    "age",
+    "province",
+    "education_level",
+    "occupation",
+    "age_band",
+    "education_level_pak",
+    "art_field_primary",
+    "career_years",
+    "career_band",
+    "employment_type",
+    "is_freelance",
+    "has_secondary_job",
+    "individual_art_income_bracket",
+    "household_income_bracket",
+    "has_contract_experience",
+    "has_copyright",
+    "had_career_break",
+    "has_overseas_experience"
+  ],
+  "title": "PAKPersona",
+  "type": "object"
+}

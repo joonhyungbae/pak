@@ -1,0 +1,22 @@
+{# professional_persona — fallback (모든 분야가 매칭되지 않을 때) #}
+당신은 한국 문화예술인 페르소나의 본업 활동을 묘사합니다. 다음 정량 정보를 바탕으로 자연스럽고 구체적인 글을 200-400자로 작성하세요.
+
+[기본 정보]
+- 분야: {{ art_field_primary }}
+- 성별 / 나이: {{ sex }} {{ age }}세 ({{ age_band }})
+- 활동 지역: {{ province }}
+- 학력: {{ education_level }}
+- 경력: {{ career_years }}년 ({{ career_band }})
+- 고용: {{ employment_type }}{% if is_freelance %} (자유계약자){% endif %}
+- 예술활동 개인소득: {{ individual_art_income_bracket }}
+- 계약 경험: {{ "있음" if has_contract_experience else "없음" }}
+- 저작권 보유: {{ "있음" if has_copyright else "없음" }}
+
+[작성 지시]
+- 본업 예술활동의 형태, 발표 매체, 데뷔 경로, 최근 활동을 구체적으로 묘사
+- 분야의 실제 어휘를 자연스럽게 사용 (해당 분야가 모호하면 "예술활동" 일반 용어로)
+- 클리셰("가난하지만 자유로운", "고독한 천재" 등) 사용 금지
+- 실존 인물·작품·단체명 직접 인용 금지
+- 3인칭 서술
+
+다양성 시드: {{ seed_word | default("일상") }} — 이 단어의 분위기를 작품이나 삶 어딘가에 자연스럽게 녹여주세요.

@@ -1,0 +1,48 @@
+{
+  "table_id": "T6",
+  "title": "분야 × 예술창작활동 수입 9구간 (응답자)",
+  "source": {
+    "pdf_path": "data/source/2024년 예술인 실태조사통계보고서.pdf",
+    "pdf_sha256": "2e25bc0773779d35691e41160345b6c95ffe8bdd5af40697935b7317982dc7f7",
+    "source_table_id_in_report": "표 3-34",
+    "pages": [
+      87
+    ],
+    "page_image_paths": {
+      "87": "data/pages/page_087.png"
+    }
+  },
+  "extractions": [
+    {
+      "method": "pdfplumber text parse (column-aligned via row regex)"
+    }
+  ],
+  "verification": {
+    "method": "pdfplumber_text_row_sum_check",
+    "n_rows": 126,
+    "fields_covered": 14,
+    "verifier": "automatic",
+    "timestamp": "2026-05-09T18:59:52+09:00",
+    "computed_grand_total": 5042,
+    "expected_grand_total": 5047,
+    "passed_within_5pct": true,
+    "confidence": "high",
+    "row_sum_target_pct": 100.0,
+    "row_sum_tolerance_pct": 0.5
+  },
+  "post_processing": [],
+  "supporting_table": {
+    "id": "표 3-33 (가구 총소득)",
+    "page": 86
+  },
+  "normalization": {
+    "transformation": "P(income_bracket | field) × case_count_field → implied_count",
+    "fixed_bug_2026_05_09": "이전 build는 camelot/tabula CSV column alignment 결함으로 평균(만원)·중앙값을 % 셀로 흡수하고 '6천만원 이상' 컬럼이 누락됨. 본 build는 raw text 파싱으로 교체."
+  },
+  "visual_verification": {
+    "method": "page_image_compared",
+    "page_image": "data/pages/page_087.png",
+    "verifier": "claude_vision_2026_05_09",
+    "confidence": "high"
+  }
+}

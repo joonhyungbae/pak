@@ -1,0 +1,21 @@
+{
+  "annotator": "clova",
+  "display_name": "HyperCLOVA X HCX-007",
+  "provider": "NAVER Cloud",
+  "model": "HyperCLOVA X HCX-007",
+  "api": "NAVER Cloud CLOVA Studio Chat Completions v3",
+  "source_path": "judges/clova/scores.json",
+  "source_note": "Clean release package. Original raw run folder removed after consolidation.",
+  "n_personas": 1000,
+  "dimensions": [
+    "groundedness",
+    "coherence",
+    "plausibility",
+    "fluency"
+  ],
+  "files": {
+    "scores_wide": "scores.json",
+    "scores_long": "scores_long.jsonl",
+    "overall_flags": "overall_flags.jsonl"
+  }
+}

@@ -1,0 +1,5 @@
+pak_uuid,order_index,dimension,old_score,new_score,decision_source,rationale
+42a9db2a-9a4a-4372-82cb-0424d46313ab,585,coherence,4,1,human_manual_review_260521,"58-year-old singer with career_years=0 is described with established recital, chamber-music, commissioned-concerto, and orchestra-collaboration activity; impossible internal coherence failure."
+eb18e03a-08fc-41de-8861-cb385b041b23,92,fluency,5,3,human_manual_review_260521,"Mechanical phrasing and awkward construction lower fluency substantially."
+eb483888-7418-42c3-916e-9f5bfd4ea576,886,groundedness,4,2,human_manual_review_260521,"has_contract_experience=false directly conflicts with the narrative phrase 'indie label contract'."
+eb18e03a-08fc-41de-8861-cb385b041b23,92,plausibility,4,3,human_manual_review_260521,"Age 26 with 11 years of career history and recent orchestra-member activity is plausible but too compressed for a 4."

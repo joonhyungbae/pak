@@ -1,0 +1,10 @@
+{# creative_world_persona — fallback #}
+{{ art_field_primary }} 분야의 {{ sex }} {{ age }}세 ({{ career_band }}) 예술인의 작품세계 / 예술관 / 미학적 지향을 150-300자로 묘사하세요.
+
+[고려]
+- {{ career_band }} 단계 예술인의 시각: {% if career_band == "10년 미만" %}신진의 탐색과 형성{% elif career_band == "40년 이상" %}원로의 회고와 정리{% else %}중견의 심화와 확장{% endif %}
+- 영향받은 사조나 흐름 (실명 비인용, 추상적 표현)
+- 무엇을 추구하고 무엇을 회피하는가
+
+다양성 시드: {{ seed_word | default("기억") }} — 작품관 한 곳에 자연스럽게 반영.
+3인칭 서술. 클리셰 금지.

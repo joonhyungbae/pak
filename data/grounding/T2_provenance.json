@@ -1,0 +1,79 @@
+{
+  "table_id": "T2",
+  "title": "분야 × 17개 시도 + 기타 (모집단)",
+  "source": {
+    "pdf_path": "data/source/2024년 예술인 실태조사통계보고서.pdf",
+    "pdf_sha256": "2e25bc0773779d35691e41160345b6c95ffe8bdd5af40697935b7317982dc7f7",
+    "source_table_id_in_report": "표 1-3",
+    "pages": [
+      19
+    ],
+    "page_image_paths": {
+      "19": "data/pages/page_019.png"
+    }
+  },
+  "extractions": [
+    {
+      "method": "camelot:lattice idx=0,1 (좌/우 결합)"
+    }
+  ],
+  "verification": {
+    "method": "automatic_aggregate",
+    "n_rows": 250,
+    "fields_covered": 14,
+    "verifier": "automatic",
+    "timestamp": "2026-05-02T01:05:09+09:00",
+    "computed_grand_total": 334036,
+    "expected_grand_total": 334036,
+    "passed": true,
+    "passed_within_5pct": true,
+    "confidence": "high"
+  },
+  "post_processing": [],
+  "visual_verification": {
+    "verifier": "claude_vision_2026_05_09",
+    "verified_at": "2026-05-09T19:15:59+09:00",
+    "page_image": "data/pages/page_019.png",
+    "method": "spot-check 9 cells + grand total 334,036 exact match",
+    "all_passed": true,
+    "confidence": "high",
+    "spot_checks": [
+      {
+        "cell": "문학/서울",
+        "expected": 5131
+      },
+      {
+        "cell": "문학/경기",
+        "expected": 6091
+      },
+      {
+        "cell": "미술/서울",
+        "expected": 19435
+      },
+      {
+        "cell": "국악/전남",
+        "expected": 806
+      },
+      {
+        "cell": "국악/경북",
+        "expected": 1145
+      },
+      {
+        "cell": "대중음악/서울",
+        "expected": 24870
+      },
+      {
+        "cell": "만화/서울",
+        "expected": 1109
+      },
+      {
+        "cell": "만화/기타",
+        "expected": 99
+      },
+      {
+        "cell": "문학/기타",
+        "expected": 1669
+      }
+    ]
+  }
+}

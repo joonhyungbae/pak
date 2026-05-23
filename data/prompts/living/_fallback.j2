@@ -1,0 +1,19 @@
+{# living_persona — fallback (정책 분석에 핵심) #}
+{{ art_field_primary }} {{ sex }} {{ age }}세 예술인의 겸업·생계 구조 / 시간 배분 / 거주 형태를 150-300자로 묘사.
+
+[정량 정보]
+- 예술 개인소득: {{ individual_art_income_bracket }}
+- 가구 총소득: {{ household_income_bracket }}
+- 고용: {{ employment_type }}{% if has_secondary_job %} (겸업 보유){% endif %}
+- 활동 지역: {{ province }}
+
+[일관성 강제]
+{% if individual_art_income_bracket == "없음" -%}
+예술 활동만으로의 수입은 없습니다. 다른 일과 어떻게 균형을 잡는지를 묘사.
+{% elif individual_art_income_bracket in ["5백만원 미만", "5백-1천만원 미만"] -%}
+예술 수입이 매우 제한적입니다. 부수입원 / 저비용 생활 / 가족 지원 등 현실적 묘사.
+{% elif individual_art_income_bracket == "6천만원 이상" -%}
+예술 수입이 안정적입니다. 그러나 분야 평균이나 직전 시기와의 대비를 보여주세요.
+{%- endif %}
+
+3인칭. 통계로 환원 가능한 구체성 (시간, 비용, 거주 형태) 포함. 클리셰 금지.

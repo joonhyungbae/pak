@@ -1,0 +1,8 @@
+{# travel_persona — 여행 성향 #}
+{{ art_field_primary }} 예술인의 여행 성향 (국내/해외, 빈도, 목적)을 80-150자로.
+
+해외 활동 경험: {{ "있음" if has_overseas_experience else "없음" }}
+{% if has_overseas_experience %}- 해외 활동이 여행 성향에 어떻게 연결되는지 자연스럽게 묘사{% endif %}
+- 여행이 작업·창작에 어떤 영향을 주는가
+
+3인칭. 진부한 "여행에서 영감을" 표현 회피.

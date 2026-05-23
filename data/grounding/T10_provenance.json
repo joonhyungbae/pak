@@ -1,0 +1,71 @@
+{
+  "table_id": "T10",
+  "title": "연령 4구간 × 예술창작활동 수입 9구간 (응답자)",
+  "source": {
+    "pdf_path": "data/source/2024년 예술인 실태조사통계보고서.pdf",
+    "pdf_sha256": "2e25bc0773779d35691e41160345b6c95ffe8bdd5af40697935b7317982dc7f7",
+    "source_table_id_in_report": "표 3-34 (연령 sub-block)",
+    "pages": [
+      87
+    ],
+    "page_image_paths": {
+      "87": "data/pages/page_087.png"
+    }
+  },
+  "extractions": [
+    {
+      "method": "pdfplumber text parse (age4 sub-block row regex)"
+    }
+  ],
+  "verification": {
+    "method": "pdfplumber_text_row_sum_check",
+    "n_rows": 36,
+    "fields_covered": null,
+    "verifier": "automatic",
+    "timestamp": "2026-05-09T21:20:17+09:00",
+    "computed_grand_total": 5048,
+    "expected_grand_total": 5047,
+    "passed_within_5pct": true,
+    "probability_row_sum_target": 1.0,
+    "max_probability_row_sum_abs_diff": 0.0020000000000000018,
+    "row_sum_target_pct": 100.0,
+    "row_sum_tolerance_pct": 0.5,
+    "confidence": "high"
+  },
+  "post_processing": [],
+  "normalization": {
+    "transformation": "P(income_bracket | age_group_4) × case_count_age → implied_count",
+    "source_integrity": "All probabilities come from report cells in the age sub-block; counts are case_count × reported_pct rounded to the nearest integer."
+  },
+  "age_group_definition": {
+    "30대 이하": "10대 + 20대 + 30대 (보고서 4분류)",
+    "40대": "40대",
+    "50대": "50대",
+    "60세 이상": "60대 + 70대 이상",
+    "note": "4구간을 7구간으로 역분해하는 가정은 도입하지 않음."
+  },
+  "visual_verification": {
+    "method": "claude_code_extraction (post-merge review pending)",
+    "page_image": "data/pages/page_087.png",
+    "cell_spot_checks": [
+      {
+        "age_group_4": "30대 이하",
+        "income_bracket": "없음",
+        "expected_pct": 21.8,
+        "extracted_pct": 21.8,
+        "abs_diff_pct_point": 0.0,
+        "passed": true
+      },
+      {
+        "age_group_4": "60세 이상",
+        "income_bracket": "없음",
+        "expected_pct": 51.3,
+        "extracted_pct": 51.3,
+        "abs_diff_pct_point": 0.0,
+        "passed": true
+      }
+    ],
+    "all_passed": true,
+    "confidence": "high"
+  }
+}
